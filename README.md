@@ -1,6 +1,8 @@
 # Database-For-Administrative-Division-Of-Poland
 
-In this repository, you will find an SQL script and CSV files for creating database of administrative division of Poland. This database was made for https://github.com/KuchnowskiP/AdministrativeDivisionOfPoland.
+In this repository, you will find an SQL script and CSV files for creating database of administrative division of Poland. This database was made for Administrative Division of Poland project. 
+* Front-end: https://github.com/KuchnowskiP/AdministrativeDivisionOfPoland
+* Back-end: https://github.com/LUKIS123/BD2-PWR-AdministrativeDivisionOfPoland
 
 ## Instruction
 * Download script and data folder.
