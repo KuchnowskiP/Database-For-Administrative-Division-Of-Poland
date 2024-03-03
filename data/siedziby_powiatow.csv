@@ -1,0 +1,380 @@
+1;1;Bolesławiec;2478
+2;2;Dzierżoniów;2479
+3;3;Głogów;2480
+4;4;Góra;2481
+5;5;Jawor;2482
+6;6;Jelenia Góra;2483
+7;7;Kamienna Góra;2484
+8;8;Jelenia Góra;2485
+9;9;Kłodzko;2486
+10;10;Legnica;2487
+11;11;Legnica;2488
+12;12;Lubań;2489
+13;13;Lubin;2490
+14;14;Lwówek Śląski;2491
+15;15;Milicz;2492
+16;16;Oleśnica;2493
+17;17;Oława;2494
+18;18;Polkowice;2495
+19;19;Strzelin;2496
+20;20;Środa Śląska;2497
+21;21;Świdnica;2498
+22;22;Trzebnica;2499
+23;23;Wałbrzych;2500
+24;24;Wałbrzych;2501
+25;25;Wołów;2502
+26;26;Wrocław;2503
+27;27;Wrocław;2504
+28;28;Ząbkowice Śl.;2505
+29;29;Zgorzelec;2506
+30;30;Złotoryja;2507
+31;31;Aleksandrów Kujawski;2508
+32;32;Brodnica;2509
+33;33;Bydgoszcz;2510
+34;34;Bydgoszcz;2511
+35;35;Chełmno;2512
+36;36;Golub - Dobrzyń;2513
+37;37;Grudziądz;2514
+38;38;Grudziądz;2515
+39;39;Inowrocław;2516
+40;40;Lipno;2517
+41;41;Mogilno;2518
+42;42;Nakło nad Notecią;2519
+43;43;Radziejów;2520
+44;44;Rypin;2521
+45;45;Sępólno Krajeńskie;2522
+46;46;Świecie;2523
+47;47;Toruń;2524
+48;48;Toruń;2525
+49;49;Tuchola;2526
+50;50;Wąbrzeźno;2527
+51;51;Włocławek;2528
+52;52;Włocławek;2529
+53;53;Żnin;2530
+54;54;Biała Podlaska;2531
+55;55;Biała Podlaska;2532
+56;56;Biłgoraj;2533
+57;57;Chełm;2534
+58;58;Chełm;2535
+59;59;Hrubieszów;2536
+60;60;Janów Lubelski;2537
+61;61;Krasnystaw;2538
+62;62;Kraśnik;2539
+63;63;Lubartów;2540
+64;64;Lublin;2541
+65;65;Lublin;2542
+66;66;Łęczna;2543
+67;67;Łuków;2544
+68;68;Opole Lubelskie;2545
+69;69;Parczew;2546
+70;70;Puławy;2547
+71;71;Radzyń Podlaski;2548
+72;72;Ryki;2549
+73;73;Świdnik;2550
+74;74;Tomaszów Lubelski;2551
+75;75;Włodawa;2552
+76;76;Zamość;2553
+77;77;Zamość;2554
+78;78;Gorzów Wlkp.;2555
+79;79;Gorzów Wielkopolski;2556
+80;80;Krosno Odrzańskie;2557
+81;81;Międzyrzecz;2558
+82;82;Nowa Sól;2559
+83;83;Słubice;2560
+84;84;Strzelce Krajeńskie;2561
+85;85;Sulęcin;2562
+86;86;Świebodzin;2563
+87;87;Wschowa;2564
+88;88;Zielona Góra;2565
+89;89;Zielona Góra;2566
+90;90;Żagań;2567
+91;91;Żary;2568
+92;92;Bełchatów;2569
+93;93;Brzeziny;2570
+94;94;Kutno;2571
+95;95;Łask;2572
+96;96;Łęczyca;2573
+97;97;Łowicz;2574
+98;98;Łodź;2575
+99;99;Łódź;2576
+100;100;Opoczno;2577
+101;101;Pabianice;2578
+102;102;Pajęczno;2579
+103;103;Piotrków Trybunalski;2580
+104;104;Piotrków Trybunalski;2581
+105;105;Poddębice;2582
+106;106;Radomsko;2583
+107;107;Rawa Mazowiecka;2584
+108;108;Sieradz;2585
+109;109;Skierniewice;2586
+110;110;Skierniewice;2587
+111;111;Tomaszów Mazowiecki;2588
+112;112;Wieluń;2589
+113;113;Wieruszów;2590
+114;114;Zduńska Wola;2591
+115;115;Zgierz;2592
+116;116;Bochnia;2593
+117;117;Brzesko;2594
+118;118;Chrzanów;2595
+119;119;Dąbrowa Tarnowska;2596
+120;120;Gorlice;2597
+121;121;Kraków;2598
+122;122;Kraków;2599
+123;123;Limanowa;2600
+124;124;Miechów;2601
+125;125;Myślenice;2602
+126;126;Nowy Sącz;2603
+127;127;Nowy Targ;2604
+128;128;Nowy Sącz;2605
+129;129;Olkusz;2606
+130;130;Oświęcim;2607
+131;131;Proszowice;2608
+132;132;Sucha Beskidzka;2609
+133;133;Tarnów;2610
+134;134;Tarnów;2611
+135;135;Zakopane;2612
+136;136;Wadowice;2613
+137;137;Wieliczka;2614
+138;138;Białobrzegi;2615
+139;139;Ciechanów;2616
+140;140;Garwolin;2617
+141;141;Gostynin;2618
+142;142;Grodzisk Mazowiecki;2619
+143;143;Grójec;2620
+144;144;Kozienice;2621
+145;145;Legionowo;2622
+146;146;Lipsko;2623
+147;147;Łosice;2624
+148;148;Maków Mazowiecki;2625
+149;149;Mińsk Mazowiecki;2626
+150;150;Mława;2627
+151;151;Nowy Dwór Mazowiecki;2628
+152;152;Ostrołęka;2629
+153;153;Ostrołęka;2630
+154;154;Ostrów Mazowiecka;2631
+155;155;Otwock;2632
+156;156;Piaseczno;2633
+157;157;Płock;2634
+158;158;Płock;2635
+159;159;Płońsk;2636
+160;160;Pruszków;2637
+161;161;Przasnysz;2638
+162;162;Przysucha;2639
+163;163;Pułtusk;2640
+164;164;Radom;2641
+165;165;Radom;2642
+166;166;Siedlce;2643
+167;167;Siedlce;2644
+168;168;Sierpc;2645
+169;169;Sochaczew;2646
+170;170;Sokołów Podlaski;2647
+171;171;Szydłowiec;2648
+172;172;Warszawa;2649
+173;173;Ożarów Mazowiecki;2650
+174;174;Węgrów;2651
+175;175;Wołomin;2652
+176;176;Wyszków;2653
+177;177;Zwoleń;2654
+178;178;Żuromin;2655
+179;179;Żyrardów;2656
+180;180;Brzeg;2657
+181;181;Głubczyce;2658
+182;182;Kędzierzyn Koźle;2659
+183;183;Kluczbork;2660
+184;184;Krapkowice;2661
+185;185;Namysłów;2662
+186;186;Nysa;2663
+187;187;Olesno;2664
+188;188;Opole;2665
+189;189;Opole;2666
+190;190;Prudnik;2667
+191;191;Strzelce Opolskie;2668
+192;192;Ustrzyki Dolne;2669
+193;193;Brzozów;2670
+194;194;Dębica;2671
+195;195;Jarosław;2672
+196;196;Jasło;2673
+197;197;Kolbuszowa;2674
+198;198;Krosno;2675
+199;199;Krosno;2676
+200;200;Lesko;2677
+201;201;Leżajsk;2678
+202;202;Lubaczów;2679
+203;203;Łańcut;2680
+204;204;Mielec;2681
+205;205;Nisko;2682
+206;206;Przemyśl;2683
+207;207;Przemyśl;2684
+208;208;Przeworsk;2685
+209;209;Ropczyce;2686
+210;210;Rzeszów;2687
+211;211;Rzeszów;2688
+212;212;Sanok;2689
+213;213;Stalowa Wola;2690
+214;214;Strzyżów;2691
+215;215;Tarnobrzeg;2692
+216;216;Tarnobrzeg;2693
+217;217;Augustów;2694
+218;218;Białystok;2695
+219;219;Białystok;2696
+220;220;Bielsk Podlaski;2697
+221;221;Grajewo;2698
+222;222;Hajnówka;2699
+223;223;Kolno;2700
+224;224;Łomża;2701
+225;225;Łomża;2702
+226;226;Mońki;2703
+227;227;Sejny;2704
+228;228;Siemiatycze;2705
+229;229;Sokółka;2706
+230;230;Suwałki;2707
+231;231;Suwałki;2708
+232;232;Wysokie Mazowieckie;2709
+233;233;Zambrów;2710
+234;234;Bytów;2711
+235;235;Chojnice;2712
+236;236;Człuchów;2713
+237;237;Gdańsk;2714
+238;238;Pruszcz Gdański;2715
+239;239;Gdynia;2716
+240;240;Kartuzy;2717
+241;241;Kościerzyna;2718
+242;242;Kwidzyn;2719
+243;243;Lębork;2720
+244;244;Malbork;2721
+245;245;Nowy Dwór Gdański;2722
+246;246;Puck;2723
+247;247;Słupsk;2724
+248;248;Słupsk;2725
+249;249;Sopot;2726
+250;250;Starogard Gdański;2727
+251;251;Sztum;2728
+252;252;Tczew;2729
+253;253;Wejherowo;2730
+254;254;Będzin;2731
+255;255;Bielsko-Biała;2732
+256;256;Bielsko-Biała;2733
+257;257;Bieruń;2734
+258;258;Bytom;2735
+259;259;Chorzów;2736
+260;260;Cieszyn;2737
+261;261;Częstochowa;2738
+262;262;Częstochowa;2739
+263;263;Dąbrowa Górnicza;2740
+264;264;Gliwice;2741
+265;265;Gliwice;2742
+266;266;Jastrzębie-Zdrój;2743
+267;267;Jaworzno;2744
+268;268;Katowice;2745
+269;269;Kłobuck;2746
+270;270;Lubliniec;2747
+271;271;Mikołów;2748
+272;272;Mysłowice;2749
+273;273;Myszków;2750
+274;274;Piekary Śląskie;2751
+275;275;Pszczyna;2752
+276;276;Racibórz;2753
+277;277;Ruda Śląska;2754
+278;278;Rybnik;2755
+279;279;Rybnik;2756
+280;280;Siemianowice Śląskie;2757
+281;281;Sosnowiec;2758
+282;282;Świętochłowice;2759
+283;283;Tarnowskie Góry;2760
+284;284;Tychy;2761
+285;285;Wodzisław Śląski;2762
+286;286;Zabrze;2763
+287;287;Zawiercie;2764
+288;288;Żory;2765
+289;289;Żywiec;2766
+290;290;Busko-Zdrój;2767
+291;291;Jedrzejów;2768
+292;292;Kazimierza Wielka;2769
+293;293;Kielce;2770
+294;294;Kielce;2771
+295;295;Końskie;2772
+296;296;Opatów;2773
+297;297;Ostrowiec Świętokrzyski;2774
+298;298;Pińczów;2775
+299;299;Sandomierz;2776
+300;300;Skarżysko – Kamienna;2777
+301;301;Starachowice;2778
+302;302;Staszów;2779
+303;303;Włoszczowa;2780
+304;304;Bartoszyce;2781
+305;305;Braniewo;2782
+306;306;Działdowo;2783
+307;307;Elbląg;2784
+308;308;Ełk;2785
+309;309;Giżycko;2786
+310;310;Gołdap;2787
+311;311;Iława;2788
+312;312;Kętrzyn;2789
+313;313;Lidzbark Warmiński;2790
+314;314;Mrągowo;2791
+315;315;Nidzica;2792
+316;316;Nowe Miasto Lubawskie;2793
+317;317;Olecko;2794
+318;318;Olsztyn;2795
+319;319;Olsztyn;2796
+320;320;Ostróda;2797
+321;321;Pisz;2798
+322;322;Szczytno;2799
+323;323;Węgorzewo;2800
+324;324;Elbląg;2801
+325;325;Chodzież;2802
+326;326;Czarnków;2803
+327;327;Gniezno;2804
+328;328;Gostyń;2805
+329;329;Grodzisk Wielkopolski;2806
+330;330;Jarocin;2807
+331;331;Kalisz;2808
+332;332;Kalisz;2809
+333;333;Kępno;2810
+334;334;Konin;2811
+335;335;Konin;2812
+336;336;Kościan;2813
+337;337;Krotoszyn;2814
+338;338;Leszno;2815
+339;339;Leszno;2816
+340;340;Międzychód;2817
+341;341;Nowy Tomyśl;2818
+342;342;Oborniki;2819
+343;343;Ostrów Wielkopolski;2820
+344;344;Ostrzeszów;2821
+345;345;Piła;2822
+346;346;Pleszew;2823
+347;347;Poznań;2824
+348;348;Poznań;2825
+349;349;Rawicz;2826
+350;350;Słupca;2827
+351;351;Szamotuły;2828
+352;352;Środa Wielkopolska;2829
+353;353;Śrem;2830
+354;354;Turek;2831
+355;355;Wągrowiec;2832
+356;356;Wolsztyn;2833
+357;357;Września;2834
+358;358;Złotów;2835
+359;359;Koło;2836
+360;360;Białograd;2837
+361;361;Choszczno;2838
+362;362;Drawsko Pomorskie;2839
+363;363;Goleniów;2840
+364;364;Gryfice;2841
+365;365;Gryfino;2842
+366;366;Kamień Pomorski;2843
+367;367;Kołobrzeg;2844
+368;368;Koszalin;2845
+369;369;Koszalin;2846
+370;370;Łobez;2847
+371;371;Myślibórz;2848
+372;372;Police;2849
+373;373;Pyrzyce;2850
+374;374;Sławno;2851
+375;375;Stargard;2852
+376;376;Szczecin;2853
+377;377;Szczecinek;2854
+378;378;Świdwin;2855
+379;379;Świnoujście;2856
+380;380;Wałcz;2857

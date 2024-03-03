@@ -1,0 +1,2885 @@
+793;32-733;Trzciana;Trzciana;302;\N
+794;32-731;Żegocina;Żegocina;316;\N
+809;33-260;Gręboszów;Gręboszów;144;\N
+819;38-322;Łużna;Łużna;634;\N
+846;34-602;Laskowa;Laskowa;643;\N
+848;34-606;Łukowica;Łukowica;334;\N
+858;32-222;Racławice;Racławice;15;\N
+867;32-436;Tokarnia;Tokarnia;380;\N
+876;33-336;Łabowa;Łabowa;38;\N
+897;34-745;Spytkowice;Spytkowice;26;\N
+919;32-107;Radziemice;Radziemice;74;\N
+923;34-235;Bystra Podhalańska;Bystra Podhalańska;373;\N
+927;34-222;Zawoja;Zawoja;1307;\N
+928;34-210;Zembrzyce;Zembrzyce;540;\N
+935;33-163;Rzepiennik Strzyżewski;Rzepiennik Strzyżewski;400;\N
+939;33-122;Wierzchosławice;Wierzchosławice;550;\N
+943;38-246;Szerzyny;Szerzyny;521;\N
+953;34-106;Mucharz;Mucharz;226;\N
+955;34-146;Stryszów;Stryszów;149;\N
+825;32-125;Wawrzeńczyce;Wawrzeńczyce;57;\N
+851;34-615;Słopnice;Słopnice;911;\N
+852;34-650;Tymbark;Tymbark;49;\N
+873;33-334;Kamionka Wielka;Kamionka Wielka;5;\N
+936;33-156;Skrzyszów;Skrzyszów;642;\N
+164;59-516;Zagrodno;Zagrodno;52;\N
+70;59-816;Platerówka;Platerówka;20;\N
+788;32-709;Drwinia;Drwinia;57;\N
+713;96-214;Cielądz;Cielądz;59;\N
+162;59-524;Pielgrzymka;Pielgrzymka;109A;1
+573;66-225;Szczaniec;Szczaniec;73;\N
+590;67-312;Niegosławice;Niegosławice;55;\N
+646;99-414;Kocierzew;Kocierzew;83;\N
+789;32-724;Lipnica Murowana;Lipnica Murowana;44;\N
+795;32-825;Borzęcin;Borzęcin;583G;\N
+798;32-852;Dębno;Dębno;240;\N
+799;32-864;Gnojnik;Gnojnik;363;\N
+800;32-861;Iwkowa;Iwkowa;468;\N
+810;33-221;Mędrzechów;Mędrzechów;434;\N
+821;38-312;Ropa;Ropa;733;\N
+843;34-642;Dobra;Dobra;233;\N
+845;34-608;Kamienica;Kamienica;420;\N
+854;32-075;Gołcza;Gołcza;80;\N
+861;32-433;Lubień;Lubień;50;\N
+863;32-432;Pcim;Pcim;563;\N
+864;32-415;Raciechowice;Raciechowice;277;\N
+868;32-412;Wiśniowa;Wiśniowa;441;\N
+874;33-322;Korzenna;Korzenna;325;\N
+882;33-386;Podegrodzie;Podegrodzie;248;\N
+895;34-721;Raba Wyżna;Raba Wyżna;41;\N
+922;34-211;Budzów;Budzów;445;\N
+932;33-171;Pleśna;Pleśna;240;\N
+940;33-270;Wietrzychowice;Wietrzychowice;19;\N
+959;32-020;Wieliczka;Wieliczka;455;\N
+961;32-015;Kłaj;Kłaj;655;\N
+1426;39-305;Borowa;Borowa;223;\N
+1473;36-053;Kamień;Kamień;287;\N
+1765;43-385;Jasienica;Jasienica;159;\N
+1779;43-470;Istebna;Istebna;1000;\N
+1878;42-446;Irządze;Irządze;124;\N
+1890;34-332;Koszarawa;Koszarawa;17;\N
+652;95-006;Brójce;Brójce;39;\N
+1940;28-520;Opatowiec;Rynek;3;\N
+1937;28-512;Bejsce;Bejsce;252;\N
+1015;05-652;Pniewy;Pniewy;2;\N
+2044;82-325;Markusy;Markusy;82;\N
+2478;59-700;Bolesławiec;Armii Krajowej;12;\N
+2479;58-200;Dzierżoniów;Rynek;27;\N
+2480;67-200;Głogów;ul. Sikorskiego;21;\N
+2481;56-200;Góra;ul. Mickiewicza;1;\N
+2482;59-400;Jawor;ul. Wrocławska;26;\N
+2483;58-500;Jelenia Góra;Pl. Ratuszowy;58;\N
+2484;58-400;Kamienna Góra;ul. Broniewskiego;15;\N
+2485;58-500;Jelenia Góra;ul. Kochanowskiego;10;\N
+2486;57-300;Kłodzko;ul. Okrzei;1;\N
+2487;59-220;Legnica;Plac Słowiański;8;\N
+2488;59-220;Legnica;Pl. Słowiański;1;\N
+2489;59-800;Lubań;ul. Mickiewicza;2;\N
+2490;59-300;Lubin;ul. Jana Kilińskiego;12b;\N
+2491;59-600;Lwówek Śląski;Szpitalna;4;\N
+2492;56-300;Milicz;ul. Wojska Polskiego;38;\N
+2493;56-400;Oleśnica;ul. Słowackiego;10;\N
+2494;55-200;Oława;ul. 3 Maja;1;\N
+2495;59-100;Polkowice;ul. Św. Sebastiana;1;\N
+2496;57-100;Strzelin;ul. Kamienna;10;\N
+2497;55-300;Środa Śląska;ul. Wrocławska;2;\N
+67;59-820;Leśna;Rynek;19;\N
+2498;58-100;Świdnica;ul. M. Skłodowskiej-Curie;7;\N
+2499;55-100;Trzebnica;ul. Ks. Bochenka;6;\N
+2500;58-300;Wałbrzych;pl. Magistracki;1;\N
+2501;58-300;Wałbrzych;Al. Wyzwolenia;20,22,22a,24;\N
+2502;56-100;Wołów;Pl.Piastowski;2;\N
+2503;50-141;Wrocław;pl. Nowy Targ;01.sie;\N
+2504;50-440;Wrocław;ul.T.Kościuszki;131;\N
+2505;57-200;Ząbkowice Śl.;ul. Henryka Sienkiewicza;11;\N
+2506;59-900;Zgorzelec;ul. Bohaterów II Armii WP;8a;\N
+2507;59-500;Złotoryja;Pl. Niepodległości;8;\N
+2508;87-700;Aleksandrów Kujawski;ul. Słowackiego;8;\N
+2509;87-300;Brodnica;ul.Kamionka;18;\N
+2510;85-066;Bydgoszcz;ul. S. Konarskiego;01.mar;\N
+2511;85-102;Bydgoszcz;ul. Jezuicka;1;\N
+2512;86-200;Chełmno;ul. Kolejowa;1;\N
+2513;87-400;Golub - Dobrzyń;Pl. Tysiąclecia;25;\N
+2514;86-300;Grudziądz;ul. Ratuszowa;1;\N
+2515;86-300;Grudziądz;ul. Małomłyńska;1;\N
+2516;88-100;Inowrocław;ul. Mątewska;17;\N
+2517;87-600;Lipno;ul.Sierakowskiego;10 b;\N
+2518;88-300;Mogilno;ul. Narutowicza;1;\N
+2519;89-100;Nakło nad Notecią;ul. Dąbrowskiego;54;\N
+2520;88-200;Radziejów;ul. T. Kościuszki;17;\N
+2521;87-500;Rypin;ul. Warszawska;38;\N
+2522;89-400;Sępólno Krajeńskie;ul. Kościuszki;11;\N
+2523;86-100;Świecie;ul. Gen.Józefa Hallera;9;\N
+2524;87-100;Toruń;ul. Wały gen. Sikorskiego;8;\N
+2525;87-100;Toruń;ul. Towarowa;4;6
+2526;89-500;Tuchola;ul. Pocztowa;7;\N
+2527;87-200;Wąbrzeźno;ul. Wolności;44;\N
+2528;87-800;Włocławek;ul. Zielony Rynek;11;13
+2529;87-800;Włocławek;ul. Cyganka;28;\N
+2530;88-400;Żnin;ul. Potockiego;1;\N
+2531;21-500;Biała Podlaska;ul. Brzeska;41;\N
+2532;21-500;Biała Podlaska;ul. Marszałka Józefa Piłsudskiego;3;\N
+2533;23-400;Biłgoraj;ul. T. Kościuszki;94;\N
+2534;22-100;Chełm;ul. Lubelska;65;\N
+2535;22-100;Chełm;pl. Niepodległości;1;\N
+2536;22-500;Hrubieszów;ul. Narutowicza;34;\N
+2537;23-300;Janów Lubelski;ul. Zamoyskiego;59;\N
+2538;22-300;Krasnystaw;ul. Sobieskiego;3;\N
+2539;23-204;Kraśnik;Al. Niepodległości;20;\N
+2540;21-100;Lubartów;ul. Słowackiego;8;\N
+2541;20-074;Lublin;ul. Spokojna;9;\N
+2542;20-109;Lublin;Plac Króla Władysława Łokietka;1;\N
+2543;21-010;Łęczna;Al.Jana Pawła II;95a;\N
+2544;21-400;Łuków;ul. Piłsudskiego;17;\N
+1;59-700;Bolesławiec;Rynek-Ratusz;41;\N
+2;59-700;Bolesławiec;ul.Teatralna;1a;\N
+3;59-706;Gromadka;ul. gen. Wł. Sikorskiego;9;\N
+4;59-730;Nowogrodziec;Rynek;1;\N
+5;59-724;Osiecznica;ul. Lubańska;43;\N
+6;59-720;Warta Bolesławiecka;Warta Bolesławiecka;40c;\N
+7;58-260;Bielawa;pl. Wolności;1;\N
+8;58-200;Dzierżoniów;ul. Rynek;1;\N
+9;58-250;Pieszyce;ul.Kościuszki;2;\N
+10;58-240;Piława Górna;ul. Piastowska;69;\N
+11;58-200;Dzierżoniów;ul. Piastowska;1;\N
+12;58-210;Łagiewniki;ul. Jedności Narodowej;21;\N
+13;58-230;Niemcza;Rynek;10;\N
+14;67-200;Głogów;Rynek;10;\N
+15;67-200;Głogów;ul. Piaskowa;1;\N
+16;67-222;Jerzmanowa;ul. Lipowa;4;\N
+17;67-240;Kotla;ul. Głogowska;93;\N
+18;67-221;Białołęka;Pęcław;28;\N
+19;67-231;Żukowice;Żukowice;148;\N
+20;56-200;Góra;ul. Adama Mickiewicza;1;\N
+21;56-209;Jemielno;Jemielno;81;\N
+22;56-215;Niechlów;ul. Głogowska;31;\N
+23;56-210;Wąsosz;Plac. Wolności;17;\N
+24;59-400;Jawor;Rynek;1;\N
+25;59-420;Bolków;Rynek;1;\N
+26;59-424;Męcinka;Męcinka;11;\N
+27;59-407;Mściwojów;Mściwojów;43;\N
+28;59-411;Paszowice;Paszowice;137;\N
+29;59-430;Wądroże Wielkie;Wądroże Wielkie;64;\N
+30;58-540;Karpacz;ul. Konstytucji 3 Maja;54;\N
+31;58-530;Kowary;ul.1 Maja;1a;\N
+32;58-573;Piechowice;ul. Kryształowa;49;\N
+33;58-580;Szklarska Poręba;ul. Granitowa;2;\N
+34;58-520;Janowice Wielkie;ul. Kolejowa;2;\N
+35;58-521;Jeżów Sudecki;ul. Długa;63;\N
+36;58-533;Mysłakowice;ul. Szkolna;5;\N
+37;58-562;Podgórzyn;ul. Żołnierska;14;\N
+38;58-512;Stara Kamienica;Stara Kamienica;41;\N
+39;58-400;Kamienna Góra;PL. Grunwaldzki;1;\N
+40;58-400;Kamienna Góra;Al. Wojska Polskiego;10;\N
+41;58-420;Lubawka;Plac Wolności;1;\N
+42;58-410;Marciszów;ul. Szkolna;6;\N
+43;57-340;Duszniki Zdrój;ul. Rynek;6;\N
+44;57-300;Kłodzko;pl. Bolesława Chrobrego;1;\N
+45;57-350;Kudowa-Zdrój;ul. Zdrojowa;24;\N
+46;57-400;Nowa Ruda;Rynek;1;\N
+47;57-320;Polanica-Zdrój;ul. Jarosława Dąbrowskiego;3;\N
+48;57-500;Bystrzyca Kłodzka;Plac Wolności;1;\N
+49;57-300;Kłodzko;ul. Okrzei;8a;\N
+50;57-540;Lądek-Zdrój;ul. Rynek;31;\N
+51;57-343;Lewin Kłodzki;ul. Nad Potokiem;4;\N
+52;57-530;Międzylesie;Pl.Wolności;1;\N
+53;57-400;Nowa Ruda;ul. Niepodległości;2;\N
+54;57-420;Radków;Rynek;1;\N
+55;57-550;Stronie Śląskie;ul. Kościuszki;55;\N
+56;57-330;Szczytna;ul. Wolności;42;\N
+57;59-225;Chojnów;pl. Zamkowy;1;\N
+58;59-225;Chojnów;ul.Fabryczna;1;\N
+59;59-223;Krotoszyce;ul. Piastowska;46;\N
+60;59-216;Kunice;ul. Gwarna;1;\N
+61;59-241;Legnickie Pole;ul. Kiliana Ignacego Dientzenhofera;1;\N
+62;59-222;Miłkowice;ul. Wojska Polskiego;71;\N
+63;59-230;Prochowice;Rynek;1;\N
+64;59-243;Ruja;Ruja;23;\N
+65;59-800;Lubań;ul. 7 Dywizji;14;\N
+66;59-850;Świeradów-Zdrój;ul. 11 Listopada;35;\N
+68;59-800;Lubań;ul. Dąbrowskiego;18;\N
+69;59-830;Olszyna;ul. Wolności;20;\N
+71;59-818;Siekierczyn;Siekierczyn;271;\N
+72;59-300;Lubin;ul. Jana Kilińskiego;10;\N
+73;59-300;Lubin;ul. Księcia Ludwika I;3;\N
+74;59-305;Rudna;Pl. Zwycięstwa;15;\N
+75;59-330;Ścinawa;Rynek;17;\N
+76;59-620;Gryfów Śląski;Rynek;1;\N
+77;59-623;Lubomierz;Plac Wolności;1;\N
+78;59-600;Lwówek Śląski;Al. Wojska Polskiego;25 A;\N
+79;59-630;Mirsk;Plac Wolności;39;\N
+80;59-610;Wleń;Plac Bohaterów Nysy;7;\N
+81;56-330;Cieszków;ul. Grunwaldzka;41;\N
+82;56-320;Krośnice;ul. Sportowa;4;\N
+83;56-300;Milicz;ul. Trzebnicka;2;\N
+84;56-400;Oleśnica;Rynek-Ratusz;;\N
+85;56-420;Bierutów;ul. Moniuszki;12;\N
+86;56-410;Dobroszyce;Rynek;16;\N
+87;56-504;Dziadowa Kłoda;ul. Oleśnicka;1;\N
+88;56-513;Międzybórz;ul. Kolejowa;13;\N
+89;56-400;Oleśnica;ul. 11 Listopada;24;\N
+90;56-500;Syców;ul. Mickiewicza;1;\N
+91;56-416;Twardogóra;ul. Ratuszowa;14;\N
+92;55-200;Oława;pl. Zamkowy;15;\N
+93;55-216;Domaniów;Domaniów;56;\N
+94;55-220;Jelcz-Laskowice;ul. Wincentego Witosa;24;\N
+95;55-200;Oława;pl. Marsz. Józefa Piłsudskiego;28;\N
+96;59-140;Chocianów;ul. Ratuszowa;10;\N
+97;59-180;Gaworzyce;ul. Dworcowa;95;\N
+98;59-150;Grębocice;ul. Głogowska;3;\N
+99;59-100;Polkowice;Rynek;1;\N
+100;59-170;Przemków;Plac Wolności;25;\N
+101;59-160;Radwanice;ul. Przemysłowa;17;\N
+102;57-160;Borów;ul.Konstytucji 3 Maja;22;\N
+103;57-150;Prusy;ul. Nowa;1;\N
+104;57-130;Przeworno;ul. Kolejowa;4A;\N
+105;57-100;Strzelin;ul. Ząbkowicka;11;\N
+106;57-120;Wiązów;Plac Wolności;37;\N
+107;55-311;Kostomłoty;ul. Ślężna;2;\N
+108;55-320;Malczyce;ul. Traugutta;15;\N
+109;55-330;Miękinia;ul. Kościuszki;41;\N
+110;55-300;Środa Śląska;Plac Wolności;5;\N
+111;55-340;Udanin;Kościelna;10;\N
+112;58-100;Świdnica;ul. Armii Krajowej;49;\N
+113;58-160;Świebodzice;ul. Rynek;1;\N
+114;58-170;Dobromierz;Plac Wolności;24;\N
+115;58-140;Jaworzyna Śląska;ul. Powstanców;3;\N
+116;58-124;Marcinowice;ul. J. Tuwima;2;\N
+117;58-150;Strzegom;Rynek;38;\N
+118;58-100;Świdnica;ul. Głowackiego;4;\N
+119;58-130;Żarów;ul. Zamkowa;2;\N
+120;55-120;Oborniki Śląskie;ul. Trzebnicka;1;\N
+121;55-110;Prusice;ul. Rynek;1;\N
+122;55-100;Trzebnica;pl. Marszałka J. Piłsudskiego;1;\N
+123;55-114;Wisznia Mała;ul. Wrocławska;9;\N
+124;55-106;Zawonia;ul. Trzebnicka;11;\N
+125;55-140;Żmigród;Pl.Wojska Polskiego;2;3
+126;58-370;Boguszów-Gorce;Plac Odrodzenia;1;\N
+127;58-330;Jedlina-Zdrój;ul. Poznańska;2;\N
+128;58-310;Szczawno-Zdrój;ul. Tadusza Kościuszki;17;\N
+129;58-379;Czarny Bór;ul. Główna;18;\N
+130;58-340;Głuszyca;ul.Parkowa;9;\N
+131;58-350;Mieroszów;Pl .Niepodległości;1;\N
+132;58-312;Stare Bogaczowice;ul. Główna;132;\N
+133;58-320;Walim;ul. Boczna;9;\N
+134;56-120;Brzeg Dolny;ul. Kolejowa;29;\N
+135;56-160;Wińsko;pl. Wolności;2;\N
+136;56-100;Wołów;Rynek - Ratusz;34;\N
+137;55-003;Czernica;ul. Kolejowa;3;\N
+138;55-095;Mirków;ul. Robotnicza;12;\N
+139;55-065;Jordanów Śląski;ul. Wrocławska;55;\N
+140;55-080;Kąty Wrocławskie;Rynek - Ratusz;1;\N
+141;55-040;Kobierzyce;al. Pałacowa;1;\N
+142;55-081;Mietków;ul. Kolejowa;35;\N
+143;55-050;Sobótka;Rynek;1;\N
+144;55-011;Siechnice;ul. Jana Pawła II;12;\N
+145;55-020;Żórawina;ul. Kolejowa;6;\N
+146;57-256;Bardo;Rynek;2;\N
+147;57-211;Ciepłowody;ul.Kolejowa;3;\N
+148;57-230;Kamieniec Ząbkowicki;ul. Ząbkowicka;26;\N
+149;57-213;Stoszowice;Stoszowice;97;\N
+150;57-200;Ząbkowice Śląskie;ul. 1 Maja;15;\N
+151;57-220;Ziębice;ul. Przemysłowa;10;\N
+152;57-250;Złoty Stok;Rynek;22;\N
+153;59-970;Zawidów;Plac Zwycięstwa;21;22
+154;59-900;Zgorzelec;ul. Domańskiego;7;\N
+155;59-920;Bogatynia;ul. I. Daszyńskiego;1;\N
+156;59-930;Pieńsk;ul. Bolesławiecka;29;\N
+157;59-975;Sulików;ul. Dworcowa;5;\N
+158;59-940;Węgliniec;ul. Sikorskiego;3;\N
+159;59-900;Zgorzelec;ul. Kościuszki;70;\N
+160;59-550;Wojcieszów;ul. Pocztowa;1;\N
+161;59-500;Złotoryja;ul. Plac Orląt Lwowskich;1;\N
+163;59-540;Świerzawa;Plac Wolności;60;\N
+165;59-500;Złotoryja;al. Miła;4;\N
+166;58-500;Jelenia Góra;Pl. Ratuszowy;58;\N
+167;59-220;Legnica;Plac Słowiański;8;\N
+168;50-141;Wrocław;pl. Nowy Targ;01.sie;\N
+169;58-300;Wałbrzych;pl. Magistracki;1;\N
+170;87-700;Aleksandrów Kujawski;ul. Słowackiego;8;\N
+171;87-720;Ciechocinek;ul. Kopernika;19;\N
+172;87-730;Nieszawa;ul. 3-go Maja;2;\N
+173;87-700;Aleksandrów Kujawski;ul. Słowackiego;12;\N
+174;87-704;Bądkowo;ul. Włocławska;82;\N
+175;87-702;Koneck;ul. Włodzimierza Lubańskiego;11;\N
+176;87-721;Raciążek;ul. Wysoka;4;\N
+177;87-731;Waganiec;ul. Dworcowa;11;\N
+178;87-707;Zakrzewo;ul. Leśna;1;\N
+179;87-300;Brodnica;ul. Kamionka;23;\N
+180;87-327;Bobrowo;Bobrowo;27;\N
+181;87-300;Brodnica;ul. Mazurska;13;\N
+182;87-313;Brzozie;Brzozie;50;\N
+183;87-320;Górzno;ul. Rynek;1;\N
+184;87-321;Bartniczka;ul. Brodnicka;8;\N
+185;87-330;Jabłonowo Pomorskie;ul. Główna;28;\N
+186;87-340;Osiek;Osiek;85;\N
+187;87-335;Świedziebnia;Świedziebnia;92A;\N
+188;87-305;Zbiczno;ul. Szosa Brodnicka;53;\N
+189;86-005;Białe Błota;ul. Szubińska;7;\N
+190;86-070;Dąbrowa Chełmińska;ul. Bydgoska;21;\N
+191;86-022;Dobrcz;ul. Długa;50;\N
+192;86-010;Koronowo;Plac Zwycięstwa;1;\N
+193;86-060;Nowa Wieś Wielka;ul. Ogrodowa;2;\N
+194;86-031;Osielsko;Szosa Gdańska;55A;\N
+195;86-014;Sicienko;ul. Mrotecka;9;\N
+196;86-050;Solec Kujawski;ul. 23 Stycznia;7;\N
+197;86-200;Chełmno;ul. Dworcowa;1;\N
+198;86-200;Chełmno;ul. Dworcowa;5;\N
+199;86-253;Kijewo Królewskie;Toruńska;2;\N
+200;86-230;Lisewo;ul. Chełmińska;2;\N
+201;86-221;Papowo Biskupie;Papowo Biskupie;128;\N
+202;86-212;Stolno;Stolno;112;\N
+203;86-260;Unisław;ul. Parkowa;20;\N
+204;87-400;Golub-Dobrzyń;Plac 1000-lecia;25;\N
+205;87-408;Ciechocin;Ciechocin;172;\N
+206;87-400;Golub-Dobrzyń;Pl. Tysiąclecia;25;\N
+207;87-410;Kowalewo Pomorskie;Konopnickiej;13;\N
+208;87-404;Radomin;Radomin;1a;\N
+209;87-645;Zbójno;Zbójno;178a;\N
+210;86-300;Grudziądz;ul. Wybickiego;38;\N
+211;86-330;Mełno;Gruta;244;\N
+212;86-320;Łasin;ul. Radzyńska;2;\N
+213;87-220;Radzyń Chełmiński;Plac Towarzystwa Jaszczurczego;9;\N
+214;86-318;Rogóźno;Rogóźno;91b;\N
+215;86-341;Świecie Nad Osą;Świecie Nad Osą;1;\N
+216;88-100;Inowrocław;Aleja Ratuszowa;36;\N
+217;88-133;Dąbrowa Biskupia;ul. Topolowa;2;\N
+218;88-140;Gniewkowo;ul. 17 stycznia;11;\N
+219;88-100;Inowrocław;ul. Królowej Jadwigi;43;\N
+220;88-160;Janikowo;ul. Przemysłowa;6;\N
+221;88-150;Kruszwica;ul. Nadgoplańska;4;\N
+222;88-170;Pakość;ul. Rynek;4;\N
+223;88-111;Rojewo;Rojewo;8;\N
+224;88-180;Złotniki Kujawskie;ul. Powstańców Wielkopolskich;6;\N
+225;87-600;Lipno;ul. Plac Dekerta;8;\N
+226;87-617;Bobrowniki;ul. Nieszawska;10;\N
+227;87-602;Chrostkowo;Chrostkowo;99;\N
+228;87-610;Dobrzyń nad Wisłą;ul. Szkolna;1;\N
+229;87-620;Kikół;Plac Kościuszki;7;\N
+230;87-600;Lipno;ul. Mickiewicza;29;\N
+231;87-630;Skępe;ul. Kościelna;2;\N
+232;87-605;Tłuchowo;ul. Sierpecka;20;\N
+233;87-603;Wielgie;ul. Starowiejska;8;\N
+234;88-306;Dąbrowa;ul. Kasztanowa;16;\N
+235;88-324;Jeziora Wielkie;Jeziora Wielkie;36;\N
+236;88-300;Mogilno;ul. Narutowicza;1;\N
+237;88-320;Strzelno;ul. Dr J. Cieślewicza;2;\N
+238;89-240;Kcynia;ul. Rynek;23;\N
+239;89-115;Mrocza;Pl. 1 Maja;20;\N
+240;89-100;Nakło nad Notecią;ul. Ks. P. Skargi;7;\N
+241;89-110;Sadki;ul. Strażacka;11;\N
+242;89-200;Szubin;ul. Kcyńska;12;\N
+243;88-220;Radziejów;ul. Kościuszki;20;22
+244;88-231;Bytoń;Bytoń;72;\N
+245;88-210;Dobre;ul. Dworcowa;6;\N
+246;88-220;Osięciny;ul. Wojska Polskiego;14;\N
+247;87-230;Piotrków Kujawski;ul. Kościelna;1;\N
+248;88-200;Radziejów;ul. Kościuszki;20;22
+249;87-875;Topólka;Topólka;22;\N
+250;87-500;Rypin;ul. Warszawska;40;\N
+251;87-517;Brzuze;Brzuze;62;\N
+252;87-515;Rogowo;Rogowo;51;\N
+253;87-500;Rypin;ul. Lipnowska;4;\N
+254;87-510;Skrwilno;ul. Rypińska;7;\N
+255;87-337;Wąpielsk;Wąpielsk;20;\N
+256;89-430;Kamień Krajeński;Plac Odrodzenia;3;\N
+257;89-400;Sępólno Krajeńskie;ul. T. Kościuszki;11;\N
+258;89-412;Sośno;ul. Nowa;1;\N
+259;89-410;Więcbork;ul. Mickiewicza;22;\N
+260;86-122;Bukowiec;ul. Dr. Fl. Ceynowy;14;\N
+261;86-134;Dragacz;Dragacz;7A;\N
+262;86-140;Drzycim;ul. Podgórna;10;\N
+263;86-131;Jeżewo;ul. Świecka;12;\N
+264;86-141;Lniano;ul. Wyzwolenia;7;\N
+265;86-170;Nowe;Plac Św. Rocha;5;\N
+266;86-150;Osie;ul. Dworcowa;6;\N
+267;86-120;Pruszcz;ul. Główna;33;\N
+268;86-100;Świecie;ul. Wojska Polskiego;124;\N
+269;86-182;Świekatowo;ul. Dworcowa;3;\N
+270;86-160;Warlubie;ul. Dworcowa;15;\N
+271;87-140;Chełmża;ul. Gen. Hallera;2;\N
+272;87-140;Chełmża;ul. Wodna;2;\N
+273;87-640;Czernikowo;ul. Słowackiego;12;\N
+274;87-162;Lubicz;ul. Toruńska;21;\N
+275;87-152;Łubianka;Al. Jana Pawła II;8;\N
+276;87-148;Łysomice;ul. Warszawska;8;\N
+277;87-126;Obrowo;ul. Aleja Lipowa;27;\N
+278;87-165;Cierpice;ul. Toruńska;12;\N
+279;87-134;Zławieś Wielka;ul. Handlowa;7;\N
+280;89-511;Cekcyn;ul. Szkolna;2;\N
+281;89-520;Gostycyn;ul. Bydgoska;8;\N
+282;89-506;Kęsowo;ul. Główna;11;\N
+283;89-526;Lubiewo;ul. Hallera;9;\N
+284;89-530;Śliwice;ul. Ks. dra St. Sychowskiego;30;\N
+285;89-500;Tuchola;Pl. Zamkowy;1;\N
+286;87-200;Wąbrzeźno;ul. Wolności;18;\N
+287;87-207;Dębowa Łąka;Dębowa Łąka;38;\N
+288;87-222;Książki;ul. Bankowa;4;\N
+289;87-214;Płużnica;Płużnica;60;\N
+290;87-200;Wąbrzeźno;ul. Mickiewicza;21;\N
+291;87-820;Kowal;ul. Piwna;24;\N
+292;87-821;Baruchowo;ul. Baruchowo;54;\N
+293;87-851;Boniewo;ul. Szkolna;28;\N
+294;87-880;Brześć Kujawski;Plac Władysława Łokietka;1;\N
+295;87-850;Choceń;ul. Sikorskiego;4;\N
+296;87-860;Chodecz;ul. Kaliska;2;\N
+297;87-811;Fabianki;Fabianki;4;\N
+298;87-865;Izbica Kujawska;ul. Marszałka Piłsudskiego;32;\N
+299;87-820;Kowal;ul. Piwna;33;\N
+300;87-732;Lubanie;Lubanie;28 A;\N
+301;87-840;Lubień Kujawski;ul. Wojska Polskiego;29;\N
+302;87-890;Lubraniec;ul. Brzeska;49;\N
+303;87-800;Włocławek;ul. Królewiecka;7;\N
+304;88-190;Barcin;ul. Artylerzystów;9;\N
+305;88-410;Gąsawa;ul. Żnińska;8;\N
+306;88-430;Janowiec Wielkopolski;ul. Gnieźnieńska;3;\N
+307;89-210;Łabiszyn;ul. Plac 1000-lecia;1;\N
+308;88-420;Rogowo;ul. Kościelna;8;\N
+309;88-400;Żnin;ul. 700-lecia;39;\N
+310;85-102;Bydgoszcz;ul. Jezuicka;1;\N
+311;86-300;Grudziądz;ul. Ratuszowa;1;\N
+312;87-100;Toruń;ul. Wały gen. Sikorskiego;8;\N
+313;87-800;Włocławek;ul. Zielony Rynek;11;13
+314;21-560;Międzyrzec Podlaski;ul. Pocztowa;8;\N
+315;21-550;Terespol;ul. Czerwonego Krzyża;26;\N
+316;21-500;Biała Podlaska;ul. Prosta;31;\N
+317;21-570;Drelów;ul. Szkolna;12;\N
+318;21-505;Janów Podlaski;ul. Bialska;6A;\N
+319;21-509;Kodeń;ul. 1 Maja;20;\N
+320;21-543;Konstantynów;ul. Kard. St. Wyszyńskiego;2;\N
+321;21-542;Leśna Podlaska;ul. Bialska;30;\N
+322;21-532;Łomazy;Pl. Jagielloński;27;\N
+323;21-560;Międzyrzec Podlaski;ul. Warszawska;20;\N
+324;21-530;Piszczac;ul. Włodawska;8;\N
+325;21-504;Rokitno;Rokitno;39A;\N
+326;21-533;Rossosz;ul. Lubelska;8;\N
+327;21-515;Sławatycze;Rynek;14;\N
+328;21-518;Sosnówka;Sosnówka;55;\N
+329;21-540;Małaszewicze;PL. Ryszarda Kaczorowskiego;1;\N
+330;21-523;Tuczna;Tuczna;191A;\N
+331;21-580;Wisznice;Rynek;35;\N
+332;21-512;Zalesie;ul. Warszawska;34;\N
+333;23-400;Biłgoraj;pl. Wolności;16;\N
+334;23-408;Aleksandrów;Aleksandrów;380;\N
+335;23-400;Biłgoraj;ul. Kościuszki;88;\N
+336;23-425;Biszcza;Biszcza;79;\N
+337;23-440;Frampol;ul. Radzięcka;8;\N
+338;23-450;Goraj;Bednarska;1;\N
+339;23-460;Józefów;ul. Kościuszki;37;\N
+340;23-415;Księżpol;ul. Biłgorajska;12;\N
+341;23-412;Łukowa;Łukowa;262;\N
+342;23-413;Obsza;Obsza;36;\N
+343;23-423;Potok Górny;Potok Górny;116;\N
+344;23-420;Tarnogród;ul. Tadeusza Kościuszki;5;\N
+345;23-407;Tereszpol-Zaorenda;Długa;234;\N
+346;23-465;Turobin;Rynek;4;\N
+347;22-170;Rejowiec Fabryczny;ul. Lubelska;16;\N
+348;22-135;Białopole;ul. Chełmska;1;\N
+349;22-100;Pokrówka;ul. Gminna;18;\N
+350;22-175;Dorohusk;ul. Niepodległości;50;\N
+351;22-145;Dubienka;ul. 3 Maja;6;\N
+352;22-113;Kamień;ul. Diamentowa;15;\N
+353;22-122;Leśniowice;Leśniowice;21a;\N
+354;22-170;Rejowiec Fabryczny;ul. Lubelska;16;\N
+355;22-110;Ruda-Huta;ul. Niepodległości;44;\N
+356;22-107;Sawin;ul. Chutecka;12;\N
+357;22-130;Siedliszcze;ul. Szpitalna;15A;\N
+358;22-150;Wierzbica;ul. Włodawska;1;\N
+359;22-120;Wojsławice;Rynek;30;\N
+360;22-114;Żmudź;ul. Kasztanowa;22;\N
+361;22-360;Rejowiec;ul. Wiktoryna Zaleskiego;1;\N
+362;22-500;Hrubieszów;"ul. mjr. H. Dobrzańskiego ""HUBALA""";1;\N
+363;22-540;Dołhobyczów;ul. Spółdzielcza;2a;\N
+364;22-523;Horodło;ul. Jurydyka;1;\N
+365;22-500;Hrubieszów;ul. Bolesława Prusa;8;\N
+366;22-530;Mircze;ul. Kryłowska;20;\N
+367;22-554;Trzeszczany;Trzeszczany Pierwsze;194;\N
+368;22-510;Uchanie;ul. Partyzantów;1;\N
+369;22-550;Werbkowice;ul. Zamojska;1;\N
+370;23-320;Batorz;Batorz Pierwszy;52A;\N
+371;23-305;Chrzanów;Chrzanów Trzeci;112;\N
+372;23-304;Dzwola;Dzwola;168;\N
+373;23-302;Godziszów;Godziszów Trzeci;121A;\N
+374;23-300;Janów Lubelski;ul. Jana Zamoyskiego;59;\N
+375;23-310;Modliborzyce;ul. Józefa Piłsudskiego;63;\N
+376;23-313;Potok Wielki;Potok Wielki;106;\N
+377;22-300;Krasnystaw;Plac 3 Maja;29;\N
+378;21-060;Fajsławice;Fajsławice;107;\N
+379;22-315;Gorzków – Osada;ul. Główna;9;\N
+380;22-375;Izbica;ul. Gminna;4;\N
+381;22-300;Krasnystaw;ul. M. Konopnickiej;4;\N
+382;22-310;Kraśniczyn;ul. Kościuszki;21;\N
+383;22-351;Łopiennik Górny;Łopiennik Nadrzeczny;3A;\N
+384;22-330;Rudnik;Rudnik;71;\N
+385;22-304;Siennica Różana;Siennica Różana;265 A;\N
+386;22-335;Żółkiewka;ul. Hetmana Żółkiewskiego;2;\N
+387;23-200;Kraśnik;ul. Lubelska;84;\N
+388;23-235;Annopol;Rynek;1;\N
+389;23-251;Dzierzkowice;Terpentyna;1;\N
+390;23-275;Gościeradów;Ukazowy;61;\N
+391;23-200;Kraśnik;ul. Kościuszki;24;\N
+392;23-225;Szastarka;Szastarka;121;\N
+393;23-230;Trzydnik Duży;Trzydnik Duży;59A;\N
+394;23-250;Urzędów;Rynek;26;\N
+395;23-212;Wilkołaz;Wilkołaz Pierwszy;9;\N
+396;23-213;Zakrzówek;ul. Żeromskiego;24;\N
+397;21-100;Lubartów;ul. Jana Pawła II;12;\N
+398;21-143;Abramów;ul.  Szkolna;2;\N
+399;21-136;Firlej;ul. Rynek;1;\N
+400;21-146;Jeziorzany;ul. Rynek;22;\N
+401;21-132;Kamionka;ul. Lubartowska;1;\N
+402;21-150;Kock;ul. Jana Pawła II;29;\N
+403;21-100;Lubartów;ul. Lubelska;18 A;\N
+404;21-140;Michów;Rynek I;16;\N
+405;21-104;Niedźwiada;Niedźwiada-Kolonia;43;\N
+406;21-110;Ostrów Lubelski;ul. Partyzantów;1;\N
+407;21-102;Ostrówek;Ostrówek-Kolonia;32;\N
+408;21-107;Serniki;Serniki;1A;\N
+409;21-109;Uścimów;Stary Uścimów;37;\N
+410;24-200;Bełżyce;ul. Lubelska;3;\N
+411;24-224;Borzechów;Borzechów;;\N
+412;23-100;Bychawa;ul. Partyzantów;1;\N
+413;21-080;Garbów;ul. Krakowskie Przedmieście;50;\N
+414;20-388;Dominów;ul. Rynek;1;\N
+648;99-420;Łyszkowice;ul. Gminna;11;\N
+415;23-114;Jabłonna Majątek;Jabłonna Majątek;22;\N
+416;21-002;Jastków;ul. Chmielowa;3;\N
+417;21-030;Motycz;Kozubszczyzna;127 A;\N
+418;23-110;Krzczonów;Spokojna;7;\N
+419;24-220;Niedrzwica Duża;ul. Lubelska;30;\N
+420;21-025;Niemce;ul. Lubelska;121;\N
+421;23-107;Strzyżewice;Strzyżewice;109;\N
+422;24-204;Wojciechów;Wojciechów;5;\N
+423;20-258;Lublin 62;Jakubowice Murowane;8;\N
+424;23-145;Wysokie;ul. Nowa;1;\N
+425;23-155;Zakrzew;Zakrzew;26;\N
+426;21-070;Cyców;ul. Chełmska;42;\N
+427;21-075;Ludwin;Ludwin;51;\N
+428;21-010;Łęczna;Plac Kościuszki;5;\N
+429;21-020;Milejów;ul. Partyzancka;13a;\N
+430;21-013;Puchaczów;ul. Lubelska;22;\N
+431;21-077;Spiczyn;Spiczyn;10c;\N
+432;21-400;Łuków;ul. Piłsudskiego;17;\N
+433;21-450;Stoczek Łukowski;Plac Tadeusza Kościuszki;1;\N
+434;21-412;Adamów;ul. gen. Franciszka Kleeberga;5;\N
+435;21-470;Krzywda;ul. Żelechowska;24B;\N
+436;21-400;Łuków;ul. Świderska;12;\N
+437;21-413;Serokomla;ul. Warszawska;21;\N
+438;21-422;Stanin;Stanin;62;\N
+439;21-450;Stoczek Łukowski;pl. T. Kościuszki;1;\N
+440;21-404;Trzebieszów;Trzebieszów Drugi;89;\N
+441;21-411;Wojcieszków;ul. Kościelna;46;\N
+442;21-426;Wola Mysłowska;Wola Mysłowska;57;\N
+443;24-350;Chodel;Partyzantów;24;\N
+444;24-340;Józefów nad Wisłą;ul. Opolska;33f;\N
+445;24-310;Karczmiska;ul. Centralna;17;\N
+446;24-335;Łaziska;Łaziska;76;\N
+447;24-300;Opole Lubelskie;ul. Lubelska;4;\N
+448;24-320;Poniatowa;ul. Młodzieżowa;2;\N
+449;24-313;Wilków;Wilków;62A;\N
+450;21-211;Dębowa Kłoda;Dębowa Kłoda;116A;\N
+451;21-205;Jabłoń;ul. Augusta Zamojskiego;27;\N
+452;21-210;Milanów;ul. Kościelna;11A;\N
+453;21-200;Parczew;ul. Warszawska;24;\N
+454;21-222;Podedwórze;Podedwórze;44;\N
+455;21-220;Siemień;ul. Stawowa;1B;\N
+456;21-230;Sosnowica;ul. Spokojna;10;\N
+457;24-100;Puławy;ul. Lubelska;5;\N
+458;24-105;Baranów;ul. Rynek;14;\N
+459;24-123;Janowiec;ul. Radomska;2;\N
+460;24-120;Kazimierz Dolny;ul. Senatorska;5;\N
+461;24-130;Końskowola;ul. Pożowska;3a;\N
+462;24-170;Kurów;ul. Lubelska;35;\N
+463;24-173;Markuszów;ul. Marka Sobieskiego;1;\N
+464;24-150;Nałęczów;ul. Lipowa;3;\N
+465;24-100;Puławy;ul. Dęblińska;4;\N
+466;24-160;Wąwolnica;ul. Lubelska;39;\N
+467;24-103;Żyrzyn;ul. Powstania Styczniowego;10;\N
+468;21-300;Radzyń Podlaski;ul. Warszawska;32;\N
+469;21-345;Borki;ul. II Armii Wojska Polskiego;41;\N
+470;21-306;Czemierniki;ul. Zamkowa;9;\N
+471;21-302;Kąkolewnica;ul. Lubelska;5;\N
+472;21-311;Komarówka Podlaska;ul. Krótka;7;\N
+473;21-300;Radzyń Podlaski;ul. Warszawska;32;\N
+474;21-307;Ulan-Majorat;Ulan-Majorat;57;\N
+475;21-310;Wohyń;ul. Radzyńska;4;\N
+476;08-530;Dęblin;Rynek;12;\N
+477;08-550;Kłoczew;ul. Długa;67;\N
+478;08-503;Nowodwór;Nowodwór;71A;\N
+479;08-500;Ryki;ul. Karola Wojtyły;29;\N
+480;08-540;Stężyca;pl. Senatorski;1;\N
+481;08-504;Ułęż;Ułęż;168;\N
+482;21-040;Świdnik;ul. Stanisława Wyspińskiego;27;\N
+483;21-007;Mełgiew;ul. Partyzancka;2;\N
+484;21-050;Piaski;ul. Lubelska;77;\N
+485;21-065;Rybczewice;Rybczewice Drugie;119;\N
+486;21-044;Trawniki;Trawniki;605;\N
+487;22-600;Tomaszów Lubelski;ul. Lwowska;57;\N
+488;22-670;Bełżec;ul. Lwowska;5;\N
+489;22-664;Jarczów;ul. 3 Maja;24;\N
+490;22-610;Krynice;Krynice;1;\N
+491;22-680;Lubycza Królewska;ul. Kolejowa;1;\N
+492;22-650;Łaszczów;ul. Chopina;14;\N
+493;22-640;Rachanie;ul. Dolna;1;\N
+494;22-672;Susiec;ul. Tomaszowska;2;\N
+495;22-604;Tarnawatka;ul. Lubelska;39;\N
+496;22-652;Telatyn;ul. Fryderyka Chopina;10;\N
+497;22-600;Tomaszów Lubelski;ul. 29 Listopada;9;\N
+498;22-630;Tyszowce;ul. 3 Maja;8;\N
+499;22-678;Ulhówek;ul. Kościelna;1;1
+500;22-200;Włodawa;Al. J. Piłsudskiego;41;\N
+501;22-220;Hanna;Rynek;2;1
+502;22-235;Hańsk Pierwszy;ul. Osiedlowa;4;\N
+503;22-244;Stary Brus;Stary Brus;47A;\N
+504;22-234;Urszulin;ul. Kwiatowa;35;\N
+505;22-200;Włodawa;Al. Jana Pawła II;22;\N
+506;22-230;Wola Uhruska;ul. Parkowa;5;\N
+507;22-205;Wyryki;Wyryki-Połód;154;\N
+508;22-442;Adamów;Adamów;11b;\N
+509;22-425;Grabowiec;Rynek;3;\N
+510;22-435;Komarów-Osada;ul. Rynek;15;\N
+511;22-440;Krasnobród;ul. 3-go Maja;36;\N
+512;22-437;Łabunie;ul. Zamojska;50;\N
+513;22-455;Miączyn;Miączyn;107;\N
+514;22-413;Nielisz;Nielisz;279;\N
+515;22-463;Radecznica;ul. Prusa;21;\N
+516;22-424;Sitno;Sitno;73;\N
+517;22-420;Skierbieszów;Rynek;1;\N
+518;22-417;Stary Zamość;Stary Zamość;6;\N
+519;22-448;Sułów;Sułów;63;\N
+520;22-460;Szczebrzeszyn;pl. T. Kościuszki;1;\N
+521;22-400;Zamość;ul. Peowiaków;92;\N
+522;22-470;Zwierzyniec;Rynek;1;\N
+523;21-500;Biała Podlaska;ul. Marszałka Józefa Piłsudskiego;3;\N
+524;22-100;Chełm;ul. Lubelska;65;\N
+525;20-109;Lublin;Plac Króla Władysława Łokietka;1;\N
+526;22-400;Zamość;Rynek Wielki;13;\N
+527;66-470;Kostrzyn nad Odrą;ul. Graniczna;2;\N
+528;66-450;Bogdaniec;ul. Mickiewicza;45;\N
+529;66-446;Deszczno;Lubuska;90;\N
+530;66-415;Kłodawa;ul. Gorzowska;40;\N
+531;66-433;Lubiszyn;Plac Jedności Robotniczej;1;\N
+532;66-431;Santok;ul. Gorzowska;59;\N
+533;66-460;Witnica;pl. Andrzeja Zabłockiego;6;\N
+534;66-620;Gubin;ul. Piastowska;24;\N
+535;66-627;Bobrowice;Bobrowice;131;\N
+536;66-630;Bytnica;Bytnica;52;\N
+537;66-615;Dąbie;ul. Szeroka;4;\N
+538;66-620;Gubin;ul. Obrońców Pokoju;20;\N
+539;66-600;Krosno Odrzańskie;ul. Parkowa;1;\N
+540;66-614;Maszewo;Maszewo;71;\N
+541;66-350;Bledzew;ul.Tadeusza Kościuszki;16;\N
+542;66-300;Międzyrzecz;Rynek;1;\N
+543;66-340;Przytoczna;ul. Rokitniańska;4;\N
+544;66-330;Pszczew;Rynek;13;\N
+545;66-440;Skwierzyna;ul. Rynek;1;\N
+546;66-320;Trzciel;ul. Poznańska;22;\N
+547;67-100;Nowa Sól;ul. Marsz. Józefa Piłsudskiego;12;\N
+548;67-115;Bytom Odrzański;ul. Rynek;1;\N
+549;67-415;Kolsko;ul. Piastowska;12;\N
+550;67-120;Kożuchów;ul. Rynek;1A;\N
+551;67-100;Nowa Sól;ul. Moniuszki;3A;\N
+552;67-124;Nowe Miasteczko;Rynek;2;\N
+553;67-106;Otyń;Rynek;1;\N
+554;67-112;Siedlisko;Pl. Zamkowy;6;\N
+555;69-108;Cybinka;ul. Szkolna;5;\N
+556;69-113;Górzyca;ul.1 Maja;1;\N
+557;69-220;Ośno Lubuskie;Rynek;1;\N
+558;69-110;Rzepin;Plac Ratuszowy;1;\N
+559;69-100;Słubice;ul. Akademicka;1;\N
+560;66-520;Dobiegniew;ul. Dembowskiego;2;\N
+561;66-530;Drezdenko;ul. Warszawska;1;\N
+562;66-540;Stare Kurowo;ul. Ignacego Daszyńskiego;1;\N
+563;66-500;Strzelce Krajeńskie;Al. Wolnosci;48;\N
+564;66-542;Zwierzyn;ul. Wojska Polskiego;8;\N
+565;66-435;Krzeszyce;ul. Skwierzyńska;16;\N
+566;69-210;Lubniewice;ul. Jana Pawła II;51;\N
+567;66-436;Słońsk;ul. Sikorskiego;15;\N
+568;69-200;Sulęcin;ul. Lipowa;18;\N
+569;66-235;Torzym;ul. Wojska Polskiego;32;\N
+570;66-218;Lubrza;ul. Świebodzińska;68;\N
+571;66-220;Łagów;ul. 1 Lutego;7;\N
+572;66-213;Skąpe;Skąpe;65;\N
+574;66-200;Świebodzin;ul. Rynkowa;2;\N
+575;66-210;Zbąszynek;Rynek;1;\N
+576;66-110;Babimost;Rynek;3;\N
+577;66-130;Bojadła;ul. Sulechowska;35;\N
+578;66-016;Czerwieńsk;Rynek;25;\N
+579;66-120;Kargowa;Rynek;33;\N
+580;66-010;Nowogród Bobrzański;ul. Słowackiego;11;\N
+581;66-100;Sulechów;Plac Ratuszowy;6;\N
+582;66-008;Świdnica;ul. Długa;38;\N
+583;66-132;Trzebiechów;ul. Sulechowska;2;\N
+584;66-003;Zabór;ul. Lipowa;15;\N
+585;68-130;Gozdnica;ul. Ceramików;2;\N
+586;68-100;Żagań;Plac Słowiański;17;\N
+587;68-113;Brzeźnica;ul. Zielonogórska;30;\N
+588;68-120;Iłowa;ul. Żeromskiego;27;\N
+589;67-320;Małomice;Plac Konstytucji 3 Maja;1;\N
+591;67-300;Szprotawa;ul. Rynek;45;\N
+592;68-131;Wymiarki;ul. Księcia Witolda;5;\N
+593;68-100;Żagań;ul. Armii Krajowej;9;\N
+594;68-208;Łęknica;ul. Żurawska;1;\N
+595;68-200;Żary;Rynek;1;5
+596;68-343;Brody;Rynek;2;\N
+597;68-320;Jasień;ul. XX-lecia;20;\N
+598;68-213;Lipinki Łużyckie;ul. Główna;9;\N
+599;68-300;Lubsko;pl. Wolnosci;1;\N
+600;68-132;Przewóz;Pl. Partyzantów;1;\N
+601;68-212;Trzebiel;ul. Żarska;41;\N
+602;68-219;Tuplice;ul. Mickiewicza;27;\N
+603;68-200;Żary;Al. Jana Pawła II;6;\N
+604;67-410;Sława;ul. Henryka Pobożnego;10;\N
+605;67-407;Szlichtyngowa;Rynek;1;\N
+606;67-400;Wschowa;Rynek;1;\N
+607;66-400;Gorzów Wielkopolski;ul. Sikorskiego;3;4
+608;65-424;Zielona Góra;ul. Podgórna;22;\N
+609;97-400;Bełchatów;ul. Kościuszki;1;\N
+610;97-400;Bełchatów;ul. Kościuszki;13;\N
+611;97-403;Drużbice;Drużbice;77A;\N
+612;97-410;Kleszczów;ul. Główna;47;\N
+613;97-415;Kluki;Kluki;88;\N
+614;97-438;Rusiec;ul. Wieluńska;35;\N
+615;97-420;Szczerców;ul. Pułaskiego;8;\N
+616;97-425;Zelów;ul. Żeromskiego;23;\N
+617;99-300;Kutno;Pl. Marsz. Józefa Piłsudskiego;18;\N
+618;99-311;Bedlno;Bedlno;;\N
+619;99-352;Dąbrowice;ul. Nowy Rynek;17;\N
+620;99-340;Krośniewice;ul. Poznańska;5;\N
+621;99-314;Krzyżanów;Krzyżanów;10;\N
+622;99-300;Kutno;ul. Wincentego Witosa;1;\N
+623;99-306;Łanięta;Łanięta;16;\N
+624;99-350;Nowe Ostrowy;Nowe Ostrowy;80;\N
+625;99-322;Oporów;Oporów;25;\N
+626;99-307;Strzelce;ul. Leśna;1;\N
+627;99-320;Żychlin;ul. Barlickiego;15;\N
+628;98-113;Buczek;ul. Główna;20;\N
+629;98-100;Łask;ul. Warszawska;14;\N
+630;98-160;Sędziejowice;ul. Wieluńska;6;\N
+631;98-170;Widawa;ul. Rynek Kościuszki;10;\N
+632;98-105;Wodzierady;Wodzierady;24;\N
+633;99-100;Łęczyca;ul. Marii Konopnickiej;14;\N
+634;99-107;Daszyna;Daszyna;34A;\N
+635;99-122;Góra Świętej Małgorzaty;Góra Świętej Małgorzaty;44;\N
+636;99-150;Grabów;ul. 1 Maja;21;\N
+637;99-100;Łęczyca;ul. Marii Konopnickiej;14;\N
+638;99-120;Piątek;ul. Rynek;16;\N
+639;99-140;Świnice Warckie;ul. Szkolna;1;\N
+640;99-335;Witonia;ul. Stefana Starzyńskiego;6A;\N
+641;99-400;Łowicz;ul. Stary Rynek;1;\N
+642;99-423;Bielawy;ul. Garbarska;11;\N
+643;99-413;Chąśno;Chąśno;55;\N
+644;99-434;Domaniewice;ul. Główna;2;\N
+645;99-412;Kiernozia;ul. Sobocka;1a;\N
+647;99-400;Łowicz;ul. Długa;12;\N
+649;99-416;Nieborów;Al. Legionów Polskich;26;\N
+650;99-440;Zduny;Zduny;1C;\N
+651;95-020;Andrespol;ul. Rokicińska;126;\N
+653;95-040;Koluszki;ul. 11 Listopada;65;\N
+654;92-703;Łódź;Rynek Nowosolna;1;\N
+655;95-030;Rzgów;Plac 500-lecia;22;\N
+656;95-080;Tuszyn;ul. Piotrkowska;2;4
+657;26-307;Białaczów;ul. Piotrkowska;12;\N
+658;26-340;Drzewica;ul. Staszica;22;\N
+659;26-341;Mniszków;ul. Powstańców Wielkopolskich;10;\N
+660;26-300;Opoczno;ul. Staromiejska;6;\N
+661;26-333;Paradyż;ul. Konecka;4;\N
+662;26-315;Poświętne;ul. Akacjowa;4;\N
+663;26-332;Sławno;Marszałka Józefa Piłsudskiego;31;\N
+664;26-330;Żarnów;ul. Opoczyńska;5;\N
+665;95-050;Konstantynów Łódzki;ul. Zgierska;2;\N
+666;95-200;Pabianice;ul. Zamkowa;16;\N
+667;95-081;Dłutów;ul. Pabianicka;25;\N
+668;95-082;Dobroń;ul. 11 Listopada;9;\N
+669;95-054;Ksawerów;ul. Tadeusza Kościuszki;3h;\N
+670;95-083;Lutomiersk;Pl. Jana Pawła II;11;\N
+671;95-200;Pabianice;ul. Torowa;21;\N
+672;98-355;Działoszyn;ul. Piłsudskiego;21;\N
+673;98-358;Kiełczygłów;ul. Tysiąclecia;25;\N
+674;98-331;Nowa Brzeźnica;ul. Kościuszki;103;\N
+675;98-330;Pajęczno;ul. Parkowa;8;12
+676;98-332;Rząśnia;ul. 1 Maja;37;\N
+677;98-354;Siemkowice;Plac Wolności;1;\N
+678;98-337;Strzelce Wielkie;ul. Częstochowska;14;\N
+679;98-338;Sulmierzyce;ul. Urzędowa;1;\N
+680;26-337;Aleksandrów;Aleksandrów;39B;\N
+681;97-318;Czarnocin;ul. Główna;142;\N
+682;97-350;Gorzkowice;ul. Szkolna;3;\N
+683;97-306;Grabica;Grabica;66;\N
+684;97-352;Łęki Szlacheckie;Łęki Szlacheckie;13 D;\N
+685;97-310;Moszczenica;ul. Kosowska;1;\N
+686;97-510;Ręczno;ul. Piotrkowska;5;\N
+687;97-340;Rozprza;Al. 900-Lecia;3;\N
+688;97-330;Sulejów;ul. Konecka;42;\N
+689;97-371;Wola Krzysztoporska;ul. Kościuszki;5;\N
+690;97-320;Wolbórz;Pl. Jagiełły;28;\N
+691;99-205;Dalików;Plac Powstańców;1;\N
+692;99-235;Pęczniew;ul. Główna;10;12
+693;99-200;Poddębice;ul. Łódzka;17;21
+694;99-210;Uniejów;ul. Bł. Bogumiła;13;\N
+695;99-220;Wartkowice;Stary Gostków;3 D;\N
+696;99-232;Zadzim;Zadzim;44;\N
+697;97-500;Radomsko;ul. Tysiąclecia;5;\N
+698;97-505;Dobryszyce;ul. Wolności;8;\N
+699;97-540;Gidle;ul. Pławińska;22;\N
+700;97-545;Gomunice;ul. Armii Krajowej;30;\N
+701;97-360;Kamieńsk;ul. Wieluńska;50;\N
+702;97-524;Kobiele Wielkie;ul. Reymonta;79;\N
+703;97-512;Kodrąb;ul. Niepodległości;7;\N
+704;97-565;Lgota Wielka;ul. Radomszczańska;60;\N
+705;97-561;Ładzice;ul. Wyzwolenia;36;\N
+706;97-515;Masłowice;Masłowice;4;\N
+707;97-570;Przedbórz;ul. Mostowa;29;\N
+708;97-500;Radomsko;ul. Piłsudskiego;34;\N
+709;97-525;Wielgomłyny;ul. Rynek;1;\N
+710;97-532;Żytno;ul. Krótka;4;\N
+711;96-200;Rawa Mazowiecka;Pl. Marszałka J. Piłsudskiego;5;\N
+712;96-230;Biała Rawska;ul. Jana Pawła II;57;\N
+714;96-200;Rawa Mazowiecka;Al. Konstytucji 3 Maja;32;\N
+715;96-232;Regnów;Regnów;95;\N
+716;96-206;Sadkowice;Sadkowice;129A;\N
+717;98-200;Sieradz;Plac Wojewódzki;1;\N
+718;98-235;Błaszki;Pl. Niepodległości;13;\N
+719;98-277;Brąszewice;ul. Sieradzka;98;\N
+720;98-275;Brzeźnio;ul. Wspólna;44;\N
+721;98-260;Burzenin;Sieradzka;1;\N
+722;98-215;Goszczanów;ul. Kaliska;19;\N
+723;98-273;Klonowa;ul. Ks. Dalaka;2;\N
+724;98-200;Sieradz;Armii Krajowej;5;\N
+725;98-290;Warta;Rynek im. St. Wł. Reymonta;1;\N
+726;98-285;Wróblew;Wróblew;15;\N
+727;98-270;Złoczew;ul. Szkolna;16;\N
+728;99-417;Bolimów;ul. Łowicka;9;\N
+729;96-130;Głuchów;Al. Klonowa;5;\N
+730;96-126;Godzianów;ul. Klonowa;5;\N
+731;96-111;Kowiesy;Kowiesy;85;\N
+732;96-127;Lipce Reymontowskie;ul. Reymonta;24;\N
+733;96-124;Maków;ul. Akacjowa;2A;\N
+734;96-115;Nowy Kawęczyn;Nowy Kawęczyn;32;\N
+735;96-100;Skierniewice;ul. Reymonta;23;\N
+736;96-128;Słupia;Słupia;136;\N
+737;97-200;Tomaszów Mazowiecki;ul. P.O.W.;10;16
+738;97-319;Będków;ul. Parkowa;3;\N
+739;97-212;Budziszewice;ul. J. Ch. Paska;66;\N
+740;97-216;Czerniewice;ul. Mazowiecka;42;\N
+741;97-215;Inowłódz;ul. Spalska;2;\N
+742;97-217;Lubochnia;ul. Tomaszowska;9;\N
+743;97-221;Rokiciny;ul. Tomaszowska;9;\N
+744;97-220;Rzeczyca;ul. Tomaszowska;2;\N
+745;97-200;Tomaszów Mazowiecki;ul. Prezydenta Ignacego Mościckiego;4;\N
+746;97-225;Ujazd;Plac Kościuszki;6;\N
+747;97-226;Żelechlinek;ul. Plac Tysiąclecia;1;\N
+748;98-350;Biała;Biała Druga;4 B;\N
+749;98-310;Czarnożyły;Czarnożyły;48;\N
+750;98-313;Konopnica;ul. Rynek;15;\N
+751;98-345;Mokrsko;Mokrsko;231;\N
+752;98-320;Osjaków;ul. Targowa;26;\N
+753;98-311;Ostrówek;Ostrówek;115;\N
+754;98-335;Pątnów;Pątnów;48;\N
+755;98-346;Skomlin;ul. Trojanowskiego;1;\N
+756;98-300;Wieluń;Plac Kazimierza Wielkiego;1;\N
+757;98-324;Wierzchlas;ul. Szkolna;7;\N
+758;98-430;Bolesławiec;ul. Rynek;1;\N
+759;98-410;Czastary;ul. Wolności;29;\N
+760;98-405;Galewice;ul. Wieluńska;5;\N
+761;98-360;Lututów;ul. Klonowska;8;\N
+762;98-432;Łubnice;ul. Gen. Sikorskiego;102;\N
+763;98-420;Sokolniki;ul. Marszałka Józefa Piłsudskiego;1;\N
+764;98-400;Wieruszów;ul. Rynek;1;7
+765;98-220;Zduńska Wola;ul. Stefana Złotnickiego;12;\N
+766;98-240;Szadek;ul. Warszawska;3;\N
+767;98-161;Zapolice;Plac Strażacki;5;\N
+768;98-220;Zduńska Wola;ul. Zielona;30;\N
+769;95-015;Głowno;ul. Młynarska;15;\N
+770;95-035;Ozorków;ul. Wigury;1;\N
+771;95-100;Zgierz;Plac Jana Pawła II;16;\N
+772;95-070;Aleksandrów Łódzki;Plac Kościuszki;2;\N
+773;95-015;Głowno;ul. Jana Kilińskiego;2;\N
+774;95-035;Ozorków;ul. Pilota Stanisława Wigury;14;\N
+775;95-045;Parzęczew;ul. Południowa;1;\N
+776;95-010;Stryków;ul. Kościuszki;27;\N
+777;95-100;Zgierz;ul. Łęczycka;4;\N
+778;95-060;Brzeziny;ul. Sienkiewicza;16;\N
+779;95-060;Brzeziny;ul. Sienkiewicza;16A;\N
+780;95-061;Dmosin;Dmosin;9;\N
+781;95-047;Jeżów;ul. Kwiatowa;1;\N
+782;95-063;Rogów;ul. Żeromskiego;23;\N
+783;90-926;Łódź;ul. Piotrkowska;104;\N
+784;97-300;Piotrków Trybunalski;ul. Pasaż Karola Rudowskiego;10;\N
+785;96-100;Skierniewice;ul. Rynek;1;\N
+786;32-700;Bochnia;ul. Kazimierza Wielkiego;2;\N
+787;32-700;Bochnia;Kazimierza Wielkiego;26;\N
+790;32-740;Łapanów;Łapanów;34;\N
+791;32-720;Nowy Wiśnicz;Rynek;38;\N
+792;32-765;Rzezawa;Długa;21;\N
+796;32-800;Brzesko;Bartosza Głowackiego;51;\N
+797;32-860;Czchów;Rynek;12;\N
+801;32-820;Szczurowa;ul. Lwowska;2;\N
+802;32-566;Alwernia;Zbigniewa Gęsikowskiego;7;\N
+803;32-551;Babice;ul. Krakowska;56;\N
+804;32-500;Chrzanów;Aleja Henryka;20;\N
+805;32-590;Libiąż;Działkowa;1;\N
+806;32-540;Trzebinia;ul. Piłsudskiego;14;\N
+807;33-220;Bolesław;Bolesław;68;\N
+808;33-200;Dąbrowa Tarnowska;Rynek;34;\N
+811;33-210;Olesno;ul. Jagiełły;1;\N
+812;33-207;Radgoszcz;Pl. św. Kazimierza;07.sie;\N
+813;33-230;Szczucin;ul. Wolności;3;\N
+814;38-300;Gorlice;Rynek;2;\N
+815;38-340;Biecz;ul. Rynek;1;\N
+816;38-350;Bobowa;Rynek;21;\N
+817;38-300;Gorlice;11 Listopada;2;\N
+818;38-305;Lipinki;Lipinki;53;\N
+820;38-321;Moszczenica;Samorządowa;4;\N
+822;38-307;Sękowa;Sękowa;252;\N
+823;38-315;Uście Gorlickie;Ujście Gorlickie;80;\N
+824;32-070;Czernichów;Gminna;1;\N
+826;32-095;Iwanowice Włościańskie;Ojcowska;11;\N
+827;32-048;Jerzmanowice;Rajska;22;\N
+828;32-010;Luborzyca;Jagiellońska;7;\N
+829;32-065;Krzeszowice;ul. Grunwaldzka;4;\N
+830;32-060;Liszki;Mały Rynek;2;\N
+831;32-091;Michałowice;PLAC JÓZEFA PIŁSUDSKIEGO;1;\N
+832;32-031;Mogilany;Rynek;2;\N
+833;32-043;Skała;Rynek;29;\N
+834;32-050;Skawina;Rynek;1;\N
+835;32-090;Słomniki;ul. Tadeusza Kościuszki;64;\N
+836;32-045;Sułoszowa;ul. Krakowska;139;\N
+837;32-040;Świątniki Górne;Kazimierza Bruchnalskiego;36;\N
+838;32-085;Wielka Wieś;Plac Wspólnoty;1;\N
+839;32-080;Zabierzów;ul Rynek;1;\N
+840;32-087;Zielonki;Krakowskie Przedmieście;116;\N
+841;34-600;Limanowa;Jana Pawła II;9;\N
+842;34-730;Mszana Dolna;ul. Piłsudskiego;2;\N
+844;34-620;Jodłownik;Plac III Rzeczpospolitej;198;\N
+847;34-600;Limanowa;Matki Boskiej Bolesnej;18B;\N
+849;34-730;Mszana Dolna;Spadochroniarzy;6;\N
+850;34-735;Niedźwiedź;Niedźwiedź;233;\N
+853;32-250;Charsznica;Kolejowa;20;\N
+855;32-241;Kozłów;Kozłów;60;\N
+856;32-210;Książ Wielki;Warszawska;17;\N
+857;32-200;Miechów;Henryka Sienkiewicza;25;\N
+859;32-218;Słaboszów;Słaboszów;57;\N
+860;32-410;Dobczyce;Rynek;26;\N
+862;32-400;Myślenice;Rynek;8;9
+865;32-447;Siepraw;ul. Kawęciny;30;\N
+866;32-440;Sułkowice;Rynek;1;\N
+869;33-330;Grybów;Rynek;12;\N
+870;33-395;Chełmiec;Papieska;2;\N
+871;33-318;Gródek nad Dunajcem;Nie dotyczy;54;\N
+872;33-330;Grybów;Jakubowskiego;33;\N
+875;33-380;Krynica-Zdrój;J.I. Kraszewskiego;7;\N
+877;33-390;Łącko;_;445;\N
+878;33-314;Łososina Dolna;Łososina Dolna;300;\N
+879;33-370;Muszyna;ul. Rynek;31;\N
+880;33-335;Nawojowa;ul. Ogrodowa;2;\N
+881;33-350;Piwniczna Zdrój;ul. Rynek;20;\N
+883;33-343;Rytro;Rytro;265;\N
+884;33-340;Stary Sącz;ul. Stefana Batorego;25;\N
+885;34-400;Nowy Targ;ul. Krzywa;1;\N
+886;34-460;Szczawnica;Szalaya;103;\N
+887;34-470;Czarny Dunajec;ul. Józefa Piłsudskiego;2;\N
+888;34-436;Maniowy;ul. Gorczańska;3;\N
+889;34-480;Jabłonka;ul. 3 Maja;1;\N
+890;34-450;Krościenko nad Dunajcem;Rynek;35;\N
+891;34-483;Lipnica Wielka;Lipnica Wielka;518;\N
+892;34-442;Łapsze Niżne;Jana Pawła II;20;\N
+893;34-400;Nowy Targ;ul. Bulwarowa;9;\N
+894;34-452;Ochotnica Dolna;osiedle Dłubacze;160;\N
+896;34-400;Rabka Zdrój;ul. Parkowa;2;\N
+898;34-424;Szaflary;ul. Zakopiańska;18;\N
+899;32-332;Bukowno;ul. Kolejowa;16;\N
+900;32-329;Bolesław;Główna;58;\N
+901;32-310;KLUCZE;PARTYZANTÓW;1;\N
+902;32-300;Olkusz;Rynek;1;\N
+903;32-353;Trzyciąż;ul. Leśna;4;\N
+904;32-340;Wolbrom;Krakowska;1;\N
+905;32-600;Oświęcim;ul. Zaborska;2;\N
+906;32-620;Brzeszcze;ul. Kościelna;4;\N
+907;32-660;Chełmek;Krakowska;11;\N
+908;32-650;Kęty;Rynek;7;\N
+909;32-608;Osiek;ul. Główna;125;\N
+910;32-600;Oświęcim;ul. Zamkowa;12;\N
+911;32-607;Polanka Wielka;ul. Długa;61;\N
+912;32-641;Przeciszów;Podlesie;1;\N
+913;32-640;Zator;Plac Marszałka Józefa Piłsudskiego;1;\N
+914;32-104;Koniusza;Koniusza;55;\N
+915;32-130;Koszyce;ul. Elżbiety Łokietkówny;14;\N
+916;32-120;Nowe Brzesko;Krakowska;44;\N
+917;32-109;Pałecznica;ul. Św. Jakuba;11;\N
+918;32-100;Proszowice;3 Maja;72;\N
+920;34-240;Jordanów;Rynek;1;\N
+921;34-200;Sucha Beskidzka;Adama Mickiewicza;19;\N
+924;34-240;Jordanów;Rynek;2;\N
+925;34-220;Maków Podhalański;ul. Szpitalna;3;\N
+926;34-205;Stryszawa;nie dotyczy;17;\N
+929;33-190;Ciężkowice;Tysiąclecia;19;\N
+930;33-180;Gromnik;ul. Witosa;2;\N
+931;33-140;Lisia Góra;1 Maja;7;\N
+933;33-130;Radłów;ul. Kolejowa;7;\N
+934;33-160;Ryglice;Rynek;9;\N
+937;33-100;Tarnów;Krakowska;19;\N
+938;33-170;Tuchów;Jana Pawła II;6;\N
+941;32-830;Wojnicz;Rynek;1;\N
+942;32-840;Zakliczyn;Rynek;32;\N
+944;34-500;Zakopane;Kościuszki;13;\N
+945;34-425;Biały Dunajec;Jana Pawa II;312;\N
+946;34-530;Bukowina Tatrzańska;ul. Długa;144;\N
+947;34-511;Kościelisko;ul. Nędzy-Kubińca;101;\N
+948;34-520;Poronin;ul. Józefa Piłsudskiego;5;\N
+949;34-120;Andrychów;Rynek;15;\N
+950;34-114;Brzeźnica;ul. Krakowska;109;\N
+951;34-130;Kalwaria Zebrzydowska;ul. Mickiewicza;7;\N
+952;34-143;Lanckorona;ul. Krakowska;8;\N
+954;34-116;Spytkowice;Zamkowa;12;\N
+956;34-100;Tomice;Wadowicka;51;\N
+957;34-100;Wadowice;Pl. Jana Pawła II;23;\N
+958;34-122;Wieprz;Centralna;5;\N
+960;32-420;Gdów;Rynek;40;\N
+962;32-005;Niepołomice;Plac Zwycięstwa;13;\N
+963;32-020;Wieliczka;Powstania Warszawskiego;1;\N
+964;31-004;Kraków;pl. Wszystkich Świętych;3;4
+965;33-300;Nowy Sącz;Rynek;1;\N
+966;33-100;Tarnów;ul. Adama Mickiewicza;2;\N
+967;26-800;Białobrzegi;Pl. Zygmunta Starego;9;\N
+968;26-803;Promna;Promna-Kolonia;5;\N
+969;26-807;Radzanów;Radzanów;92A;\N
+970;26-806;Stara Błotnica;Stara Błotnica;46;\N
+971;26-804;Stromiec;ul. Piaski;4;\N
+972;26-811;Wyśmierzyce;ul. A. Mickiewicza;75;\N
+973;06-400;Ciechanów;Plac Jana Pawła II;6;\N
+974;06-400;Ciechanów;ul. Fabryczna;8;\N
+975;06-450;Glinojeck;ul. Płocka;12;\N
+976;06-420;Gołymin-Ośrodek;Szosa Ciechanowska;8;\N
+977;06-460;Grudusk;ul. Ciechanowska;54;\N
+978;06-456;Ojrzeń;ul. Ciechanowska;27;\N
+979;06-406;Opinogóra Górna;ul. Zygmunta Krasińskiego;4;\N
+980;06-461;Regimin;Regimin;22;\N
+981;06-430;Sońsk;ul. Ciechanowska;20;\N
+982;08-400;Garwolin;ul. Staszica;15;\N
+983;08-450;Łaskarzew;ul. Duży Rynek;32;\N
+984;08-412;Borowie;ul. Aleksandra Sasimowskiego;2;\N
+985;08-400;Garwolin;ul. Mazowiecka;16;\N
+986;08-404;Górzno;ul. Jana Pawła II;10;\N
+987;08-450;Łaskarzew;ul. Rynek Duży im. Józefa Piłsudskiego;32;\N
+988;08-480;Maciejowice;ul. Rynek;7;\N
+989;08-420;Miastków Kościelny;ul. Rynek;6;\N
+990;08-441;Parysów;ul. Kościuszki;28;\N
+991;08-440;Pilawa;Al. Wyzwolenia;158;\N
+992;08-460;Sobolew;ul. Rynek;1;\N
+993;08-455;Trojanów;Trojanów;57A;\N
+994;08-470;Wilga;ul. Warszawska;38;\N
+995;08-430;Żelechów;ul. Rynek;1;\N
+996;09-500;Gostynin;ul. Rynek;26;\N
+997;09-500;Gostynin;ul. Rynek;26;\N
+998;09-541;Pacyna;ul. Wyzwolenia;7;\N
+999;09-540;Sanniki;ul. Warszawska;169;\N
+1000;09-550;Szczawin Kościelny;ul. Jana Pawła II;10;\N
+1001;05-822;Milanówek;ul. Kościuszki;45;\N
+1002;05-807;Podkowa Leśna;ul. Akacjowa;39;41
+1003;96-314;Baranów;ul. Armii Krajowej;87;\N
+1004;05-825;Grodzisk Mazowiecki;ul. T. Kościuszki;32A;\N
+1005;96-313;Jaktorów;ul. Warszawska;33;\N
+1006;96-321;Żabia Wola;ul. Główna;3;\N
+1007;05-622;Belsk Duży;ul. Jana Kozietulskiego;4;\N
+1008;05-620;Błędów;ul. Sadurkowska;13;\N
+1009;05-650;Chynów;ul. Głowna;67;\N
+1010;05-610;Goszczyn;ul. Bądkowska;2;\N
+1011;05-600;Grójec;ul. Józefa Piłsudskiego;47;\N
+1012;05-604;Jasieniec;ul. Warecka;42;\N
+1013;05-640;Mogielnica;ul.Rynek;1;\N
+1014;26-420;Nowe Miasto nad Pilicą;Pl. O. H. Koźmińskiego;1;2
+1016;05-660;Warka;Plac Stefana Czarnieckiego;1;\N
+1017;26-930;Garbatka-Letnisko;ul. Skrzyńskich;1;\N
+1018;26-903;Głowaczów;ul. Rynek;35;\N
+1019;26-920;Gniewoszów;ul. Lubelska;16;\N
+1020;26-902;Grabów Nad Pilicą;ul. Kazimierza Pułaskiego;51;\N
+1021;26-900;Kozienice;ul. Parkowa;5;\N
+1022;26-910;Magnuszew;ul. Saperów;24;\N
+1023;26-922;Sieciechów;ul. Rynek;16;\N
+1024;05-120;Legionowo;ul. Marsz. Józefa Piłsudskiego;41;\N
+1025;05-110;Jabłonna;ul. Modlińska;152;\N
+1026;05-126;Nieporęt;Pl. Wolności;1;\N
+1027;05-140;Serock;ul. Rynek;21;\N
+1028;05-135;Wieliszew;ul. Krzysztofa Kamila Baczyńskiego;1;\N
+1029;27-312;Chotcza;Chotcza-Józefów;60;\N
+1030;27-310;Ciepielów;ul. Czachowskiego;1;\N
+1031;27-300;Lipsko;ul. 1 Maja;2;\N
+1032;27-353;Rzeczniów;Rzeczniów;1;\N
+1033;27-350;Sienno;ul. Rynek;36;40
+1034;27-320;Solec nad Wisłą;ul. Rynek;1;\N
+1035;08-206;Huszlew;Huszlew;;\N
+1036;08-200;Łosice;ul. Piłsudskiego;6;\N
+1037;08-207;Olszanka;Olszanka;37;\N
+1038;08-210;Platerów;ul. 3 Maja;5;\N
+1039;08-220;Sarnaki;ul. Berka Joselewicza;3;\N
+1040;08-205;Stara Kornica;Stara Kornica;191;\N
+1041;06-200;Maków Mazowiecki;ul. Moniuszki;6;\N
+1042;06-232;Czerwonka;Czerwonka;38;\N
+1043;06-425;Karniewo;ul. Pułtuska;3;\N
+1044;06-212;Krasnosielc;ul. Rynek;40;\N
+1045;06-231;Młynarze;ul. Ostrołęcka;7;\N
+1046;06-210;Płoniawy-Bramura;Płoniawy-Bramura;83A;\N
+1047;06-230;Różan;Plac Obrońców Różana;4;\N
+1048;06-225;Rzewnie;Rzewnie;19;\N
+1049;06-216;Sypniewo;ul. Ostrołęcka;27;\N
+1050;06-220;Stary Szelków;Stary Szelków;39;\N
+1051;05-300;Mińsk Mazowiecki;ul. Konstytucji 3-go Maja;1;\N
+1052;05-319;Cegłów;ul. Tadeusza Kościuszki;4;\N
+1053;05-311;Dębe Wielkie;ul. Strażacka;3;\N
+1054;05-307;Dobre;ul. Kościuszki;1;\N
+1055;05-074;Halinów;ul. Spółdzielcza;1;\N
+1056;05-306;Jakubów;Jakubów;55;\N
+1057;05-310;Kałuszyn;ul. Pocztowa;1;\N
+1058;05-334;Latowicz;ul. Rynek;6;\N
+1059;05-300;Mińsk Mazowiecki;ul. Chełmońskiego;14;\N
+1060;05-320;Mrozy;ul. Adama Mickiewicza;35;\N
+1061;05-332;Siennica;ul. Kołbielska;1;\N
+1062;05-304;Stanisławów;ul. Rynek;32;\N
+1063;05-070;Sulejówek;ul. Dworcowa;55;\N
+1064;06-500;Mława;ul. Stary Rynek;19;\N
+1065;06-520;Dzierzgowo;ul. T. Kościuszki;1;\N
+1066;06-545;Lipowiec Kościelny;Lipowiec Kościelny;213;\N
+1067;06-540;Radzanów;Pl. Piłsudskiego;26;\N
+1068;06-445;Strzegowo;Plac Wolności;32;\N
+1069;06-561;Stupsk;ul. Sienkiewicza;10;\N
+1070;06-550;Szreńsk;ul. Plac Kanoniczny;10;\N
+1071;06-516;Szydłowo;Mazowiecka;61;\N
+1072;06-513;Wieczfnia Kościelna;Wieczfnia Kościelna;48;\N
+1073;06-521;Wiśniewo;Wiśniewo;86;\N
+1074;05-100;Nowy Dwór Mazowiecki;ul. Zakroczymska;30;\N
+1075;05-152;Czosnów;ul. Gminna;6;\N
+1076;05-155;Leoncin;ul. Partyzantów;3;\N
+1077;05-190;Nasielsk;ul. Elektronowa;3;\N
+1078;05-180;Pomiechówek;ul. Szkolna;1A;\N
+1079;05-170;Zakroczym;ul. Warszawska;7;\N
+1080;06-320;Baranowo;Plac Trzydziestolecia;7;\N
+1081;07-431;Czarnia;Czarnia;41;\N
+1082;07-407;Czerwin;Pl. Tysiąclecia;1;\N
+1083;07-440;Goworowo;ul. Ostrołęcka;21;\N
+1084;07-420;Kadzidło;ul. Targowa;4;\N
+1085;07-402;Lelis;ul. Szkolna;37;\N
+1086;07-437;Łyse;ul. Ostrołęcka;2;\N
+1087;07-430;Myszyniec;Plac Wolności;60;\N
+1088;07-415;Olszewo-Borki;ul. Władysława Broniewskiego;13;\N
+1089;07-411;Rzekuń;ul. Tadeusza Kościuszki;33;\N
+1090;07-405;Troszyn;ul. Juliusza Słowackiego;13;\N
+1091;07-300;Ostrów Mazowiecka;ul. 3 Maja;66;\N
+1092;07-305;Andrzejewo;ul. Warszawska;36;\N
+1093;07-325;Boguty-Pianki;ul. Aleja Papieża Jana Pawła II;45;\N
+1094;07-306;Brok;Pl. Kościelny;6;\N
+1095;07-320;Małkinia Górna;ul. Przedszkolna;1;\N
+1096;07-322;Nur;ul. Drochiczyńska;2;\N
+1097;07-300;Ostrów Mazowiecka;ul. Władysława Sikorskiego;5;\N
+1098;07-303;Stary Lubotyń;Stary Lubotyń;42;\N
+1099;07-324;Szulborze Wielkie;ul. Romantyczna;2;\N
+1100;07-311;Wąsewo;ul. Zastawska;13;\N
+1101;07-323;Zaręby Kościelne;ul. Kowalska;14;\N
+1102;05-420;Józefów;ul. Kardynała Wyszyńskiego;1;\N
+1103;05-400;Otwock;ul. Armii Krajowej;5;\N
+1104;05-430;Celestynów;ul. Regucka;3;\N
+1105;05-480;Karczew;ul. Warszawska;28;\N
+1106;05-340;Kołbiel;ul. Szkolna;1;\N
+1107;08-445;Osieck;ul. Rynek;1;\N
+1108;08-443;Sobienie-Jeziory;ul. Garwolińska;16;\N
+1109;05-462;Wiązowna;ul. Lubelska;59;\N
+1110;05-530;Góra Kalwaria;ul. 3 Maja;10;\N
+1111;05-520;Konstancin-Jeziorna;ul. Warszawska;32;\N
+1112;05-506;Lesznowola;ul. Gminnej Rady Narodowej;60;\N
+1113;05-500;Piaseczno;ul. Kościuszki;5;\N
+1114;05-505;Prażmów;ul. Piotra Czołchańskiego;1;\N
+1115;05-555;Tarczyn;ul. Juliana Stępkowskiego;17;\N
+1116;09-230;Bielsk;Pl. Wolności;3a;\N
+1117;09-470;Bodzanów;ul. Bankowa;7;\N
+1118;09-414;Brudzeń Duży;ul. Toruńska;2;\N
+1119;09-454;Bulkowo;ul. Szkolna;1;\N
+1120;09-210;Drobin;ul. Marszałka Piłsudskiego;12;\N
+1121;09-530;Gąbin;ul. Stary Rynek;16;\N
+1122;09-520;Łąck;ul. Gostynińska;2;\N
+1123;09-460;Mała Wieś;ul. Jana Kochanowskiego;1;\N
+1124;09-505;Nowy Duninów;ul. Osiedlowa;1;\N
+1125;09-451;Radzanowo;ul. Płocka;32;\N
+1126;09-533;Słubice;ul. Płocka;32;\N
+1127;09-472;Słupno;ul. Miszewska;8a;\N
+1128;09-411;Biała;ul. Jana Kazimierza;1;\N
+1129;09-440;Staroźreby;ul. Płocka;18;\N
+1130;09-450;Wyszogród;ul. Rębowska;37;\N
+1131;09-100;Płońsk;ul. Płocka;39;\N
+1132;09-140;Raciąż;Pl. A. Mickiewicza;17;\N
+1133;09-130;Baboszewo;ul. Warszawska;9A;\N
+1134;09-150;Czerwińsk nad Wisłą;ul. Władysława Jagiełły;16;\N
+1135;09-164;Dzierzążnia;Dzierzążnia;28;\N
+1136;09-131;Joniec;Joniec;29;\N
+1137;09-152;Naruszewo;Naruszewo;19A;\N
+1138;09-120;Nowe Miasto;ul. Apteczna;8;\N
+1139;09-100;Płońsk;ul. 19 Stycznia;39;\N
+1140;09-140;Raciąż;ul. Kilińskiego;2;\N
+1141;09-110;Sochocin;ul. Guzikarzy;9;\N
+1142;09-142;Załuski;Załuski;67;\N
+1143;05-820;Piastów;ul. 11 Listopada;2;\N
+1144;05-800;Pruszków;ul. Kraszewskiego;14;16
+1145;05-840;Brwinów;ul. Grodziska;12;\N
+1146;05-816;Michałowice;ul. Aleja Powstańców Warszawy;1;\N
+1147;05-830;Nadarzyn;ul. Mszczonowska;24;\N
+1148;05-090;Raszyn;ul. Szkolna;2A;\N
+1149;06-300;Przasnysz;ul. J. Kilińskiego;2;\N
+1150;06-330;Chorzele;ul. Stanisława Komosińskiego;1;\N
+1151;06-415;Czernice Borowe;ul. Dolna;2;\N
+1152;06-323;Jednorożec;ul. Odrodzenia;14;\N
+1153;06-408;Krasne;ul. Adama Mickiewicza;23;\N
+1154;06-316;Krzynowłoga Mała;ul. Kościelna;3;\N
+1155;06-300;Przasnysz;ul. Św. Stanisława Kostki;5;\N
+1156;26-422;Borkowice;ul. ks Jana Wiśniewskiego;42;\N
+1157;26-434;Gielniów;Pl. Wolności;75;\N
+1158;26-415;Klwów;ul. Opoczyńska;35;\N
+1159;26-425;Odrzywół;ul. Warszawska;53;\N
+1160;26-414;Potworów;Radomska;2A;\N
+1161;26-400;Przysucha;Plac Kolberga;11;\N
+1162;26-411;Rusinów;ul. Żeromskiego;4;\N
+1163;26-432;Wieniawa;ul. Kochanowskiego;88;\N
+1164;06-126;Gzy;Gzy;9;\N
+1165;07-215;Obryte;Obryte;185;\N
+1166;06-121;Pokrzywnica;Aleja Jana Pawła II;1;\N
+1167;06-100;Pułtusk;ul. Rynek;41;\N
+1168;06-150;Świercze;ul. Pułtuska;47;\N
+1169;06-120;Winnica;ul. Pułtuska;25;\N
+1170;07-217;Zatory;ul. Jana Pawła II;106;\N
+1171;26-670;Pionki;Aleja Jana Pawła II;15;\N
+1172;26-634;Gózd;ul. Radomska;7;\N
+1173;27-100;Iłża;ul. Rynek;11;\N
+1174;26-631;Jastrzębia;Jastrzębia;;\N
+1175;26-660;Jedlińsk;ul. Warecka;19;\N
+1176;26-630;Jedlnia-Letnisko;ul. Radomska;43;\N
+1177;26-624;Kowala-Stępocina;ul. Marii Walewskiej;7;\N
+1178;26-670;Pionki;ul. Zwycięstwa;6a;\N
+1179;26-650;Przytyk;ul. Zachęta;57;\N
+1180;26-640;Skaryszew;ul. Słowackiego;6;\N
+1181;26-680;Wierzbica;ul. Kościuszki;73;\N
+1182;26-625;Wolanów;ul. Radomska;20;\N
+1183;26-652;Zakrzew;Zakrzew;51;\N
+1184;08-113;Domanice;Domanice;52;\N
+1185;08-108;Korczew;ul. Ks. Brzóski;20a;\N
+1186;08-130;Kotuń;ul. Siedlecka;56c;\N
+1187;08-124;Mokobody;Plac Chreptowicza;25;\N
+1188;08-140;Mordy;ul. Kilińskiego;9;\N
+1189;08-107;Paprotnia;ul. 3 Maja;2;\N
+1190;08-109;Przesmyki;ul. 11 Listopada;13;\N
+1191;08-110;Siedlce;ul. Mieczysława Asłanowicza;10;\N
+1192;08-114;Skórzec;ul. Siedlecka;3;\N
+1193;08-125;Suchożebry;ul. Aleksandry Ogińskiej;11;\N
+1194;08-112;Wiśniew;ul. Siedlecka;13;\N
+1195;08-117;Wodynie;ul. Siedlecka;43;\N
+1196;08-106;Zbuczyn;ul. Jana Pawła II;1;\N
+1197;09-200;Sierpc;ul. Piastowska;11a;\N
+1198;09-213;Gozdowo;ul. Krystyna Gozdawy;19;\N
+1199;09-214;Mochowo;ul. Sierpiecka;2;\N
+1200;09-204;Rościszewo;ul. Armii Krajowej;1;\N
+1201;09-200;Sierpc;ul. Bp. Floriana;4;\N
+1202;09-227;Szczutowo;ul. Lipowa;5A;\N
+1203;09-226;Zawidz Kościelny;ul. Mazowiecka;24;\N
+1204;96-500;Sochaczew;ul. 1go Maja;16;\N
+1205;05-088;Brochów;Brochów;125;\N
+1206;96-520;Iłów;ul. Płocka;2;\N
+1207;96-512;Młodzieszyn;ul. Wyszogrodzka;25;\N
+1208;96-513;Nowa Sucha;Nowa Sucha;59A;\N
+1209;96-514;Rybno;ul. Długa;20;\N
+1210;96-500;Sochaczew;ul. Warszawska;115;\N
+1211;96-515;Teresin;ul. Zielona;20;\N
+1212;08-300;Sokołów Podlaski;ul. Wolności;21;\N
+1213;08-311;Bielany;ul. Słoneczna;2;\N
+1214;08-322;Ceranów;Ceranów;140;\N
+1215;08-304;Jabłonna Lacka;ul. Klonowa;14;\N
+1216;08-330;Kosów Lacki;ul. Kolejowa;2;\N
+1217;08-307;Repki;ul. Parkowa;7;\N
+1218;08-331;Sabnie;ul. Główna;73;\N
+1219;08-300;Sokołów Podlaski;ul. Wolności;44;\N
+1220;08-320;Sterdyń;ul. T. Kościuszki;6;\N
+1221;26-510;Chlewiska;ul. Dionizego Czachowskiego;49;\N
+1222;26-502;Jastrząb;Plac Niepodległości;5;\N
+1223;26-503;Mirów Stary;Mirów Stary;27;\N
+1224;26-505;Orońsko;ul. Szkolna;8;\N
+1225;26-500;Szydłowiec;ul. Rynek Wielki;1;\N
+1226;05-870;Błonie;ul. Rynek;6;\N
+1227;05-080;Izabelin;ul. 3 Maja;42;\N
+1228;05-085;Kampinos;ul. Niepokalanowska;3;\N
+1229;05-084;Leszno;Al. Wojska Polskiego;21;\N
+1230;05-092;Łomianki;ul. Warszawska;115;\N
+1231;05-850;Ożarów Mazowiecki;ul. Kolejowa;2;\N
+1232;05-082;Stare Babice;ul. Rynek;32;\N
+1233;07-100;Węgrów;ul. Rynek Mariacki;16;\N
+1234;07-110;Grębków;ul. Wspólna;5;\N
+1235;07-120;Korytnica;ul. Adama Małkowskiego;20;\N
+1236;07-100;Węgrów;ul. Mickiewicza;2;\N
+1237;07-130;Łochów;Al. Pokoju;75;\N
+1238;07-106;Miedzna;Pl. 11 Listopada;4;\N
+1239;07-140;Sadowne;ul. Kościuszki;3;\N
+1240;07-104;Stoczek;ul. Kosowska;5;\N
+1241;07-111;Wierzbno;Wierzbno;90;\N
+1242;05-230;Kobyłka;ul. Wołomińska;1;\N
+1243;05-270;Marki;Aleja Marszałka Józefa Piłsudskiego;95;\N
+1244;05-091;Ząbki;ul. Wojska Polskiego;10;\N
+1245;05-220;Zielonka;ul. Lipowa;5;\N
+1246;05-252;Dąbrówka;ul. Kościuszki;14;\N
+1247;05-280;Jadów;ul. Jana Pawła II;17;\N
+1248;05-205;Klembów;ul. Gen. F. Żymirskiego;38;\N
+1249;05-326;Poświętne;ul. Krótka;1;\N
+1250;05-250;Radzymin;plac Kościuszki;2;\N
+1251;05-282;Strachówka;ul. Norwida;6;\N
+1252;05-240;Tłuszcz;ul. Warszawska;10;\N
+1253;05-200;Wołomin;ul. Ogrodowa;4;\N
+1254;07-221;Brańszczyk;ul. Jana Pawła II;45;\N
+1255;07-210;Długosiodło;ul. Kościuszki;2;\N
+1256;07-205;Rząśnik;ul. Jesionowa;3;\N
+1257;07-203;Somianka;Somianka-Parcele;16B;\N
+1258;07-200;Wyszków;Aleja Róż;2;\N
+1259;07-230;Zabrodzie;ul. Reymonta;51;\N
+1260;26-713;Kazanów;Plac Partyzantów;28;\N
+1261;26-720;Policzna;ul. Bolesława Prusa;11;\N
+1262;26-704;Przyłęk;Przyłęk;;\N
+1263;26-706;Tczów;Tczów;124;\N
+1264;26-700;Zwoleń;Plac Kochanowskiego;1;\N
+1265;09-320;Bieżuń;ul. Warszawska;2;\N
+1266;09-310;Kuczbork-Osada;ul. Mickiewicza;7;\N
+1267;09-304;Lubowidz;ul. Zielona;10;\N
+1268;09-317;Lutocin;ul. Poniatowskiego;1;\N
+1269;09-135;Siemiątkowo;ul. Władysława Reymonta;3A;\N
+1270;09-300;Żuromin;Plac Piłsudskiego;3;\N
+1271;96-300;Żyrardów;Plac Jana Pawła II;1;\N
+1272;96-320;Mszczonów;Plac Piłsudskiego;1;\N
+1273;96-330;Puszcza Mariańska;ul. Stanisława Papczyńskiego;1;\N
+1274;96-325;Radziejowice;ul. Kubickiego;10;\N
+1275;96-315;Wiskitki;ul. Kościuszki;1;\N
+1276;07-410;Ostrołęka;Plac Gen. J. Bema;1;\N
+1277;09-400;Płock;Stary Rynek;1;\N
+1278;26-600;Radom;ul. Jana Kilińskiego;30;\N
+1279;08-110;Siedlce;Skwer Niepodległości;2;\N
+1280;00-950;Warszawa;Pl. Bankowy;3;5
+1281;49-300;Brzeg;ul. Robotnicza;12;\N
+1282;49-318;Skarbimierz;ul. Parkowa;12;\N
+1283;49-200;Grodków;ul. Warszawska;29;\N
+1284;49-340;Lewin Brzeski;Rynek;1;\N
+1285;49-313;Lubsza;ul. Brzeska;16;\N
+1286;49-332;Olszanka;Olszanka;16;\N
+1287;48-120;Baborów;ul. Ratuszowa;2A;\N
+1288;48-140;Branice;ul. Słowackiego;3;\N
+1289;48-100;Głubczyce;ul.  Niepodległości;14;\N
+1290;48-130;Kietrz;ul. 3-go Maja;1;\N
+1291;47-200;Kędzierzyn-Koźle;ul. Piramowicza;32;\N
+1292;47-240;Bierawa;ul. Wojska Polskiego;12;\N
+1293;47-253;Cisek;ul. Planetorza;52;\N
+1294;47-280;Pawłowiczki;Pl. Jedności Narodu;1;\N
+1295;47-260;Polska Cerekiew;ul. Raciborska;4;\N
+1296;47-208;Reńska Wieś;ul. Pawłowicka;1;\N
+1297;46-220;Byczyna;Rynek;1;\N
+1298;46-200;Kluczbork;ul. Katowicka;1;\N
+1299;46-282;Lasowice Wielkie;Lasowice Wielkie;99A;\N
+1300;46-250;Wołczyn;ul. Dworcowa;1;\N
+1301;47-320;Gogolin;ul. Krapkowicka;6;\N
+1302;47-303;Krapkowice;ul. 3 Maja;17;\N
+1303;47-364;Strzeleczki;Rynek;4;\N
+1304;47-344;Walce;ul. Mickiewicza;18;\N
+1305;47-330;Zdzieszowice;ul. Chrobrego;34;\N
+1306;46-146;Domaszowice;ul. Główna;26;\N
+1307;46-100;Namysłów;ul. Stanisława Dubois;3;\N
+1308;46-034;Pokój;ul. Sienkiewicza;8;\N
+1309;46-112;Świerczów;ul. Brzeska;48;\N
+1310;46-113;Wilków;ul. Wrocławska;11;\N
+1311;48-340;Głuchołazy;Rynek;15;\N
+1312;48-388;Kamiennik;ul. 1 Maja;69;\N
+1313;48-317;Korfantów;Rynek;4;\N
+1314;48-316;Łambinowice;ul. Tadeusza Zawadzkiego;29;\N
+1315;48-300;Nysa;ul.  Kolejowa;15;\N
+1316;48-385;Otmuchów;ul.  Zamkowa;6;\N
+1317;48-370;Paczków;Rynek;1;\N
+1318;48-314;Pakosławice;Reńska Wieś;1;\N
+1319;48-320;Skoroszyce;ul. Powstańców Śląskich;17;\N
+1320;46-380;Dobrodzień;pl. Wolności;1;\N
+1321;46-310;Gorzów Śląski;ul. Wojska Polskiego;15;\N
+1322;46-300;Olesno;ul. Pieloka;21;\N
+1323;46-320;Praszka;Plac Grunwaldzki;13;\N
+1324;46-331;Radłów;ul. Oleska;3;\N
+1325;46-325;Rudniki;ul. Wojska Polskiego;12a;\N
+1326;46-048;Zębowice;ul. Izydora Murka;2;\N
+1327;46-053;Chrząstowice;ul. Dworcowa;38;\N
+1328;49-120;Dąbrowa;ul. Ks. prof. J. Sztonyka;56;\N
+1329;46-081;Dobrzeń Wielki;ul. Namysłowska;44;\N
+1330;46-070;Komprachcice;ul. Kolejowa;3;\N
+1331;46-024;Łubniany;ul. Opolska;104;\N
+1332;46-030;Murów;ul. Dworcowa;2;\N
+1333;49-100;Niemodlin;ul. Bohaterów Powstań Śląskich;37;\N
+1334;46-040;Ozimek;ul. Ks. Dzierżona;4B;\N
+1335;46-090;Popielów;ul. Opolska;13;\N
+1336;46-060;Prószków;ul. Opolska;17;\N
+1337;46-050;Tarnów Opolski;ul. Dworcowa;6;\N
+1338;49-130;Tułowice;ul. Szkolna;1;\N
+1339;46-045;Turawa;ul. Opolska;39C;\N
+1340;48-210;Biała;Rynek;10;\N
+1341;48-250;Głogówek;Rynek;1;\N
+1342;48-231;Lubrza;ul. Wolności;73;\N
+1343;48-200;Prudnik;ul. Kościuszki;3;\N
+1344;47-180;Izbicko;ul. Powstańców Śląskich;12;\N
+1345;47-133;Jemielnica;ul. Strzelecka;67;\N
+1346;47-110;Kolonowskie;ul. Ks. Czerwionki;39;\N
+1347;47-150;Leśnica;ul. 1 Maja;9;\N
+1348;47-100;Strzelce Opolskie;Pl. Myśliwca;1;\N
+1349;47-143;Ujazd;ul. Sławięcicka;19;\N
+1350;47-120;Zawadzkie;ul. Dębowa;13;\N
+1351;45-015;Opole;Rynek Ratusz;;\N
+1352;38-710;UP Czarna k. Ustrzyk Dolnych;Czarna Góra;74;\N
+1353;38-713;Lutowiska;Lutowiska;14;\N
+1354;38-700;Ustrzyki Dolne;ul. Kopernika;1;\N
+1355;36-200;Brzozów;ul. Armii Krajowej;1;\N
+1356;36-230;Domaradz;Domaradz;345;\N
+1357;36-204;Dydnia;Dydnia;224;\N
+1358;36-213;Haczów;Haczów;573;\N
+1359;36-220;Jasienica Rosielna;Jasienica Rosielna;240;\N
+1360;36-245;Nozdrzec;Nozdrzec;224;\N
+1361;39-200;Dębica;ul. Ratuszowa;2;\N
+1362;39-230;Brzostek;ul. Rynek;1;\N
+1363;39-215;Czarna;ul. Dworcowa;6;\N
+1364;39-200;Dębica;ul. Stefana Batorego;13;\N
+1365;39-225;Jodłowa;Jodłowa;1A;\N
+1366;39-220;Pilzno;ul. Rynek;6;\N
+1367;39-204;Żyraków;Żyraków;137;\N
+1368;37-500;Jarosław;Rynek;1;\N
+1369;37-550;Radymno;ul. Lwowska;20;\N
+1370;37-561;Chłopice;Chłopice;149a;\N
+1371;37-500;Jarosław;ul. Piekarska;5;\N
+1372;37-543;Laszki;Laszki;36;\N
+1373;37-500;Jarosław;Pawłosiów;88;\N
+1374;37-560;Pruchnik;ul. Rynek;1;\N
+1375;37-550;Radymno;ul. Lwowska;38;\N
+1376;37-562;Rokietnica;Rokietnica;682;\N
+1377;37-565;Roźwienica;Rozwienica;1;\N
+1378;37-522;Wiązownica;Warszawska;15;\N
+1379;38-200;Jasło;ul. Rynek;12;\N
+1380;38-212;Brzyska;Brzyska;1;\N
+1381;38-220;Dębowiec;Dębowiec;101;\N
+1382;38-200;Jasło;ul. Juliusza Słowackiego;4;\N
+1383;38-213;Kołaczyce;Rynek;1;\N
+1384;38-232;Krempna;Krempna;85;\N
+1385;38-230;Nowy Żmigród;ul. Mickiewicza;2;\N
+1386;38-223;Osiek Jasielski;Osiek Jasielski;112;\N
+1387;38-242;Skołyszyn;Skolyszyn;12;\N
+1388;38-204;Tarnowiec;Tarnowiec;211;\N
+1389;36-105;Cmolas;Cmolas;237B;\N
+1390;36-100;Kolbuszowa;ul. Obrońców Pokoju;21;\N
+1391;36-110;Majdan Królewski;Rynek;1a;\N
+1392;36-147;Niwiska;Niwiska;430;\N
+1393;36-130;Raniżów;Rynek;6;\N
+1394;36-122;Dzikowiec;ul. Dworska;62;\N
+1395;38-458;Chorkówka;Chorkówka;175;\N
+1396;38-450;Dukla;Trakt Węgierski;11;\N
+1397;38-440;Iwonicz-Zdrój;Al. Słoneczna;28;\N
+1398;38-460;Jedlicze;Rynek;6;\N
+1399;38-420;Korczyna;Rynek;18A;\N
+1400;38-422;Krościenko Wyżne;ul. Południowa;9;\N
+1401;38-430;Miejsce Piastowe;ul. Dukielska;14;\N
+1402;38-480;Rymanów;ul. Mitkowskiego;14a;\N
+1403;38-471;Wojaszówka;Wojaszówka;115;\N
+1404;38-485;Jaśliska;Jaśliska;171;\N
+1405;37-300;Leżajsk;Rynek;1;\N
+1406;37-306;Grodzisko Dolne;Grodzisko Dolne;125A;\N
+1407;37-303;Kuryłówka;Kuryłówka;527;\N
+1408;37-300;Leżajsk;ul. Opalińskiego;2;\N
+1409;37-310;Nowa Sarzyna;ul. Kopernika;1;\N
+1410;37-600;Lubaczów;ul. Rynek;26;\N
+1411;37-611;Cieszanów;Rynek;1;\N
+1412;37-620;Horyniec-Zdrój;Al. .Przyjaźni;5;\N
+1413;37-600;Lubaczów;ul. Jasna;1;\N
+1414;37-610;Narol;Rynek;1;\N
+1415;37-630;Oleszyce;Rynek;1;\N
+1416;37-632;Stary Dzików;ul. Kościuszki;79;\N
+1417;37-627;Wielkie Oczy;ul. Leśna;2;\N
+1418;37-100;Łańcut;Plac Sobieskiego;18;\N
+1419;37-114;Białobrzegi;Białobrzegi;4;\N
+1420;37-125;Czarna;Czarna;260;\N
+1421;37-100;Łańcut;ul. Adama Mickiewicza;2A;\N
+1422;37-120;Markowa;Markowa;1399;\N
+1423;37-111;Rakszawa;Rakszawa;506;\N
+1424;37-110;Żołynia;Rynek;22;\N
+1425;39-300;Mielec;ul. Żeromskiego;26;\N
+1427;39-304;Czermin;Czermin;140;\N
+1428;39-307;Gawłuszowice;Gawłuszowice;5A;\N
+1429;39-300;Mielec;ul. Głowackiego;5;\N
+1430;39-340;Padew Narodowa;ul. Grunwaldzka;2;\N
+1431;39-320;Przecław;ul. Kilińskiego;7;\N
+1432;39-310;Radomyśl Wielki;Rynek;32;\N
+1433;39-332;Tuszów Narodowy;Tuszów Narodowy;225;\N
+1434;39-308;Wadowice Górne;Wadowice Górne;116;\N
+1435;37-413;Harasiuki;Długa;11;\N
+1436;37-405;Jarocin;Jarocin;159;\N
+1437;37-430;Jeżowe;Jeżowe;136A;\N
+1438;37-418;Krzeszów;Rynek;2;\N
+1439;37-400;Nisko;Pl. Wolności;14;\N
+1440;37-420;Rudnik nad Sanem;Rynek;40;\N
+1441;37-410;Ulanów;Rynek;5;\N
+1442;37-740;Bircza;ul. Ojca Św. Jana Pawła II;10;\N
+1443;37-750;Dubiecko;ul. Przemyska;10;\N
+1444;37-734;Fredropol;Fredropol;15;\N
+1445;37-741;Krasiczyn;Krasiczyn;177;\N
+1446;37-755;Krzywcza;Krzywcza;36;\N
+1447;37-732;Medyka;Medyka;288;\N
+1448;37-716;Orły;ul. Przemyska;3;\N
+1449;37-700;Przemyśl;ul. Płk. Marcina Borelowskiego;1;\N
+1450;37-723;Stubno;Stubno;69A;\N
+1451;37-710;Żurawica;ul. Ojca Św. Jana Pawła II;1;\N
+1452;37-200;Przeworsk;ul. Jagiellońska;10;\N
+1453;37-534;Adamówka;Adamówka;97;\N
+1454;37-207;Gać;Gać;275;\N
+1455;37-232;Jawornik Polski;Jwornik Polski;30;\N
+1456;37-220;Kańczuga;ul. Konopnickiej;2;\N
+1457;37-200;Przeworsk;ul. Bernardyńska;1A;\N
+1458;37-530;Sieniawa;Rynek;1;\N
+1459;37-204;Tryńcza;Tryńcza;127;\N
+1460;37-205;Zarzecze;Długa;7;\N
+1461;39-124;Iwierzyce;Iwierzyce;80;\N
+1462;39-103;Ostrów;Ostrów;225;\N
+1463;39-100;Ropczyce;ul. Krisego;1;\N
+1464;39-120;Sędziszów Małopolski;Rynek;1;\N
+1465;39-110;Wielopole Skrzyńskie;Wielopole Skrzyńskie;200;\N
+1466;36-065;Dynów;ul. Rynek;2;\N
+1467;36-030;Błażowa;Pl. Jana Pawła II;1;\N
+1468;36-040;Boguchwała;Ul. Suszyckich;33;\N
+1469;36-016;Chmielnik;Chmielnik;50;\N
+1470;36-065;Dynów;ul. Ks. Ożoga;2;\N
+1471;36-060;Głogów Małopolski;ul. Rynek;1;\N
+1472;36-024;Hyżne;Hyżne;103;\N
+1474;36-007;Krasne;Krasne;121;\N
+1475;36-042;Lubenia;Lubenia;131;\N
+1476;36-050;Sokołów Małopolski;ul. Rynek;1;\N
+1477;36-072;Świlcza;Świlcza;168;\N
+1478;36-001;Trzebownisko;Trzebownisko;976;\N
+1479;36-020;Tyczyn;ul. Rynek;18;\N
+1480;38-500;Sanok;ul. Rynek;1;\N
+1481;38-524;Besko;ul. Podkarpacka;5;\N
+1482;38-505;Bukowsko;Bukowsko;290;\N
+1483;38-543;Komańcza;Komańcza;166;\N
+1484;38-500;Sanok;ul. Kościuszki;23;\N
+1485;38-535;Tyrawa Wołoska;Tyrawa Wołoska;175;\N
+1486;38-540;Zagórz;ul. 3 Maja;2;\N
+1487;38-530;Zarszyn;ul. Bieszczadzka;74;\N
+1488;37-450;Stalowa Wola;ul. Wolności;7;\N
+1489;37-433;Bojanów;ul. Parkowa;5;\N
+1490;37-403;Pysznica;ul. Wolności;322;\N
+1491;37-455;Radomyśl nad Sanem;Rynek Duży;7;\N
+1492;37-470;Zaklików;ul. Zachodnia;15;\N
+1493;37-415;Zaleszany;ul. Tadeusza Kościuszki;16;\N
+1494;38-120;Czudec;ul. Starowiejska;6;\N
+1495;38-130;Frysztak;ul. Ks. Wojciecha Blajera;20;\N
+1496;38-114;Niebylec;Niebylec;170;\N
+1497;38-100;Strzyżów;ul. Przecławczyka;5;\N
+1498;38-124;Wiśniowa;Wiśniowa;150;\N
+1499;39-450;Baranów Sandomierski;ul. Okulickiego;1;\N
+1500;39-432;Gorzyce;ul. Sandomierska;75;\N
+1501;39-410;Grębów;ul. Rynek;1;\N
+1502;39-460;Nowa Dęba;ul. Rzeszowska;3;\N
+1503;38-606;Baligród;Plac Wolności;13;\N
+1504;38-607;Cisna;Cisna;49;\N
+1505;38-600;Lesko;ul. Parkowa;1;\N
+1506;38-722;Olszanica;Olszanica;81;\N
+1507;38-610;Polańczyk;ul. Wiejska;2;\N
+1508;38-400;Krosno;ul. Lwowska;28a;\N
+1509;37-700;Przemyśl;Rynek;1;\N
+1510;35-064;Rzeszów;Rynek;1;\N
+1511;39-400;Tarnobrzeg;ul. Kościuszki;32;\N
+1512;16-300;Augustów;ul. Młyńska;35;\N
+1513;16-300;Augustów;ul. Mazurska;1 C;\N
+1514;16-320;Bargłów Kościelny;ul. Augustowska;47;\N
+1515;16-315;Lipsk;ul. Żłobikowskiego;4;\N
+1516;16-304;Nowinka;Nowinka;33;\N
+1517;16-326;Płaska;Płaska;53;\N
+1518;16-310;Sztabin;ul. Augustowska;53;\N
+1519;16-070;Choroszcz;ul. Dominikańska;2;\N
+1520;16-020;Czarna Białostocka;ul. Torowa;14A;\N
+1521;16-002;Dobrzyniewo Duże;ul. Białostocka;25;\N
+1522;16-040;Gródek;ul. A. i G. Chodkiewiczów;2;\N
+1523;16-061;Juchnowiec Kościelny;ul. Jaśminiowa;19;\N
+1524;18-100;Łapy;ul. Gen. Wł. Sikorskiego;24;\N
+1525;16-050;Michałowo;ul. Białostocka;11;\N
+1526;18-112;Poświętne;Poświętne;21;\N
+1527;16-030;Supraśl;ul. Piłsudskiego;58;\N
+1528;18-105;Suraż;ul. 11-go Listopada;16;\N
+1529;18-106;Turośń Kościelna;ul. Białostocka;5;\N
+1530;16-080;Tykocin;ul. 11 Listopada;8;\N
+1531;16-010;Wasilków;ul. Białostocka;7;\N
+1532;16-060;Zabłudów;ul. Rynek;8;\N
+1533;16-075;Zawady;pl. Wolności;12;\N
+1534;17-100;Bielsk Podlaski;ul. Kopernika;1;\N
+1535;17-120;Brańsk;Rynek;8;\N
+1536;17-100;Bielsk Podlaski;ul. Mickiewicza;46;\N
+1537;17-111;Boćki;pl. Armii Krajowej;3;\N
+1538;17-120;Brańsk;ul. Rynek;8;\N
+1539;17-106;Orla;ul. Mickiewicza;5;\N
+1540;17-123;Rudka;ul. Brańska;13;\N
+1541;17-132;Wyszki;ul. Piórkowska;2;\N
+1542;19-200;Grajewo;ul. Strażacka;6a;\N
+1543;19-200;Grajewo;ul. Komunalna;6;\N
+1544;19-213;Radziłów;Plac 500-lecia;14;\N
+1545;19-206;Rajgród;ul. Warszawska;32;\N
+1546;19-230;Szczuczyn;Plac Tysiąclecia;23;\N
+1547;19-222;Wąsosz;pl. Rzędziana;8;\N
+1548;17-200;Hajnówka;ul. Aleksego Zina;1;\N
+1549;17-230;Białowieża;ul. Sportowa;1;\N
+1550;17-240;Czeremcha;ul. Duboisa;14;\N
+1551;17-207;Czyże;Czyże;98;\N
+1552;17-204;Dubicze Cerkiewne;ul. Główna;65;\N
+1553;17-200;Hajnówka;ul. Aleksego Zina;1;\N
+1554;17-250;Kleszczele;ul. 1 Maja;4;\N
+1555;17-210;Narew;ul. Mickiewicza;101;\N
+1556;17-220;Narewka;ul. Białowieska;1;\N
+1557;18-500;Kolno;ul. Wojska Polskiego;20;\N
+1558;18-507;Grabowo;ul. Gen. Wł. Sikorskiego;1;\N
+1559;18-500;Kolno;ul. Wojska Polskiego;20;\N
+1560;18-516;Mały Płock;ul. Jana Kochanowskiego;15;\N
+1561;18-520;Stawiski;pl. Wolności;13;15
+1562;18-525;Turośl;ul. Jana Pawła II;49;\N
+1563;18-420;Jedwabne;ul. Żwirki i Wigury;3;\N
+1564;18-400;Łomża;ul. Marii Skłodowskiej Curie;1a;\N
+1565;18-413;Miastkowo;ul. Łomżyńska;32;\N
+1566;18-414;Nowogród;ul. Łomżyńska;41;\N
+1567;18-421;Piątnica;ul. Stawiskowska;53;\N
+1568;18-423;Przytuły;ul. Supska;10;\N
+1569;18-411;Śniadowo;ul. Ostrołęcka;11;\N
+1570;18-430;Wizna;pl.kpt. Władysława Raginisa 35;35;\N
+1571;18-416;Zbójna;ul. Łomżyńska;64;\N
+1572;19-110;Goniądz;Plac 11 Listopada;38;\N
+1573;19-122;Jasionówka;Rynek;19;\N
+1574;19-124;Jaświły;Jaświły;7;\N
+1575;19-120;Knyszyn;ul. Rynek;39;\N
+1576;19-111;Krypno;Krypno Kościelne;23B;\N
+1577;19-100;Mońki;ul. Słowackiego;5A;\N
+1810;42-120;Miedźno;ul. Ułańska;25;\N
+1578;19-104;Trzcianne;ul. Wojska Polskiego;10;\N
+1695;82-112;Ostaszewo;ul. Kościuszki;51;\N
+1579;16-500;Sejny;ul. Józafa Piłsudskiego;25;\N
+1580;16-506;Giby;Giby;74A;\N
+1581;16-503;Krasnopol;ul. 1 Maja;14;\N
+1582;16-515;Puńsk;ul. Mickiewicza;23;\N
+1583;16-500;Sejny;ul. Jerzego Grodzińskiego;1;\N
+1584;17-300;Siemiatycze;ul. Pałacowa;2;\N
+1585;17-312;Drohiczyn;ul. Józefa Ignacego Kraszewskiego;5;\N
+1586;17-306;Dziadkowice;Dziadkowice;13;\N
+1587;17-315;Grodzisk;ul.1 Maja;6;\N
+1588;17-307;Mielnik;ul. Piaskowa;38;\N
+1589;17-332;Milejczyce;ul. Szkolna;5;\N
+1590;17-330;Nurzec-Stacja;ul. Żerczycka;33;\N
+1591;17-322;Perlejewo;Perlejewo;14;\N
+1592;17-300;Siemiatycze;ul. Kościuszki;88;\N
+1593;16-200;Dąbrowa Białostocka;ul. Solidarności;1;\N
+1594;16-130;Janów;ul. Parkowa;3;\N
+1595;16-140;Korycin;ul. Knyszyńska;2A;\N
+1596;16-120;Krynki;ul. Garbarska;16;\N
+1597;16-123;Kuźnica;ul. Plac Tysiąclecia PP;1;\N
+1598;16-205;Nowy Dwór;Plac Rynkowy;21;\N
+1599;16-124;Sidra;Rynek;5;\N
+1600;16-100;Sokółka;Plac Kościuszki;1;\N
+1601;16-150;Suchowola;Plac Kościuszki;5;\N
+1602;16-113;Szudziałowo;ul. Bankowa;1;\N
+1603;16-423;Bakałarzewo;Rynek;3;\N
+1604;16-424;Filipów;ul. Garbaska;2;\N
+1605;16-404;Jeleniewo;ul. Słoneczna;3;\N
+1606;16-427;Przerośl;Rynek;2;\N
+1607;16-420;Raczki;pl. Kościuszki;14;\N
+1608;16-406;Rutka-Tartak;ul.3 Maja;13;\N
+1609;16-400;Suwałki;ul. Swierkowa;45;\N
+1610;16-411;Szypliszki;ul. Suwalska;21;\N
+1611;16-407;Wiżajny;Szkolna;11;\N
+1612;18-200;Wysokie Mazowieckie;ul. Ludowa;15;\N
+1613;18-230;Ciechanowiec;ul. Mickiewicza;1;\N
+1614;18-220;Czyżew;ul. Mazowiecka;34;\N
+1615;18-214;Klukowo;ul. Mazowiecka;14;\N
+1616;18-204;Kobylin-Borzymy;ul. Główna;11;\N
+1617;18-208;Kulesze Kościelne;ul. Główna;6;\N
+1618;18-212;Nowe Piekuty;ul. Główna;8;\N
+1619;18-218;Sokoły;Rynek Mickiewicza;10;\N
+1620;18-210;Szepietowo;ul. Główna;6;\N
+1621;18-200;Wysokie Mazowieckie;ul. Mickiewicza;1A;\N
+1622;18-300;Zambrów;ul. Fabryczna;3;\N
+1623;18-315;Kołaki Kościelne;ul. Kościelna;11;\N
+1624;18-312;Rutki;ul.11 Listopada;7;\N
+1625;18-305;Szumowo;ul.1 Maja;50;\N
+1626;18-300;Zambrów;ul. Fabryczna;3;\N
+1627;15-950;Białystok;ul. Słonimska;1;\N
+1628;18-400;Łomża;ul. Stary Rynek;14;\N
+1629;16-400;Suwałki;ul. Mickiewicza;1;\N
+1630;77-141;Borzytuchom;ul. Zwycięstwa;56;\N
+1631;77-100;Bytów;ul. 1-go Maja;15;\N
+1632;77-116;Czarna Dąbrówka;ul. Gdańska;5;\N
+1633;77-140;Kołczygłowy;ul. Słupska;56;\N
+1634;77-130;Lipnica;ul. Józefa Słomińskiego;19;\N
+1635;77-200;Miastko;ul. Grunwaldzka;1;\N
+1636;77-124;Parchowo;ul. Krótka;2;\N
+1637;77-143;Studzienice;ul. Kaszubska;9;\N
+1638;77-235;Trzebielino;Wiejska;15;\N
+1639;77-133;Tuchomie;ul. Jana III Sobieskiego;16;\N
+1640;89-600;Chojnice;ul. Stary Rynek;1;\N
+1641;89-632;Brusy;ul. Na Zaborach;1;\N
+1642;89-600;Chojnice;ul. 31 Stycznia;56A;\N
+1643;89-650;Czersk;ul. Kościuszki;27;\N
+1644;89-607;Konarzyny;ul. Szkolna;7;\N
+1645;77-300;Człuchów;ul. Wojska Polskiego;1;\N
+1646;77-330;Czarne;ul. Moniuszki;12;\N
+1647;77-300;Człuchów;ul. Szczecińska;33;\N
+1648;77-310;Debrzno;ul. Traugutta;2;\N
+1649;77-220;Koczała;Człuchowska;27;\N
+1650;77-320;Przechlewo;ul. Człuchowska;26;\N
+1651;77-304;Rzeczenica;ul. Człuchowska;26;\N
+1652;83-000;Pruszcz Gdański;ul. Grunwaldzka;20;\N
+1653;83-020;Cedry Wielkie;ul. M. Płażyńskiego;16;\N
+1654;83-050;Kolbudy;ul. Staromłyńska;1;\N
+1655;83-000;Juszkowo;ul. Zakątek;1;\N
+1656;83-047;Przywidz;ul. Gdańska;7;\N
+1657;83-032;Pszczółki;ul. Pomorska;18;\N
+1658;83-022;Suchy Dąb;ul. Gdańska;17;\N
+1659;83-034;Trąbki Wielkie;ul. Gdańska;12;\N
+1660;83-333;Chmielno;ul. Gryfa Pomorskiego;22;\N
+1661;83-300;Kartuzy;ul. Gen. Józefa Hallera;1;\N
+1662;83-304;Przodkowo;ul. Kartuska;21;\N
+1663;83-340;Sierakowice;ul. Lęborska;30;\N
+1664;83-314;Somonino;ul. Ceynowy;21;\N
+1665;83-322;Stężyca;ul. Parkowa;1;\N
+1666;83-320;Sulęczyno;ul. Kaszubska;26;\N
+1667;83-330;Żukowo;ul. Gdańska;52;\N
+1668;83-400;Kościerzyna;ul. 3 Maja;9a;\N
+1669;83-425;Dziemiany;ul. 8 Marca;3;\N
+1670;83-440;Karsin;ul. Długa;222;\N
+1671;83-400;Kościerzyna;ul. Strzelecka;9;\N
+1672;83-420;Liniewo;ul. Dworcowa;3;\N
+1673;83-424;Lipusz;ul. Wybickiego;27;\N
+1674;83-404;Nowa Karczma;ul. Kościerska;9;\N
+1675;83-430;Stara Kiszewa;ul. Ogrodowa;1;\N
+1676;82-500;Kwidzyn;ul. Warszawska;19;\N
+1677;82-520;Gardeja;ul. Kwidzyńska;27;\N
+1678;82-500;Kwidzyn;ul. Grudziądzka;30;\N
+1679;82-550;Prabuty;ul. Kwidzyńska;2;\N
+1680;82-420;Ryjewo;ul. Lipowa;1;\N
+1681;82-522;Sadlinki;ul. Kwidzyńska;12;\N
+1682;84-300;Lębork;ul. Armii Krajowej;14;\N
+1683;84-360;Łeba;ul. Kościuszki;90;\N
+1684;84-312;Cewice;ul. Wincentego Witosa;16;\N
+1685;84-351;Nowa Wieś Lęborska;ul. Grunwaldzka;24;\N
+1686;84-352;Wicko;ul. Słupska;9;\N
+1687;82-200;Malbork;Plac Słowiański;5;\N
+1688;82-224;Lichnowy;ul. Tczewska;6;\N
+1689;82-200;Malbork;ul. Ceglana;7;\N
+1690;82-213;Miłoradz;ul. Żuławska;9;\N
+1691;82-230;Nowy Staw;ul. Bema;1;\N
+1692;82-220;Stare Pole;ul. Marynarki Wojennej;6;\N
+1693;82-120;Krynica Morska;ul. Górników;15;\N
+1694;82-100;Nowy Dwór Gdański;ul. Wejhera;3;\N
+1696;82-103;Stegna;ul. Gdańska;34;\N
+1697;82-110;Sztutowo;ul. Gdańska;55;\N
+1698;84-150;Hel;ul. Wiejska;50;\N
+1699;84-140;Jastarnia;ul. Portowa;24;\N
+1700;84-100;Puck;ul. 1 Maja;13;\N
+1701;84-120;Władysławowo;ul. Gen. Hallera;19;\N
+1702;81-198;Kosakowo;ul. Żeromskiego;69;\N
+1703;84-110;Krokowa;ul. Żarnowiecka;29;\N
+1704;84-100;Puck;ul. 10 Lutego;29;\N
+1705;76-270;Ustka;ul. Ks. Kard. St. Wyszyńskiego;3;\N
+1706;76-231;Damnica;ul. Górna;1;\N
+1707;76-248;Dębnica Kaszubska;ul. Księdza Antoniego Kani;16a;\N
+1708;76-220;Główczyce;ul. Kościuszki;8;\N
+1709;77-230;Kępice;ul. Niepodległości;6;\N
+1710;76-251;Kobylnica;ul. Główna;20;\N
+1711;76-230;Potęgowo;ul. Kościuszki;5;\N
+1712;76-200;Słupsk;ul. Sportowa;34;\N
+1713;76-214;Smołdzino;ul. Kościuszki;3;\N
+1714;76-270;Ustka;ul. Dunina;24;\N
+1715;83-262;Czarna Woda;ul. Mickiewicza;7;\N
+1716;83-220;Skórcz;ul. Główna;40;\N
+1717;83-200;Starogard Gdański;ul. Gdańska;6;\N
+1718;83-212;Bobowo;ul. Gdańska;12;\N
+1719;83-260;Kaliska;ul. Nowowiejska;2;\N
+1720;83-240;Lubichowo;ul. Zblewska;8;\N
+1721;83-242;Osieczna;Plac 1000-lecia;1;\N
+1722;83-221;Osiek;ul. Kwiatowa;30;\N
+1723;83-250;Skarszewy;Plac Hallera;18;\N
+1724;83-220;Skórcz;ul. Dworcowa;6;\N
+1725;83-230;Smętowo Graniczne;ul. Dworcowa;10;\N
+1726;83-200;Starogard Gdański;ul. Sikorskiego;9;\N
+1727;83-210;Zblewo;ul. Główna;40;\N
+1728;83-110;Tczew;Plac Marszałka Piłsudskiego;1;\N
+1729;83-140;Gniew;Plac Grunwaldzki;1;\N
+1730;83-132;Morzeszczyn;ul. Kociewska;12;\N
+1731;83-130;Pelplin;Plac Grunwaldzki;4;\N
+1732;83-120;Subkowy;ul. Wybickiego;19A;\N
+1733;83-110;Tczew;ul. Lecha;12;\N
+1734;84-240;Reda;ul. Gdańska;33;\N
+1735;84-230;Rumia;ul. Sobieskiego;7;\N
+1736;84-200;Wejherowo;Plac Jakuba Wejhera;8;\N
+1737;84-210;Choczewo;ul. Pierwszych Osadników;17;\N
+1738;84-250;Gniewino;ul. Pomorska;8;\N
+1739;84-223;Linia;ul. Turystyczna;15;\N
+1740;84-242;Luzino;ul. Ofiar Stutthofu;11;\N
+1741;84-218;Łęczyce;ul. Długa;53;\N
+1742;84-217;Szemud;ul. Kartuska;13;\N
+1743;84-200;Wejherowo;ul. Transportowa;1;\N
+1744;82-440;Dzierzgoń;Plac Wolności;1;\N
+1745;82-433;Mikołajki Pomorskie;ul. Dzierzgońska;2;\N
+1746;82-450;Stary Dzierzgoń;Stary Dzierzgoń;71;\N
+1747;82-410;Stary Targ;ul. Główna;20;\N
+1748;82-400;Sztum;ul. Mickiewicza;39;\N
+1749;80-803;Gdańsk;ul. Nowe Ogrody;8;12
+1750;81-382;Gdynia;Al. Piłsudskiego;52;54
+1751;76-200;Słupsk;Pl. Zwycięstwa;3;\N
+1752;81-704;Sopot;ul. Kościuszki;25;27
+1753;42-500;Będzin;ul. 11 Listopada;20;\N
+1754;41-250;Czeladź;ul. Katowicka;45;\N
+1755;42-580;Wojkowice;ul. Jana III Sobieskiego;290a;\N
+1756;42-583;Bobrowniki;ul. Gminna;8;\N
+1757;42-460;Mierzęcice;ul. Wolności;95;\N
+1758;42-512;Psary;ul. Malinowicka;4;\N
+1759;42-470;Siewierz;ul. Żwirki i Wigury;16;\N
+1760;41-260;Sławków;Rynek;1;\N
+1761;43-370;Szczyrk;ul. Beskidzka;4;\N
+1762;43-512;Bestwina;ul. Krakowska;111;\N
+1763;43-374;Buczkowice;ul. Lipowska;730;\N
+1764;43-502;Czechowice-Dziedzice;Plac Jana Pawła II;1;\N
+1766;43-384;Jaworze;ul. Zdrojowa;82;\N
+1767;43-340;Kozy;ul. Krakowska;4;\N
+1768;43-353;Porąbka;ul. Krakowska;3;\N
+1769;43-330;Wilamowice;Rynek;1;\N
+1770;43-365;Wilkowice;ul. Wyzwolenia;25;\N
+1771;43-400;Cieszyn;ul. Rynek;1;\N
+1772;43-450;Ustroń;Rynek;1;\N
+1773;43-460;Wisła;Plac Bogumiła Hoffa;3;\N
+1774;43-438;Brenna;ul. Wyzwolenia;77;\N
+1775;43-520;Chybie;ul. Bielska;78;\N
+1776;43-426;Dębowiec;ul. Katowicka;6;\N
+1777;43-440;Goleszów;ul. 1 Maja;5;\N
+1778;43-419;Hażlach;ul. Główna;57;\N
+1780;43-430;Skoczów;Rynek;1;\N
+1781;43-246;Strumień;Rynek;4;\N
+1782;43-410;Zebrzydowice;ul. Ks. Antoniego Janusza;6;\N
+1783;42-290;Blachownia;ul. Sienkiewicza;22;\N
+1784;42-265;Dąbrowa Zielona;Pl. Kościuszki;31;\N
+1785;42-253;Janów;ul. Częstochowska;1;\N
+1786;42-260;Kamienica Polska;ul. Konopnickiej;12;\N
+1787;42-270;Kłomnice;ul. Strażacka;20;\N
+1788;42-230;Koniecpol;ul. Chrząstowska;6A;\N
+1789;42-274;Konopiska;ul. Lipowa;5;\N
+1790;42-282;Kruszyna;ul. Kmicica;5;\N
+1791;42-235;Lelów;ul. Szczekocińska;18;\N
+1792;42-244;Mstów;ul. Gminna;14;\N
+1793;42-233;Mykanów;ul. Samorządowa;1;\N
+1794;42-256;Olsztyn;Plac Marszałka Józefa Piłsudskiego;10;\N
+1795;42-262;Poczesna;ul. Wolności;2;\N
+1796;42-248;Przyrów;ul. Częstochowska;7;\N
+1797;42-242;Rędziny;ul. Wolności;87;\N
+1798;42-261;Starcza;ul. Gminna;4;\N
+1799;44-190;Knurów;ul. dr Floriana Ogana;5;\N
+1800;44-120;Pyskowice;ul. Strzelców Bytomskich;3;\N
+1801;44-186;Gierałtowice;ul. Ks. Roboty;48;\N
+1802;44-145;Pilchowice;ul. Damrota;6;\N
+1803;44-160;Rudziniec;ul. Gliwicka;26;\N
+1804;44-153;Sośnicowice;Rynek;19;\N
+1805;44-180;Toszek;ul. Bolesława Chrobrego;2;\N
+1806;44-187;Wielowieś;ul. Główna;1;\N
+1807;42-100;Kłobuck;ul. 11 Listopada;6;\N
+1808;42-160;Krzepice;ul. Częstochowska;13;\N
+1809;42-165;Lipie;ul. Częstochowska;29;\N
+1811;42-152;Opatów;ul. Tadeusza Kościuszki;27;\N
+1812;42-140;Panki;ul. Tysiąclecia;5;\N
+1813;42-110;Popów;ul. Częstochowska;6;\N
+1814;42-141;Przystajń;ul. Częstochowska;5;\N
+1815;42-130;Wręczyca Wielka;ul. Sienkiewicza;1;\N
+1816;42-700;Lubliniec;ul. Paderewskiego;5;\N
+1817;42-283;Boronów;ul. Dolna;2;\N
+1818;42-793;Ciasna;ul. Nowa;1a;\N
+1819;42-284;Herby;ul. Lubliniecka;33;\N
+1820;42-713;Kochanowice;ul. Wolności;5;\N
+1821;42-286;Koszęcin;ul. Powstańców Śląskich;10;\N
+1822;42-772;Pawonków;ul. Lubliniecka;16;\N
+1823;42-289;Woźniki;ul. Rynek;11;\N
+1824;43-170;Łaziska Górne;Plac Ratuszowy;1;\N
+1825;43-190;Mikołów;Rynek;16;\N
+1826;43-180;Orzesze;ul. Św. Wawrzyńca;21;\N
+1827;43-178;Ornontowice;ul. Zwycięstwa;26a;\N
+1828;43-175;Wyry;ul. Główna;133;\N
+1829;42-300;Myszków;ul. Kościuszki;26;\N
+1830;42-350;Koziegłowy;Plac Moniuszki;14;\N
+1831;42-320;Niegowa;ul. Sobieskiego;1;\N
+1832;42-360;Poraj;ul. Jasna;21;\N
+1833;42-310;Żarki;ul. Kościuszki;15;17
+1834;43-230;Goczałkowice-Zdrój;ul. Szkolna;13;\N
+1835;43-210;Kobiór;ul. Kobiórska;5;\N
+1836;43-227;Miedźna;ul. Wiejska;131;\N
+1837;43-250;Pawłowice;ul. Zjednoczenia;60;\N
+1838;43-200;Pszczyna;Rynek;2;\N
+1839;43-267;Suszec;ul. Lipowa;1;\N
+1840;47-400;Racibórz;ul.Króla Stefana Batorego;6;\N
+1841;44-285;Kornowac;ul. Raciborska;48;\N
+1842;47-470;Krzanowice;ul. Morawska;5;\N
+1843;47-450;Krzyżanowice;ul. Główna;5;\N
+1844;47-420;Kuźnia Raciborska;ul. Słowackiego;4;\N
+1845;47-440;Nędza;ul. Jana III Sobieskiego;5;\N
+1846;47-480;Pietrowice Wielkie;ul. Szkolna;5;\N
+1847;47-411;Rudnik;ul. Kozielska;1;\N
+1848;44-230;Czerwionka-Leszczyny;ul. Parkowa;9;\N
+1849;44-293;Gaszowice;ul. Rydułtowska;2;\N
+1850;44-290;Jejkowice;ul. Główna;38a;\N
+1851;44-295;Lyski;ul. Dworcowa;1a;\N
+1852;44-266;Świerklany;ul. Kościelna;85;\N
+1853;42-660;Kalety;ul. Żwirki i Wigury;2;\N
+1854;42-610;Miasteczko Śląskie;ul. Rynek;8;\N
+1855;41-922;Radzionków;ul. Męczenników Oświęcimia;42;\N
+1856;42-600;Tarnowskie Góry;ul. Rynek;4;\N
+1857;42-693;Krupski Młyn;ul. Krasickiego;9;\N
+1858;42-625;Ożarowice;ul. Dworcowa;15;\N
+1859;42-622;Świerklaniec;ul. Młyńska;3;\N
+1860;42-690;Tworóg;ul. Zamkowa;16;\N
+1861;42-674;Zbrosławice;ul. Oświęcimska;2;\N
+1862;43-150;Bieruń;ul. Rynek;14;\N
+1863;41-407;Imielin;ul. Imielińska;81;\N
+1864;43-143;Lędziny;ul. Lędzińska;55;\N
+1865;43-220;Bojszowy;ul. Gaikowa;35;\N
+1866;41-403;Chełm Śląski;ul. Konarskiego;2;\N
+1867;44-370;Pszów;ul. Pszowska;534;\N
+1868;44-310;Radlin;ul. Józefa Rymera;15;\N
+1869;44-280;Rydułtowy;ul. Ofiar Terroru;36;\N
+1870;44-300;Wodzisław Śląski;ul. Bogumińska;4;\N
+1871;44-340;Godów;ul. 1 Maja;53;\N
+1872;44-350;Gorzyce;ul. Kościelna;15;\N
+1873;44-360;Lubomia;ul. Szkolna;1;\N
+1874;44-321;Marklowice;ul. Wyzwolenia;71;\N
+1875;44-325;Mszana;ul.1 Maja;81;\N
+1876;42-480;Poręba;ul. Dworcowa;1;\N
+1877;42-400;Zawiercie;ul. Leśna;2;\N
+1879;42-425;Kroczyce;ul. Batalionów Chłopskich;29;\N
+1880;42-450;Łazy;ul. Traugutta;15;\N
+1881;42-440;Ogrodzieniec;Pl. Wolności;25;\N
+1882;42-436;Pilica;ul. Żarnowiecka;46A;\N
+1883;42-445;Szczekociny;ul. Senatorska;2;\N
+1884;42-421;Włodowice;ul. Krakowska;26;\N
+1885;42-439;Żarnowiec;ul. Krakowska;34;\N
+1886;34-300;Żywiec;ul. Rynek;2;\N
+1887;34-311;Czernichów;ul. Żywiecka;2;\N
+1888;34-322;Gilowice;ul. Krakowska;40;\N
+1889;34-340;Jeleśnia;ul. Plebańska;1;\N
+1891;34-324;Lipowa;ul.Wiejska;44;\N
+1892;34-321;Łękawica;ul. Wspólna;24;\N
+1893;34-325;Łodygowice;ul. Piłsudskiego;75;\N
+1894;34-360;Milówka;ul. Jana Kazimierza;123;\N
+1895;34-381;Radziechowy;Wieprz;700;\N
+1896;34-370;Rajcza;ul. Górska;1;\N
+1897;34-323;Ślemień;ul. Krakowska;148;\N
+1898;34-331;Świnna;ul. Wspólna;13;\N
+1899;34-371;Ujsoły;ul. Gminna;1;\N
+1900;34-350;Węgierska Górka;ul. Zielona;43;\N
+1901;43-300;Bielsko-Biała;pl. Ratuszowy;1;\N
+1902;41-902;Bytom;ul. Parkowa;2;\N
+1903;41-500;Chorzów;ul. Rynek;1;\N
+1904;42-217;Częstochowa;ul. Śląska;11;13
+1905;41-300;Dąbrowa Górnicza;ul. Graniczna;21;\N
+1906;44-100;Gliwice;ul. Zwycięstwa;21;\N
+1907;44-335;Jastrzębie-Zdrój;Al. Piłsudskiego;60;\N
+1908;43-600;Jaworzno;ul. Grunwaldzka;33;\N
+1909;40-098;Katowice;ul. Młyńska;4;\N
+1910;41-400;Mysłowice;ul. Powstańców;1;\N
+1911;41-940;Piekary Śląskie;ul. Bytomska;84;\N
+1912;41-709;Ruda Śląska;Pl. Jana Pawła II;6;\N
+1913;44-200;Rybnik;ul. Bolesława Chrobrego;2;\N
+1914;41-100;Siemianowice Śląskie;ul. Jana Pawła II;10;\N
+1915;41-200;Sosnowiec;Al. Zwycięstwa;20;\N
+1916;41-600;Świętochłowice;ul. Katowicka;54;\N
+1917;43-100;Tychy;al. Niepodległości;49;\N
+1918;41-800;Zabrze;ul. Powstańców Śląskich;05.lip;\N
+1919;44-240;Żory;Al. Wojska Polskiego;25;\N
+1920;28-100;Busko-Zdrój;al. Mickiewicza;10;\N
+1921;28-114;Gnojno;Gnojno;145;\N
+1922;28-136;Nowy Korczyn;ul. Krakowska;1;\N
+1923;28-133;Pacanów;ul. Rynek;15;\N
+1924;28-131;Solec-Zdrój;ul. 1 Maja;10;\N
+1925;28-130;Stopnica;ul. Kościuszki;2;\N
+1926;28-142;Tuczępy;Tuczępy;35;\N
+1927;28-160;Wiślica;ul. Okopowa;8;\N
+1928;28-313;Imielno;ul. Cmentarna;7;\N
+1929;28-300;Jędrzejów;ul. 11 Listopada;33 a;\N
+2164;63-830;Pępowo;ul. Nadstawek;6;\N
+1930;28-366;Małogoszcz;ul. Jaszowskiego;3a;\N
+1931;28-362;Nagłowice;ul. Mikołaja Reja;9;\N
+1932;28-363;Oksa;ul. Włoszczowska;22;\N
+1933;28-340;Sędziszów;ul. Dworcowa;20;\N
+1934;28-350;Słupia (Jędrzejowska);Słupia;257;\N
+1935;28-305;Sobków;Plac Wolności;12;\N
+1936;28-330;Wodzisław;ul. Krakowska;6;\N
+1938;28-506;Czarnocin;Czarnocin;100;\N
+1939;28-500;Kazimierza Wielka;ul. Kościuszki;12;\N
+1941;28-530;Skalbmierz;ul. Kościuszki;1;\N
+1942;26-004;Bieliny;ul. Partyzantów;17;\N
+1943;26-010;Bodzentyn;ul. Suchedniowska;3;\N
+1944;26-060;Chęciny;Pl. 2 Czerwca;4;\N
+1945;26-020;Chmielnik;Plac Kościuszki;7;\N
+1946;26-021;Daleszyce;Plac Staszica;9;\N
+1947;26-008;Górno;Łysicka;13;\N
+1948;26-025;Łagów;Rynek;62;\N
+1949;26-070;Łopuszno;ul. Konecka;12;\N
+1950;26-001;Masłów;ul. Spokojna;2;\N
+1951;26-085;Miedziana Góra;ul. Urzędnicza;18;\N
+1952;26-080;Mniów;ul. Centralna;9;\N
+1953;26-026;Morawica;ul. Spacerowa;7;\N
+1954;26-006;Nowa Słupia;ul. Rynek;15;\N
+1955;26-065;Piekoszów;ul. Częstochowska;66a;\N
+1956;26-015;Pierzchnica;ul. Urzędnicza;6;\N
+1957;26-035;Raków;ul. Ogrodowa;1;\N
+1958;26-052;Nowiny;ul. Białe Zagłębie;25;\N
+1959;26-067;Strawczyn;ul. Żeromskiego;16;\N
+1960;26-050;Zagnańsk;ul. Spacerowa;8;\N
+1961;26-260;Fałków;ul. Zamkowa;1A;\N
+1962;26-225;Gowarczów;pl. XX-lecia;1;\N
+1963;26-200;Końskie;ul. Partyzantów;1;\N
+1964;26-230;Radoszyce;ul. Żeromskiego;28;\N
+1965;26-242;Ruda Maleniecka;Ruda Maleniecka;99A;\N
+1966;26-234;Słupia (konecka);Słupia;30A;\N
+1967;26-212;Smyków;Smyków;91;\N
+1968;26-220;Stąporków;ul. Marszałka Józefa Piłsudskiego;132A;\N
+1969;27-552;Baćkowice;Baćkowice;84;\N
+1970;27-570;Iwaniska;Rynek;3;\N
+1971;27-540;Lipnik;Lipnik;20;\N
+1972;27-500;Opatów;Plac Obrońców Pokoju;34;\N
+1973;27-530;Ożarów;ul. Stodolna;1;\N
+1974;27-580;Sadowie;Sadowie;86;\N
+1975;27-515;Tarłów;ul. Rynek;2;\N
+1976;27-532;Wojciechowice;Wojciechowice;50;\N
+1977;27-400;Ostrowiec Świętokrzyski;ul. Jana Głogowskiego;3;5
+1978;27-423;Bałtów;Bałtów;32;\N
+1979;27-400;Ostrowiec Świętokrzyski;ul. Mikołaja Reja;10;\N
+1980;27-440;Ćmielów;ul. Ostrowiecka;40;\N
+1981;27-415;Kunów;ul. Warszawska;45 B;\N
+1982;27-425;Waśniów;ul. Rynek;24;\N
+1983;28-440;Działoszyce;ul. Skalbmierska;5;\N
+1984;28-404;Kije;ul. Szkolna;19;\N
+1985;28-411;Michałów;Michałów;115;\N
+1986;28-400;Pińczów;ul. 3 Maja;10;\N
+1987;28-425;Złota;ul. Sienkiewicza;79;\N
+1988;27-600;Sandomierz;Pl. Poniatowskiego;3;\N
+1989;27-620;Dwikozy;ul. Spółdzielcza;15;\N
+1990;27-640;Klimontów;ul. dra Jakuba Zysmana;1;\N
+1991;27-660;Koprzywnica;ul. 11 Listopada;88;\N
+1992;27-670;Łoniów;Łoniów;56;\N
+1993;27-641;Obrazów;Obrazów;84;\N
+1994;27-650;Samborzec;Samborzec;43;\N
+1995;27-612;Wilczyce;Wilczyce;174;\N
+1996;27-630;Zawichost;ul. Żeromskiego;50;\N
+1997;26-110;Skarżysko-Kamienna;ul. Sikorskiego;18;\N
+1998;26-120;Bliżyn;ul. Kościuszki;79A;\N
+1999;26-140;Łączna;Czerwona Górka;1B;\N
+2000;26-115;Skarżysko Kościelne;ul. Kościelna;2A;\N
+2001;26-130;Suchedniów;ul. Fabryczna;5;\N
+2002;27-200;Starachowice;ul. Radomska;45;\N
+2003;27-230;Brody;ul. Staszica;3;\N
+2004;27-220;Mirzec;ul. Mirzec Stary;9;\N
+2005;27-225;Pawłów;Pawłów;56;\N
+2006;27-215;Wąchock;ul. Wielkowiejska;1;\N
+2007;28-210;Bogoria;ul. Opatowska;13;\N
+2008;28-232;Łubnice;Łubnice;66A;\N
+2009;28-220;Oleśnica;ul. Nadstawie;1;\N
+2010;28-221;Osiek;ul. Rynek;1;\N
+2011;28-230;Połaniec;ul. Ruszczańska;27;\N
+2012;28-236;Rytwiany;ul. Staszowska;15;\N
+2013;28-200;Staszów;ul. Opatowska;31;\N
+2014;28-225;Szydłów;ul. Rynek;2;\N
+2015;29-120;Kluczewsko;ul. Spółdzielcza;12;\N
+2016;29-105;Krasocin;ul. Macierzy Szkolnej;1;\N
+2017;29-130;Moskorzew;Moskorzew;42;\N
+2018;29-135;Radków;Radków;99;\N
+2019;29-145;Secemin;ul. Struga;2;\N
+2020;29-100;Włoszczowa;ul. Partyzantów;14;\N
+2021;25-303;Kielce;Rynek;1;\N
+2022;11-200;Bartoszyce;ul. Bohaterów Monte Cassino;1;\N
+2023;11-220;Górowo Iławeckie;Plac Ratuszowy;18;\N
+2024;11-200;Bartoszyce;pl. Zwycięstwa;2;\N
+2025;11-230;Bisztynek;ul. Kościuszki;2;\N
+2026;11-220;Górowo Iławeckie;ul. Kościuszki;17;\N
+2027;11-210;Sępopol;ul. 11 Listopada;7;\N
+2028;14-500;Braniewo;ul. Kościuszki;111;\N
+2029;14-500;Braniewo;ul. Moniuszki;5;\N
+2030;14-530;Frombork;ul. Młynarska;5A;\N
+2031;14-521;Lelkowo;Lelkowo;21;\N
+2032;14-520;Pieniężno;ul. Generalska;8;\N
+2033;14-526;Płoskinia;Płoskinia;8;\N
+2034;14-405;Wilczęta;Wilczęta;84;\N
+2035;13-200;Działdowo;ul. Zamkowa;12;\N
+2036;13-200;Działdowo;ul. Księżodworska;10;\N
+2037;13-240;Iłowo-Osada;ul. Wyzwolenia;5;\N
+2038;13-230;Lidzbark;ul. Sądowa;21;\N
+2039;13-206;Płośnica;ul. Dworcowa;52;\N
+2040;13-220;Rybno;ul. Lubawska;15;\N
+2041;82-300;Elbląg;ul. Browarna;85;\N
+2042;14-407;Godkowo;Godkowo;14;\N
+2043;82-335;Gronowo Elbląskie;ul. Łączności;3;\N
+2045;82-316;Milejewo;ul. Elbląska;47;\N
+2046;14-420;Młynary;ul. Dworcowa;29;\N
+2047;14-400;Pasłęk;Pl. Św. Wojciecha;5;\N
+2048;14-411;Rychliki;Rychliki;86;\N
+2049;82-340;Tolkmicko;ul. Plac Wolności;3;\N
+2050;19-300;Ełk;ul. Marsz. J. Piłsudskiego;4;\N
+2051;19-300;Ełk;ul. T. Kościuszki;28a;\N
+2052;19-314;Kalinowo;ul. Mazurska;11;\N
+2053;19-335;Prostki;ul. 1 Maja;44B;\N
+2054;19-330;Stare Juchy;pl. 500-Lecia;4;\N
+2055;11-500;Giżycko;al. 1 Maja;14;\N
+2056;11-500;Giżycko;ul. Mickiewicza;33;\N
+2057;11-612;Kruklanki;ul. 22 Lipca;10;\N
+2058;11-513;Miłki;ul. Mazurska;2;\N
+2059;11-520;Ryn;ul. Ratuszowa;2;\N
+2060;11-510;Wydminy;pl. Rynek;1;\N
+2061;14-200;Iława;ul. Niepodległości;13;\N
+2062;14-260;Lubawa;ul. Rzepnikowskiego;9a;\N
+2063;14-200;Iława;ul. Andersa;2A;\N
+2064;14-220;Kisielice;ul. Daszyńskiego;5;\N
+2065;14-260;Lubawa;Fijewo;73;\N
+2066;14-240;Susz;ul. Wybickiego;6;\N
+2067;14-230;Zalewo;ul. Częstochowska;8;\N
+2068;11-400;Kętrzyn;ul. Wojska Polskiego;11;\N
+2069;11-410;Barciany;ul. Szkolna;3;\N
+2070;11-400;Kętrzyn;ul. Kościuszki;2;\N
+2071;11-430;Korsze;ul. Mickiewicza;13;\N
+2072;11-440;Reszel;Rynek;24;\N
+2073;11-420;Srokowo;Plac Rynkowy;1;\N
+2074;11-100;Lidzbark Warmiński;Aleksandra Świętochowskiego;14;\N
+2075;11-106;Kiwity;Kiwity;28;\N
+2076;11-100;Lidzbark Warmiński;ul. Krasickiego;1;\N
+2077;11-135;Lubomino;ul. Kopernika;7;\N
+2078;11-130;Orneta;Plac Wolności;26;\N
+2079;11-700;Mrągowo;ul. Królewiecka;60A;\N
+2080;11-730;Mikołajki;ul. Kolejowa;7;\N
+2081;11-700;Mrągowo;ul. Królewiecka;60A;\N
+2082;11-710;Piecki;ul. Zwycięstwa;34;\N
+2083;11-731;Sorkwity;ul. Olsztyńska;16A;\N
+2084;13-111;Janowiec Kościelny;Janowiec Kościelny;62;\N
+2085;13-113;Janowo;ul. Przasnyska;14;\N
+2086;13-124;Kozłowo;ul. Mazurska;3;\N
+2087;13-100;Nidzica;pl. Wolności;1;\N
+2088;13-300;Nowe Miasto Lubawskie;ul. Rynek;1;\N
+2089;13-340;Biskupiec;ul. Rynek;1;\N
+2090;13-324;Grodziczno;Grodziczno;17A;\N
+2091;13-306;Kurzętnik;ul. Grunwaldzka;39;\N
+2092;13-300;Nowe Miasto Lubawskie;ul. Podleśna;1;\N
+2093;19-420;Kowale Oleckie;ul. Kościuszki;44;\N
+2094;19-400;Olecko;pl. Plac Wolności;3;\N
+2095;19-411;Świętajno;Świętajno;104;\N
+2096;19-404;Wieliczki;ul. Lipowa;53;\N
+2097;11-010;Barczewo;pl. Ratuszowy;1;\N
+2098;11-300;Biskupiec;al. Niepodległości;2;\N
+2099;11-040;Dobre Miasto;ul. Warszawska;14;\N
+2100;11-001;Dywity;ul. Olsztyńska;32;\N
+2101;11-036;Gietrzwałd;ul. Olsztyńska;2;\N
+2102;11-320;Jeziorany;Plac Zamkowy;4;\N
+2103;11-042;Jonkowo;ul. Klonowa;2;\N
+2104;11-311;Kolno;Kolno;33;\N
+2105;11-015;Olsztynek;Ratusz;1;\N
+2106;11-030;Purda;Purda;19;\N
+2107;11-034;Stawiguda;ul. Olsztyńska;10;\N
+2108;11-008;Świątki;Świątki;87;\N
+2109;14-100;Ostróda;ul. Mickiewicza;24;\N
+2110;14-120;Dąbrówno;ul. Kościuszki;21;\N
+2111;14-107;Gierzwałd;Gierzwałd;33;\N
+2112;14-105;Łukta;ul. Mazurska;2;\N
+2113;14-330;Małdyty;ul. Kopernika;10;\N
+2114;14-310;Miłakowo;ul. Olsztyńska;16;\N
+2115;14-140;Miłomłyn;ul. Twarda;12;\N
+2116;14-300;Morąg;ul. 11 Listopada;9;\N
+2117;14-100;Ostróda;ul. Jana III Sobieskiego;1;\N
+2118;12-230;Biała Piska;pl. Mickiewicza;25;\N
+2119;12-250;Orzysz;ul. Rynek;3;\N
+2120;12-200;Pisz;ul. Gizewiusza;5;\N
+2121;12-220;Ruciane-Nida;al. Wczasów;4;\N
+2122;12-100;Szczytno;ul. Henryka Sienkiewicza;1;\N
+2123;12-120;Dźwierzuty;ul. Niepodległości;6;\N
+2124;12-122;Jedwabno;ul. Warmińska;2;\N
+2125;12-130;Pasym;Rynek;8;\N
+2126;12-114;Rozogi;ul. Wojciecha Ketrzyńskiego;22;\N
+2127;12-100;Szczytno;ul. Łomżyńska;3;\N
+2128;12-140;Świętajno;ul. Grunwaldzka;15;\N
+2129;12-160;Wielbark;ul. Grunwaldzka;2;\N
+2130;19-520;Banie Mazurskie;ul. Konopnickiej;26;\N
+2131;19-504;Dubeninki;ul.Dębowa;27;\N
+2132;19-500;Gołdap;Plac Zwycięstwa;14;\N
+2133;11-606;Budry;Aleja Wojska Polskiego;27;\N
+2134;11-610;Pozezdrze;ul. 1 Maja;1a;\N
+2135;11-600;Węgorzewo;ul. Zamkowa;3;\N
+2136;82-300;Elbląg;ul. Łączności;1;\N
+2137;10-101;Olsztyn;Pl.Jana Pawła II;1;\N
+2138;64-800;Chodzież;ul. Paderewskiego;2;\N
+2139;64-840;Budzyń;ul.Przemysłowa;16A;\N
+2140;64-800;Chodzież;ul. Notecka;28;\N
+2141;64-830;Margonin;ul. Kościuszki;13;\N
+2142;64-820;Szamocin;Plac Wolności;19;\N
+2143;64-700;Czarnków;Plac Wolności;6;\N
+2144;64-700;Czarnków;ul. Rybaki;3;\N
+2145;64-733;Drawsko;ul. Powstańców Wielkopolskich;121;\N
+2146;64-761;Krzyż Wielkopolski;ul. Wojska Polskiego;14;\N
+2147;64-720;Lubasz;ul. Chrobrego;37;\N
+2148;64-710;Połajewo;ul. Obornicka;6A;\N
+2149;64-980;Trzcianka;ul. Sikorskiego;7;\N
+2150;64-730;Wieleń;ul. Kościuszki;34;\N
+2151;62-200;Gniezno;ul. Lecha;6;\N
+2152;62-250;Czerniejewo;ul. Poznańska;8;\N
+2153;62-200;Gniezno;Al. Reymonta;09.lis;\N
+2154;62-280;Kiszkowo;ul. Szkolna;2;\N
+2155;62-270;Kłecko;ul. Dworcowa;14;\N
+2156;62-260;Łubowo;Łubowo;1;\N
+2157;62-212;Mieleszyn;Mieleszyn;23;\N
+2158;62-220;Niechanowo;ul. Różana;1;\N
+2159;62-240;Trzemeszno;ul. Gen. H. Dąbrowskiego;2;\N
+2160;62-230;Witkowo;ul. Gnieźnieńska;1;\N
+2161;63-810;Borek Wielkopolski;Rynek;1;\N
+2162;63-800;Gostyń;ul. Rynek;2;\N
+2163;63-840;Krobia;Rynek;1;\N
+2165;63-820;Piaski;ul. 6 Stycznia;1;\N
+2166;63-860;Pogorzela;ul. Rynek;1;\N
+2167;64-125;Poniec;ul. Rynek;24;\N
+2168;62-066;Granowo;ul.Sportowa;2;\N
+2169;62-065;Grodzisk Wielkopolski;ul. Stary Rynek;1;\N
+2170;64-061;Kamieniec;ul.Tysiąclecia Państwa Polskiego;25;\N
+2171;62-067;Rakoniewice;os.Parkowe;1;\N
+2172;64-050;Wielichowo;Rynek;10;\N
+2173;63-233;Jaraczewo;ul. Jarocińska;1;\N
+2174;63-200;Jarocin;al. Niepodległości;10;\N
+2175;63-220;Kotlin;ul. Powstańców Wielk.;3;\N
+2176;63-210;Żerków;ul. Mickiewicza;5;\N
+2177;62-814;Blizanów;Blizanów Drugi;52;\N
+2178;62-874;Brzeziny;ul. 1000-lecia;8;\N
+2179;62-834;Ceków-Kolonia;Ceków-Kolonia;51;\N
+2180;62-872;Godziesze Małe;ul. 11 Listopada;10;\N
+2181;62-840;Koźminek;ul. Tadeusza Kościuszki;7;\N
+2182;62-850;Lisków;ul. Blizińskiego;56;\N
+2183;62-831;Korzeniew;Słuszków;27;\N
+2184;62-860;Opatówek;Pl. Wolności;14;\N
+2185;62-820;Stawiszyn;ul. Szosa Pleszewska;3;\N
+2186;62-865;Szczytniki;Szczytniki;139;\N
+2187;62-817;Żelazków;Żelazków;138;\N
+2188;63-604;Baranów;Rynek;21;\N
+2189;63-640;Bralin;Rynek;3;\N
+2190;63-600;Kępno;Ratuszowa;1;\N
+2191;63-645;Łęka Opatowska;ul. Akacjowa;4;\N
+2192;63-642;Perzów;Perzów;78;\N
+2193;63-630;Rychtal;Rynek;1;\N
+2194;63-620;Trzcinica;ul. Jana Pawła II;47;\N
+2195;62-600;Koło;ul. Stary Rynek;1;\N
+2196;62-620;Babiak;pl. Wolności;5;\N
+2197;62-652;Chodów;Chodów;18;\N
+2198;62-660;Dąbie;Plac Mickiewicza;1;\N
+2199;62-640;Grzegorzew;Plac 1000-lecia Państwa Polskiego;1;\N
+2200;62-650;Kłodawa;ul. Dąbska;17;\N
+2201;62-600;Koło;ul. Sienkiewicza;23;\N
+2202;62-604;Kościelec;ul. Turecka;7;3
+2203;62-641;Olszówka;Olszówka;15;\N
+2204;62-613;Osiek Mały;ul. Główna;1;\N
+2205;62-635;Przedecz;Plac Wolności;1;\N
+2206;62-590;Golina;ul. Nowa;1;\N
+2207;62-580;Grodziec;ul. Główna;17;\N
+2208;62-530;Kazimierz Biskupi;Plac Wolności;1;\N
+2209;62-540;Kleczew;pl. Kościuszki;5;\N
+2210;62-511;Kramsk;ul. Chopina;12;\N
+2211;62-513;Krzymów;ul. Kościelna;2;\N
+2212;62-570;Rychwał;Plac Wolności;16;\N
+2213;62-586;Rzgów;ul. Konińska;8;\N
+2214;62-560;Skulsk;ul. Targowa;2;\N
+2215;62-610;Sompolno;ul. 11 Listopada;15;\N
+2216;62-571;Stare Miasto;ul. Główna;16B;\N
+2217;62-561;Ślesin;ul. Kleczewska;15;\N
+2218;62-619;Sadlno;Plac Powstańców Styczniowych;110;\N
+2219;62-550;Wilczyn;ul. Strzelińska;12D;\N
+2220;64-000;Kościan;Al. Kościuszki;22;\N
+2221;64-020;Czempiń;ul.ks.Jerzego Popiełuszki;25;\N
+2222;64-000;Kościan;ul. Młyńska;15;\N
+2223;64-010;Krzywiń;Rynek;1;\N
+2224;64-030;Śmigiel;pl. Wojska Polskiego;6;\N
+2225;63-750;Sulmierzyce;Rynek;11;\N
+2226;63-740;Kobylin;Rynek Marszałka J.Piłsudskiego;1;\N
+2227;63-720;Koźmin Wielkopolski;Stary Rynek;11;\N
+2228;63-700;Krotoszyn;ul. Kołłątaja;7;\N
+2229;63-708;Rozdrażew;Rynek;3;\N
+2230;63-760;Zduny;Rynek;2;\N
+2231;64-120;Krzemieniewo;ul. Dworcowa;34;\N
+2232;64-111;Lipno;ul. Powstańców Wielkopolskich;9;\N
+2233;64-113;Osieczna;ul. Powstańców Wlkp.;6;\N
+2234;64-130;Rydzyna;ul. Rynek;1;\N
+2235;64-115;Święciechowa;ul. Ułańska;4;\N
+2236;64-150;Wijewo;ul. Parkowa;1;\N
+2237;64-140;Włoszakowice;ul. Kurpińskiego;29;\N
+2238;64-412;Chrzypsko Wielkie;ul. Główna;15;\N
+2239;64-420;Kwilcz;ul. Wyszyńskiego;23;\N
+2240;64-400;Międzychód;ul. Piłsudskiego;2;\N
+2241;64-410;Sieraków;ul. 8 Stycznia;38;\N
+2242;64-316;Kuślin;ul. Emilii Sczanieckiej;4;\N
+2243;64-310;Lwówek;ul. Ratuszowa;2;\N
+2244;64-361;Miedzichowo;ul. Poznańska;12;\N
+2245;64-300;Nowy Tomyśl;ul. Poznańska;33;\N
+2246;64-330;Opalenica;ul. 3 Maja;1;\N
+2247;64-360;Zbąszyń;ul. Porucznika Żwirki;1;\N
+2248;64-600;Oborniki;ul. Marsz. J. Piłsudskiego;76;\N
+2249;64-610;Rogoźno;ul. Nowa;2;\N
+2250;64-630;Ryczywół;ul. Mickiewicza;10;\N
+2251;63-400;Ostrów Wielkopolski;al. Powstańców Wielkopolskich;18;\N
+2252;63-460;Nowe Skalmierzyce;ul. Ostrowska;8;\N
+2253;63-430;Odolanów;Rynek;11;\N
+2254;63-400;Ostrów Wielkopolski;ul. Gimnazjalna;5;\N
+2255;63-421;Przygodzice;Pl. Powstańców Wielkopolskich;2;\N
+2256;63-440;Raszków;Rynek;32;\N
+2257;63-405;Sieroszewice;ul. Ostrowska;65;\N
+2258;63-435;Sośnie;ul. Wielkopolska;47;\N
+2259;63-524;Czajków;Czajków;39;\N
+2260;63-505;Doruchów;ul. Kępińska;13;\N
+2261;63-520;Grabów nad Prosną;ul. Kolejowa;8;\N
+2262;63-507;Kobyla Góra;Plac Wiosny Ludów;1;\N
+2263;63-522;Kraszewice;ul. Wieluńska;53;\N
+2264;63-510;Mikstat;ul. Krakowska;17;\N
+2265;63-500;Ostrzeszów;ul. Zamkowa;31;\N
+2266;64-920;Piła;Pl. Staszica;10;\N
+2267;89-340;Białośliwie;ul. Księdza Kordeckiego 1;1;\N
+2268;64-810;Kaczory;ul. Pilska 1;22;\N
+2269;89-310;Łobżenica;ul. Sikorskiego;7;\N
+2270;89-350;Miasteczko Krajeńskie;ul. Dąbrowskiego;16;\N
+2271;64-930;Szydłowo;Jaraczewo;2;\N
+2272;64-850;Ujście;pl. Wiosny Ludów;2;\N
+2273;89-300;Wyrzysk;ul. Bydgoska;29;\N
+2274;89-320;Wysoka;Plac Powstańców Wielkopolskich;20;21
+2275;63-313;Chocz;Rynek;17;\N
+2276;63-304;Czermin;Czermin;47;\N
+2277;63-330;Dobrzyca;Rynek;14;\N
+2278;63-308;Gizałki;ul. Kaliska;28;\N
+2279;63-322;Gołuchów;ul. Lipowa;1;\N
+2280;63-300;Pleszew;ul. Rynek;1;\N
+2281;62-030;Luboń;Plac Edmunda Bojanowskiego;2;\N
+2282;62-040;Puszczykowo;ul. Podleśna;4;\N
+2283;64-320;Buk;ul. Ratuszowa;1;\N
+2284;62-004;Czerwonak;ul. Źródlana;39;\N
+2285;62-070;Dopiewo;ul. Leśna;1C;\N
+2286;63-005;Kleszczewo;ul. Poznańska;4;\N
+2287;62-052;Komorniki;ul. Stawna;1;\N
+2288;62-025;Kostrzyn;ul. Dworcowa;5;\N
+2289;62-035;Kórnik;pl. Niepodległości;1;\N
+2290;62-050;Mosina;pl. 20 Października;1;\N
+2291;62-095;Murowana Goślina;Plac Powstańców Wielkopolskich;9;\N
+2292;62-010;Pobiedziska;ul. Kościuszki;4;\N
+2293;62-090;Rokietnica;ul. Golęcińska;1;\N
+2294;62-060;Stęszew;ul. Poznańska;11;\N
+2295;62-002;Suchy Las;ul. Szkolna;13;\N
+2296;62-020;Swarzędz;ul. Rynek;1;\N
+2297;62-080;Tarnowo Podgórne;ul. Poznańska;115;\N
+2298;63-940;Bojanowo;Rynek;12;\N
+2299;63-930;Jutrosin;Rynek;26;\N
+2300;63-910;Miejska Górka;Rynek;33;\N
+2301;63-920;Pakosław;ul. Kolejowa;2;\N
+2302;63-900;Rawicz;ul. Marszałka Józefa Piłsudskiego;21;\N
+2303;62-400;Słupca;ul. Pułaskiego;21;\N
+2304;62-406;Lądek;ul. Rynek;26;\N
+2305;62-436;Orchowo;ul. Kościuszki;6;\N
+2306;62-402;Ostrowite;ul. Lipowa;2;\N
+2307;62-430;Powidz;ul. 29 Grudnia;24;\N
+2308;62-400;Słupca;ul. Sienkiewicza;16;\N
+2309;62-420;Strzałkowo;Aleja Prymasa Wyszyńskiego;6;\N
+2310;62-410;Zagórów;ul. Kościelna;4;\N
+2311;64-520;Obrzycko;ul. Rynek;19;\N
+2312;64-550;Duszniki;ul. Sportowa;1;\N
+2313;64-530;Kaźmierz;ul. Szamotulska;20;\N
+2314;64-520;Obrzycko;al.Jana Pawła II;1;\N
+2315;64-560;Ostroróg;ul. Wroniecka;14;\N
+2316;62-045;Pniewy;ul. Dworcowa;37;\N
+2317;64-500;Szamotuły;ul. Dworcowa;26;\N
+2318;64-510;Wronki;ul. Ratuszowa;5;\N
+2319;63-012;Dominowo;ul. Centralna;7;\N
+2320;63-024;Krzykosy;ul. Główna;37;\N
+2321;63-040;Nowe Miasto Nad Wartą;ul. Poznańska;14;\N
+2322;63-000;Środa Wielkopolska;ul. Daszyńskiego;5;\N
+2323;63-020;Zaniemyśl;ul. Średzka;9;\N
+2324;63-112;Brodnica;ul.Parkowa;2;\N
+2325;63-140;Dolsk;Plac Wyzwolenia;4;\N
+2326;63-130;Książ Wielkopolski;ul. Stacha Wichury;11a;\N
+2327;63-100;Śrem;Plac 20 Października;1;\N
+2328;62-700;Turek;ul. Kaliska;59;\N
+2329;62-720;Brudzew;ul.Turkowska;29;\N
+2330;62-730;Dobra;Pl. Wojska Polskiego;10;\N
+2331;62-704;Kawęczyn;Kawęczyn;48;\N
+2332;62-709;Malanów;ul. Turecka;16;\N
+2333;62-731;Przykona;ul. Szkolna;7;\N
+2334;62-740;Tuliszków;pl. Powstańców Styczniowych 1863 r.;1;\N
+2335;62-700;Turek;ul. Ogrodowa;4;\N
+2336;62-710;Władysławów;Rynek;43;\N
+2337;62-100;Wągrowiec;ul. Kościuszki;15 a;\N
+2338;62-110;Damasławek;Rynek;8;\N
+2339;62-130;Gołańcz;ul. Dr. Piotra Kowalika;2;\N
+2340;62-290;Mieścisko;Pl. Powstańców Wielkopolskich;13;\N
+2341;62-085;Skoki;ul. Ciastowicza;11;\N
+2342;62-120;Wapno;ul.Solna;1;3
+2343;62-100;Wągrowiec;ul. Cysterska;22;\N
+2344;64-234;Przemęt;ul. Jagiellońska;8;\N
+2345;64-212;Siedlec;ul.Zbąszyńska;17;\N
+2346;64-200;Wolsztyn;Rynek;1;\N
+2347;62-306;Kołaczkowo;Pl. Reymonta;3;\N
+2348;62-320;Miłosław;ul. Wrzesińska;19;\N
+2349;62-330;Nekla;ul. Dworcowa;10;\N
+2350;62-310;Pyzdry;ul. Taczanowskiego;1;\N
+2351;62-300;Września;ul. Ratuszowa;1;\N
+2352;77-400;Złotów;al. Piasta;1;\N
+2353;64-915;Jastrowie;ul.Gdańska;79;\N
+2354;77-430;Krajenka;ul.Szkolna;17;\N
+2355;77-420;Lipka;ul. Kościuszki;28;\N
+2356;64-965;Okonek;ul. Niepodległości;53;\N
+2357;77-416;Tarnówka;ul. Zwycięstwa;2;\N
+2358;77-424;Zakrzewo;ul. Kujańska;5;\N
+2359;77-400;Złotów;ul. Leśna;7;\N
+2360;62-800;Kalisz;Główny Rynek;20;\N
+2361;62-500;Konin;Plac Wolności;1;\N
+2362;64-100;Leszno;ul. Kazimierza Karasia;15;\N
+2363;61-841;Poznań;Plac Kolegiacki;17;\N
+2364;78-200;Białogard;ul. 1 Maja;18;\N
+2365;78-200;Białogard;ul. Wileńska;8;\N
+2366;78-230;Karlino;ul. Plac Jana Pawła II;6;\N
+2367;78-220;Tychowo;ul. Bobolicka;17;\N
+2368;73-240;Bierzwnik;ul. Kopernika;2;\N
+2369;73-200;Choszczno;ul. Wolności;24;\N
+2370;73-220;Drawno;ul. Kościelna;3;\N
+2371;73-231;Krzęcin;ul.Tylna;7;\N
+2372;73-260;Pełczyce;ul. Rynek Bursztynowy;2;\N
+2373;73-210;Recz;ul. Ratuszowa;17;\N
+2374;78-550;Czaplinek;ul. Rynek;6;\N
+2375;78-500;Drawsko Pomorskie;ul. Gen. Wł. Sikorskiego;41;\N
+2376;78-540;Kalisz Pomorski;ul. Wolności;25;\N
+2377;78-530;Wierzchowo;ul. Długa;29;\N
+2378;78-520;Złocieniec;ul. Stary Rynek;3;\N
+2379;72-100;Goleniów;ul. Plac Lotników;1;\N
+2380;72-130;Maszewo;ul. Pl. Wolności;2;\N
+2381;72-200;Nowogard;ul. Plac Wolności;1;\N
+2382;72-221;Osina;Osina;62;\N
+2383;72-110;Przybiernów;ul.Cisowa;3;\N
+2384;72-112;Stepnica;ul. T. Kościuszki;4;\N
+2385;72-304;Brojce;ul. Długa;48;\N
+2386;72-300;Gryfice;Pl. Zwycięstwa;37;\N
+2387;72-343;Karnice;ul. Nadmorska;7;\N
+2388;72-310;Płoty;ul. Plac Konstytucji 3 Maja;1;\N
+2389;72-344;Rewal;ul. Mickiewicza;19;\N
+2390;72-320;Trzebiatów;ul. Rynek;1;\N
+2391;74-110;Banie;ul. Skośna;6;\N
+2392;74-520;Cedynia;ul. pl. Wolności;1;\N
+2393;74-500;Chojna;ul. Jagiellońska;4;\N
+2394;74-100;Gryfino;ul. 1 maja;16;\N
+2395;74-505;Mieszkowice;ul. Fryderyka Chopina;1;\N
+2396;74-503;Moryń;ul. pl. Wolności;1;\N
+2397;74-106;Stare Czarnowo;ul. Św. Floriana;10;\N
+2398;74-510;Trzcińsko-Zdrój;ul. Rynek;15;\N
+2399;74-120;Widuchowa;ul. Grunwaldzka;8;\N
+2400;72-420;Dziwnów;ul. Szosowa;5;\N
+2401;72-410;Golczewo;ul. Zwycięstwa;23;\N
+2402;72-400;Kamień Pomorski;ul. Stary Rynek;1;\N
+2403;72-500;Międzyzdroje;ul. Plac Ratuszowy;1;\N
+2404;72-405;Świerzno;ul. Długa;8;\N
+2405;72-510;Wolin;ul. Zamkowa;23;\N
+2406;78-100;Kołobrzeg;ul. Ratuszowa;13;\N
+2407;78-113;Dygowo;ul. Kolejowa;1;\N
+2408;78-120;Gościno;ul. IV Dywizji Wojska Polskiego;58;\N
+2409;78-100;Kołobrzeg;ul. Trzebiatowska;48a;\N
+2410;78-125;Rymań;ul. Szkolna;7;\N
+2411;78-123;Siemyśl;ul. Kołobrzeska;14;\N
+2412;78-111;Ustronie Morskie;ul. Rolna;2;\N
+2413;76-037;Będzino;Będzino;19;\N
+2414;76-039;Biesiekierz;Biesiekierz;103;\N
+2415;76-020;Bobolice;ul. Ratuszowa;1;\N
+2416;76-015;Manowo;ul. Szkolna;2;\N
+2417;76-032;Mielno;ul. Bolesława Chrobrego;10;\N
+2418;76-010;Polanów;ul. Wolności;4;\N
+2419;76-004;Sianów;ul. Armii Polskiej;30;\N
+2420;76-024;Świeszyno;Świeszyno;71;\N
+2421;74-320;Barlinek;ul. Niepodległości;20;\N
+2422;74-407;Boleszkowice;ul. Słoneczna;24;\N
+2423;74-400;Dębno;ul. M. J. Piłsudskiego;5;\N
+2424;74-300;Myślibórz;ul. Rynek im. Jana Pawła II;1;\N
+2425;74-304;Nowogródek Pomorski;ul. Adama Mickiewicza;15;\N
+2426;72-003;Dobra;ul. Szczecińska;16A;\N
+2427;72-001;Kołbaskowo;Kołbaskowo;106;\N
+2428;72-022;Nowe Warpno;pl. Zwycięstwa;1;\N
+2429;72-010;Police;ul. Stefana Batorego;3;\N
+2430;74-202;Bielice;ul. Niepokalanej;34;\N
+2431;74-204;Kozielice;Kozielice;73;\N
+2432;74-240;Lipiany;ul. Plac Wolności;1;\N
+2433;74-210;Przelewice;Przelewice;75;\N
+2434;74-200;Pyrzyce;Plac Ratuszowy;1;\N
+2435;74-201;Warnice;Warnice;66;\N
+2436;76-150;Darłowo;ul. Plac Tadeusza Kościuszki;9;\N
+2437;76-100;Sławno;ul. M. C. Skłodowskiej;9;\N
+2438;76-150;Darłowo;ul. Dąbrowskiego;4;\N
+2439;76-142;Malechowo;Malechowo;22A;\N
+2440;76-113;Postomino;Postomino;30;\N
+2441;76-100;Sławno;ul. I Pułku Ulanów;11;\N
+2442;73-110;Stargard;ul. Hetmana Stefana Czarnieckiego;17;\N
+2443;73-120;Chociwel;ul. Armii Krajowej;52;\N
+2444;73-130;Dobrzany;ul. Staszica;1;\N
+2445;73-115;Dolice;ul. Ogrodowa;16;\N
+2446;73-140;Ińsko;ul. Bohaterów Warszawy;38;\N
+2447;73-108;Kobylanka;ul. Szkolna;12;\N
+2448;73-121;Marianowo;ul. Mieszka I;1;\N
+2449;73-112;Stara Dąbrowa;Stara Dąbrowa;20;\N
+2450;73-110;Stargard;ul. Rynek Staromiejski;5;\N
+2451;73-132;Suchań;ul. Pomorska;72;\N
+2452;78-400;Szczecinek;ul. pl. Wolności;13;\N
+2453;78-460;Barwice;ul. Zwycięzców;22;\N
+2454;78-425;Biały Bór;ul. Słupska;10;\N
+2455;78-449;Borne Sulinowo;ul. al. Niepodległości;6;\N
+2456;78-450;Grzmiąca;ul. 1 Maja;7;\N
+2457;78-400;Szczecinek;ul. Pilska;3;\N
+2458;78-300;Świdwin;ul. pl. Konstytucji 3-go Maja;1;\N
+2459;78-316;Brzeżno;Brzeżno;50;\N
+2460;78-320;Połczyn-Zdrój;ul. pl. Wolności;3;4
+2461;78-331;Rąbino;Rąbino;27;\N
+2462;78-314;Sławoborze;ul. Kolejowa;8;\N
+2463;78-300;Świdwin;ul. pl. Konstytucji 3 Maja;1;\N
+2464;78-600;Wałcz;ul. Plac Wolności;1;\N
+2465;78-630;Człopa;ul. Strzelecka;2;\N
+2466;78-650;Miroslawiec;ul. pl. Wolności;37;\N
+2467;78-640;Tuczno;ul. Wolności;6;\N
+2468;78-600;Wałcz;ul. Dąbrowskiego;8;\N
+2469;72-210;Dobra;ul. Rynek;1;\N
+2470;73-150;Łobez;ul. Niepodległości;13;\N
+2471;72-314;Radowo Małe;Radowo Małe;21;\N
+2472;72-315;Resko;ul. Rynek;1;\N
+2473;73-155;Węgorzyno;ul. Rynek;1;\N
+2474;75-007;Koszalin;ul. Rynek Staromiejski;6;7
+2475;70-456;Szczecin;ul. pl. Armii Krajowej;1;\N
+2476;72-600;Świnoujście;ul. Wojska Polskiego;1;5
+2477;33-240;Żabno;Władysława Jagiełły;1;\N
+2545;24-300;Opole Lubelskie;ul. Lubelska;4;\N
+2546;21-200;Parczew;ul. Warszawska;24;\N
+2547;24-100;Puławy;Al. Królewska;19;\N
+2548;21-300;Radzyń Podlaski;pl. I. Potockiego;1;\N
+2549;08-500;Ryki;ul. Wyczółkowskiego;10A;\N
+2550;21-040;Świdnik;ul. Niepodległości;13;\N
+2551;22-600;Tomaszów Lubelski;ul. Lwowska;68;\N
+2552;22-200;Włodawa;Al.J.Piłsudskiego;24;\N
+2553;22-400;Zamość;ul. Przemysłowa;4;\N
+2554;22-400;Zamość;Rynek Wielki;13;\N
+2555;66-400;Gorzów Wlkp.;ul. J. Pankiewicza;05.lip;\N
+2556;66-400;Gorzów Wielkopolski;ul. Sikorskiego;3;4
+2557;66-600;Krosno Odrzańskie;ul. Piastów;10B;\N
+2558;66-300;Międzyrzecz;ul. Przemysłowa;2;\N
+2559;67-100;Nowa Sól;ul. Moniuszki;3b;\N
+2560;69-100;Słubice;ul. Piłsudskiego;20;\N
+2561;66-500;Strzelce Krajeńskie;ul. Ks. St. Wyszyńskiego;7;\N
+2562;69-200;Sulęcin;ul. Lipowa;18a;\N
+2563;66-200;Świebodzin;ul. Kolejowa;2;\N
+2564;67-400;Wschowa;Plac Kosynierów;1c;\N
+2565;65-424;Zielona Góra;ul. Podgórna;22;\N
+2566;65-057;Zielona Góra;ul. Podgórna;5;\N
+2567;68-100;Żagań;ul. Dworcowa;39;\N
+2568;68-200;Żary;Aleja Jana Pawła II;5;\N
+2569;97-400;Bełchatów;ul. Pabianicka;17;19
+2570;95-060;Brzeziny;ul. Sienkiewicza;16;\N
+2571;99-300;Kutno;ul. Kościuszki;16;\N
+2572;98-100;Łask;ul. Południowa;1;\N
+2573;99-100;Łęczyca;Pl. Tadeusza Kościuszki;1;\N
+2574;99-400;Łowicz;ul. Stanisławskiego;30;\N
+2575;90-113;Łodź;ul. Sienkiewicza;3;\N
+2576;90-926;Łódź;ul. Piotrkowska;104;\N
+2577;26-300;Opoczno;ul. Kwiatowa;1a;\N
+2578;95-200;Pabianice;ul. Piłsudskiego;2;\N
+2579;98-330;Pajęczno;ul. Kościuszki;76;\N
+2580;97-300;Piotrków Trybunalski;ul. Dąbrowskiego 7;;\N
+2581;97-300;Piotrków Trybunalski;ul. Pasaż Karola Rudowskiego;10;\N
+2582;99-200;Poddębice;ul. Łęczycka;16;\N
+2583;97-500;Radomsko;ul. Leszka Czarnego;22;\N
+2584;96-200;Rawa Mazowiecka;Pl. Wolności;1;\N
+2585;98-200;Sieradz;Plac Wojewódzki;3;\N
+2586;96-100;Skierniewice;ul. Rynek;1;\N
+2587;96-100;Skierniewice;ul. Konstytucji 3 Maja;6;\N
+2588;97-200;Tomaszów Mazowiecki;ul. Św. Antoniego;41;\N
+2589;98-300;Wieluń;Plac Kazimierza Wielkiego;2;\N
+2590;98-400;Wieruszów;ul. Rynek;1;7
+2591;98-220;Zduńska Wola;ul.  S.Złotnickiego;25;\N
+2592;95-100;Zgierz;ul. Sadowa;6a;\N
+2593;32-700;Bochnia;Kazimierza Wielkiego;31;\N
+2594;32-800;Brzesko;ul. Głowackiego;51;\N
+2595;32-500;Chrzanów;Partyzantów;2;\N
+2596;33-200;Dąbrowa Tarnowska;Berka Joselewicza;5;\N
+2597;38-300;Gorlice;Biecka;3;\N
+2598;30-037;Kraków;al. Słowackiego;20;\N
+2599;31-004;Kraków;pl. Wszystkich Świętych;3;4
+2600;34-600;Limanowa;ul. Józefa Marka;9;\N
+2601;32-200;Miechów;ul. Racławicka;12;\N
+2602;32-400;Myślenice;M. Reja;13;\N
+2603;33-343;Nowy Sącz;ul. Jagiellońska;33;\N
+2604;34-400;Nowy Targ;ul. Bolesława Wstydliwego;14;\N
+2605;33-300;Nowy Sącz;Rynek;1;\N
+2606;32-300;Olkusz;Mickiewicza;2;\N
+2607;32-602;Oświęcim;ul. St. Wyspiańskiego;10;\N
+2608;32-100;Proszowice;ul. 3 Maja;72;\N
+2609;34-200;Sucha Beskidzka;Kościelna;5B;\N
+2610;33-100;Tarnów;Narutowicza;38;\N
+2611;33-100;Tarnów;ul. Adama Mickiewicza;2;\N
+2612;34-500;Zakopane;ul. Chramcówki;15;\N
+2613;34-100;Wadowice;ul. Batorego;2;\N
+2614;32-020;Wieliczka;Rynek Górny;2;\N
+2615;26-800;Białobrzegi;Pl. Zygmunta Starego;9;\N
+2616;06-400;Ciechanów;ul. 17 Stycznia;7;\N
+2617;08-400;Garwolin;ul. Staszica;15;\N
+2618;09-500;Gostynin;ul. Dmowskiego;13;\N
+2619;05-825;Grodzisk Mazowiecki;ul. Kościuszki;30;\N
+2620;05-600;Grójec;ul. Piłsudskiego;59;\N
+2621;26-900;Kozienice;ul. Kochanowskiego;28;\N
+2622;05-119;Legionowo;ul. Gen. Sikorskiego;11;\N
+2623;27-300;Lipsko;ul. Rynek;1;\N
+2624;08-200;Łosice;ul.Narutowicza;6;\N
+2625;06-200;Maków Mazowiecki;ul. Rynek;1;\N
+2626;05-300;Mińsk Mazowiecki;ul. Kościuszki;3;\N
+2627;06-500;Mława;ul. Reymonta;6;\N
+2628;05-100;Nowy Dwór Mazowiecki;ul. Paderewskiego;1B;\N
+2629;07-410;Ostrołęka;Pl.Gen.Józefa Bema;5;\N
+2630;07-410;Ostrołęka;Plac Gen. J. Bema;1;\N
+2631;07-300;Ostrów Mazowiecka;ul. 3 Maja;68;\N
+2632;05-400;Otwock;ul. Górna;13;\N
+2633;05-500;Piaseczno;ul. Chyliczkowska;14;\N
+2634;09-400;Płock;Stary Rynek;1;\N
+2635;09-400;Płock;ul. Bielska;59;\N
+2636;09-100;Płońsk;ul. Płocka;39;\N
+2637;05-800;Pruszków;ul.Drzymały;30;\N
+2638;06-300;Przasnysz;ul. Św. St. Kostki;5;\N
+2639;26-400;Przysucha;Al. Jana Pawła II;10;\N
+2640;06-100;Pułtusk;ul. Marii Skłodowskiej-Curie;11;\N
+2641;26-600;Radom;ul. Jana Kilińskiego;30;\N
+2642;26-600;Radom;ul. Domagalskiego;7;\N
+2643;08-110;Siedlce;Skwer Niepodległości;2;\N
+2644;08-110;Siedlce;ul. Piłsudskiego;40;\N
+2645;09-200;Sierpc;ul. Świętokrzyska;2a;\N
+2646;96-500;Sochaczew;ul. Marsz. J. Piłsudskiego;65;\N
+2647;08-300;Sokołów Podlaski;ul. Wolności;23;\N
+2648;26-500;Szydłowiec;pl. M. Konopnickiej;7;\N
+2649;00-950;Warszawa;Pl. Bankowy;3;5
+2650;05-850;Ożarów Mazowiecki;ul. Poznańska;129;133
+2651;07-100;Węgrów;ul. Przemysłowa;5;\N
+2652;05-200;Wołomin;ul. Prądzyńskiego;3;\N
+2653;07-200;Wyszków;Al. Róż;2;\N
+2654;26-700;Zwoleń;ul. Władysława Jagiełły;4;\N
+2655;09-300;Żuromin;Pl. Piłsudskiego;4;\N
+2656;96-300;Żyrardów;ul. Limanowskiego;45;\N
+2657;49-300;Brzeg;ul. Robotnicza;20;\N
+2658;48-100;Głubczyce;ul. Kochanowskiego;15;\N
+2659;47-220;Kędzierzyn Koźle;Plac Wolności;13;\N
+2660;46-200;Kluczbork;ul. Katowicka;1;\N
+2661;47-303;Krapkowice;ul. Kilińskiego;1;\N
+2662;46-100;Namysłów;Plac Wolności;12a;\N
+2663;48-300;Nysa;ul. Piastowska;33;\N
+2664;46-300;Olesno;ul. Pieloka;21;\N
+2665;45-015;Opole;Rynek Ratusz;;\N
+2666;45-068;Opole;ul. 1 Maja;29;\N
+2667;48-200;Prudnik;ul. T. Kościuszki;76;\N
+2668;47-100;Strzelce Opolskie;ul. Jordanowska;2;\N
+2669;38-700;Ustrzyki Dolne;ul. Bełska;22;\N
+2670;36-200;Brzozów;ul. Armii Krajowej;1;\N
+2671;39-200;Dębica;ul.Parkowa;28;\N
+2672;37-500;Jarosław;ul. Jana Pawła II;17;\N
+2673;38-200;Jasło;Rynek;18;\N
+2674;36-100;Kolbuszowa;ul. 11-go Listopada;10;\N
+2675;38-400;Krosno;ul. Lwowska;28a;\N
+2676;38-400;Krosno;ul. Bieszczadzka;1;\N
+2677;38-600;Lesko;Rynek;1;\N
+2678;37-300;Leżajsk;ul. Kopernika;8;\N
+2679;37-600;Lubaczów;ul. Jasna;1;\N
+2680;37-100;Łańcut;ul. Mickiewicza;2;\N
+2681;39-300;Mielec;ul. Wyspiańskiego;6;\N
+2682;37-400;Nisko;Plac Wolności;2;\N
+2683;37-700;Przemyśl;Plac Dominikański;3;\N
+2684;37-700;Przemyśl;Rynek;1;\N
+2685;37-200;Przeworsk;ul. Jagiellońska;10;\N
+2686;39-100;Ropczyce;ul. Konopnickiej;5;\N
+2687;35-959;Rzeszów;ul. Grunwaldzka;15;\N
+2688;35-064;Rzeszów;Rynek;1;\N
+2689;38-500;Sanok;Rynek;1;\N
+2690;37-450;Stalowa Wola;ul. Podleśna;15;\N
+2691;38-100;Strzyżów;ul. Przecławczyka;15;\N
+2692;39-400;Tarnobrzeg;ul. Kościuszki;32;\N
+2693;39-400;Tarnobrzeg;ul. 1 Maja;4;\N
+2694;16-300;Augustów;ul. 3 Maja;29;\N
+2695;15-569;Białystok;ul. Borsucza;2;\N
+2696;15-950;Białystok;ul. Słonimska;1;\N
+2697;17-100;Bielsk Podlaski;ul. Adama Mickiewicza;46;\N
+2698;19-200;Grajewo;ul. Strażacka;6b;\N
+2699;17-200;Hajnówka;ul. Aleksego Zina;1;\N
+2700;18-500;Kolno;ul. 11-go Listopada;1;\N
+2701;18-400;Łomża;ul. Stary Rynek;14;\N
+2702;18-400;Łomża;ul. Szosa Zambrowska;1;27
+2703;19-100;Mońki;ul. Słowackiego;5a;\N
+2704;16-500;Sejny;ul. 1 Maja;1;\N
+2705;17-300;Siemiatycze;ul. Leg. Piłsudskiego;3;\N
+2706;16-100;Sokółka;ul. Marszałka J. Piłsudskiego;8;\N
+2707;16-400;Suwałki;ul. Świerkowa;60;\N
+2708;16-400;Suwałki;ul. Mickiewicza;1;\N
+2709;18-200;Wysokie Mazowieckie;ul. Ludowa;15A;\N
+2710;18-300;Zambrów;ul. Fabryczna;3;\N
+2711;77-100;Bytów;ul. Ks. dr. B. Domańskiego;2;\N
+2712;89-600;Chojnice;ul. 31 Stycznia;56;\N
+2713;77-300;Człuchów;ul. Wojska Polskiego;1;\N
+2714;80-803;Gdańsk;ul. Nowe Ogrody;8;12
+2715;83-000;Pruszcz Gdański;ul. Wojska Polskiego;16;\N
+2716;81-382;Gdynia;Al. Piłsudskiego;52;54
+2717;83-300;Kartuzy;ul. Dworcowa;1;\N
+2718;83-400;Kościerzyna;ul. 3 Maja;9c;\N
+2719;82-500;Kwidzyn;ul. Kościuszki;29b;\N
+2720;84-300;Lębork;ul. Czołgistów;5;\N
+2721;82-200;Malbork;Plac Słowiański;17;\N
+2722;82-100;Nowy Dwór Gdański;ul. Sikorskiego;23;\N
+2723;84-100;Puck;ul. E. Orzeszkowej;5;\N
+2724;76-200;Słupsk;Pl. Zwycięstwa;3;\N
+2725;76-200;Słupsk;ul. Szarych Szeregów;14;\N
+2726;81-704;Sopot;ul. Kościuszki;25;27
+2727;83-200;Starogard Gdański;ul. Kościuszki;17;\N
+2728;82-400;Sztum;ul. Mickiewicza;31;\N
+2729;83-110;Tczew;ul. Piaskowa;2;\N
+2730;84-200;Wejherowo;ul. 3 Maja;4;\N
+2731;42-500;Będzin;ul. Jana Sączewskiego;6;\N
+2732;43-300;Bielsko-Biała;ul. Piastowska;40;\N
+2733;43-300;Bielsko-Biała;pl. Ratuszowy;1;\N
+2734;43-155;Bieruń;ul.św.Kingi;1;\N
+2735;41-902;Bytom;ul. Parkowa;2;\N
+2736;41-500;Chorzów;ul. Rynek;1;\N
+2737;43-400;Cieszyn;ul. Bobrecka;29;\N
+2738;42-217;Częstochowa;ul. Śląska;11;13
+2739;42-217;Częstochowa;ul. Jana III Sobieskiego;9;\N
+2740;41-300;Dąbrowa Górnicza;ul. Graniczna;21;\N
+2741;44-100;Gliwice;ul. Zwycięstwa;21;\N
+2742;44-100;Gliwice;ul. Zygmunta Starego;17;\N
+2743;44-335;Jastrzębie-Zdrój;Al. Piłsudskiego;60;\N
+2744;43-600;Jaworzno;ul. Grunwaldzka;33;\N
+2745;40-098;Katowice;ul. Młyńska;4;\N
+2746;42-100;Kłobuck;ul. Rynek im. Jana Pawła II;13;\N
+2747;42-700;Lubliniec;ul. Paderewskiego;7;\N
+2748;43-190;Mikołów;ul. Żwirki i Wigury;4a;\N
+2749;41-400;Mysłowice;ul. Powstańców;1;\N
+2750;42-300;Myszków;ul. Pułaskiego;6;\N
+2751;41-940;Piekary Śląskie;ul. Bytomska;84;\N
+2752;43-200;Pszczyna;ul. 3 Maja;10;\N
+2753;47-400;Racibórz;Plac Stefana Okrzei;4;\N
+2754;41-709;Ruda Śląska;Pl. Jana Pawła II;6;\N
+2755;44-200;Rybnik;ul. 3 Maja;31;\N
+2756;44-200;Rybnik;ul. Bolesława Chrobrego;2;\N
+2757;41-100;Siemianowice Śląskie;ul. Jana Pawła II;10;\N
+2758;41-200;Sosnowiec;Al. Zwycięstwa;20;\N
+2759;41-600;Świętochłowice;ul. Katowicka;54;\N
+2760;42-600;Tarnowskie Góry;ul. Karłuszowiec;5;\N
+2761;43-100;Tychy;al. Niepodległości;49;\N
+2762;44-300;Wodzisław Śląski;ul. Bogumińska;2;\N
+2763;41-800;Zabrze;ul. Powstańców Śląskich;05.lip;\N
+2764;42-400;Zawiercie;ul. Sienkiewicza;34;\N
+2765;44-240;Żory;Al. Wojska Polskiego;25;\N
+2766;34-300;Żywiec;ul. Krasińskiego;13;\N
+2767;28-100;Busko-Zdrój;ul. Mickiewicza;15;\N
+2768;28-300;Jedrzejów;ul. 11 Listopada;83;\N
+2769;28-500;Kazimierza Wielka;ul. Kościuszki;12;\N
+2770;25-303;Kielce;Rynek;1;\N
+2771;25-516;Kielce;ul. Wrzosowa;44;\N
+2772;26-200;Końskie;ul. Stanisława Staszica;2;\N
+2773;27-500;Opatów;ul. Sienkiewicza;17;\N
+2774;27-400;Ostrowiec Świętokrzyski;ul. Iłżecka;37;\N
+2775;28-400;Pińczów;ul. Zacisze;5;\N
+2776;27-600;Sandomierz;ul. Mickiewicza;34;\N
+2777;26-110;Skarżysko – Kamienna;ul. Konarskiego;20;\N
+2778;27-200;Starachowice;ul. Dr Władysława Borkowskiego;4;\N
+2779;28-200;Staszów;ul. Józefa Piłsudskiego;7;\N
+2780;29-100;Włoszczowa;ul. Wiśniowa;10;\N
+2781;11-200;Bartoszyce;ul. Grota Roweckiego;1;\N
+2782;14-500;Braniewo;Plac Piłsudskiego;2;\N
+2783;13-200;Działdowo;ul. Kościuszki;3;\N
+2784;82-300;Elbląg;ul. Łączności;1;\N
+2785;19-300;Ełk;ul. Marszałka J. Piłsudskiego;4;\N
+2786;11-500;Giżycko;ul.1 Maja;14;\N
+2787;19-500;Gołdap;ul. Krótka;1;\N
+2788;14-200;Iława;ul. Andersa;2a;\N
+2789;11-400;Kętrzyn;Plac Grunwaldzki;1;\N
+2790;11-100;Lidzbark Warmiński;ul. Wyszyńskiego;37;\N
+2791;11-700;Mrągowo;ul. Królewiecka;60A;\N
+2792;13-100;Nidzica;ul. Traugutta;23;\N
+2793;13-300;Nowe Miasto Lubawskie;Rynek;1;\N
+2794;19-400;Olecko;ul. Kolejowa;32;\N
+2795;10-101;Olsztyn;Pl.Jana Pawła II;1;\N
+2796;10-516;Olsztyn;Plac Bema;5;\N
+2797;14-100;Ostróda;ul. Jana III Sobieskiego;5;\N
+2798;12-200;Pisz;ul.Warszawska;1;\N
+2799;12-100;Szczytno;ul. Sienkiewicza;1;\N
+2800;11-600;Węgorzewo;ul. 3 Maja;17b;\N
+2801;82-300;Elbląg;ul. Saperów;14A;\N
+2802;64-800;Chodzież;ul. Wiosny Ludów;1;\N
+2803;64-700;Czarnków;ul. Rybaki;3;\N
+2804;62-200;Gniezno;ul. Jana Pawła II;9;10
+2805;63-800;Gostyń;ul. Wrocławska;256;\N
+2806;62-065;Grodzisk Wielkopolski;ul. Żwirki i Wigury;1;\N
+2807;63-200;Jarocin;Al. Niepodległości;10;12
+2808;62-800;Kalisz;Pl. Św. Józefa;5;\N
+2809;62-800;Kalisz;Główny Rynek;20;\N
+2810;63-600;Kępno;ul. Kościuszki;5;\N
+2811;62-500;Konin;Plac Wolności;1;\N
+2812;62-510;Konin;ul. Aleja 1 Maja;9;\N
+2813;64-000;Kościan;Al. Kościuszki;22;\N
+2814;63-700;Krotoszyn;ul. 56 Pułku Piechoty Wlkp;10;\N
+2815;64-100;Leszno;Plac Kościuszki;4b;\N
+2816;64-100;Leszno;ul. Kazimierza Karasia;15;\N
+2817;64-400;Międzychód;ul. 17 Stycznia;143;\N
+2818;64-300;Nowy Tomyśl;ul. Poznańska;33;\N
+2819;64-600;Oborniki;ul. 11 Listopada;2a;\N
+2820;63-400;Ostrów Wielkopolski;Aleja Powstańców Wielkopolskich;16;\N
+2821;63-500;Ostrzeszów;ul. Zamkowa;31;\N
+2822;64-920;Piła;Aleja Niepodległości;33;35
+2823;63-300;Pleszew;ul. Poznańska;79;\N
+2824;61-841;Poznań;Plac Kolegiacki;17;\N
+2825;60-509;Poznań;ul. Jackowskiego;18;\N
+2826;63-900;Rawicz;Rynek;17;\N
+2827;62-400;Słupca;ul. Poznańska;20;\N
+2828;64-500;Szamotuły;ul. Wojska Polskiego;4;\N
+2829;63-000;Środa Wielkopolska;ul. Daszyńskiego;5;\N
+2830;63-100;Śrem;ul. Mickiewicza;17;\N
+2831;62-700;Turek;ul. Kaliska;59;\N
+2832;62-100;Wągrowiec;ul. Kościuszki;15;\N
+2833;64-200;Wolsztyn;ul. 5 Stycznia;5;\N
+2834;62-300;Września;ul. Chopina;10;\N
+2835;77-400;Złotów;Al. Piasta;32;\N
+2836;62-600;Koło;ul. Sienkiewicza;21;23
+2837;78-200;Białograd;ul. Plac Wolności;16;\N
+2838;73-200;Choszczno;ul. Nadbrzeżna;2;\N
+2839;78-500;Drawsko Pomorskie;ul. Plac Elizy Orzeszkowej;3;\N
+2840;72-100;Goleniów;ul. Dworcowa;1;\N
+2841;72-300;Gryfice;Pl. Zwycięstwa;37;\N
+2842;74-100;Gryfino;ul. Sprzymierzonych;4;\N
+2843;72-400;Kamień Pomorski;ul. Wolińska;7b;\N
+2844;78-100;Kołobrzeg;ul. pl. Ratuszowy;1;\N
+2845;75-007;Koszalin;ul. Rynek Staromiejski;6;7
+2846;75-620;Koszalin;ul. Racławicka;13;\N
+2847;73-150;Łobez;ul. Konopnickiej;41;\N
+2848;74-300;Myślibórz;ul. Północna;15;\N
+2849;72-010;Police;ul. Tanowska;8;\N
+2850;74-200;Pyrzyce;ul. Lipiańska;4;\N
+2851;76-100;Sławno;ul. Sempołowskiej;2a;\N
+2852;73-110;Stargard;ul. Skarbowa;1;\N
+2853;70-456;Szczecin;ul. pl. Armii Krajowej;1;\N
+2854;78-400;Szczecinek;ul. Warcisława IV;16;\N
+2855;78-300;Świdwin;ul. Mieszka I;16;\N
+2856;72-600;Świnoujście;ul. Wojska Polskiego;1;5
+2857;78-600;Wałcz;ul. Dąbrowskiego;17;\N
+2858;50-411;Wrocław;Wybrzeże Juliusza Słowackiego;gru.14;\N
+2859;87-100;Toruń;Pl. Teatralny;2;\N
+2860;20-029;Lublin;ul. Artura Grottgera;4;\N
+2861;65-057;Zielona Góra;ul. Podgórna;7;\N
+2862;90-051;Łodź;Al. Piłsudskiego;8;\N
+2863;31-156;Kraków;Basztowa;22;\N
+2864;03-719;Warszawa;ul. Jagiellońska;26;\N
+2865;45-082;Opole;ul. Piastowska;14;\N
+2866;35-010;Rzeszów;al. Łukasza Cieplińskiego;4;\N
+2867;15-888;Białystok;ul. Kardynała Stefana Wyszyńskiego;1;\N
+2868;80-810;Gdańsk;ul. Okopowa;21;27
+2869;40-037;Katowice;ul. Ligonia;46;\N
+2870;25-516;Kielce;Aleja IX Wieków Kielc;3;\N
+2871;10-562;Olsztyn;ul. Emilii Plater;1;\N
+2872;61-714;Poznań;Al. Niepodległości;34;\N
+2873;70-421;Szczecin;ul. Marszałka Józefa Piłsudskiego;40;\N
+2883;15-888;Białystok;Adama Mickiewicza;3;\N
+2875;85-950;Bydgoszcz;ul. Jagiellońska;3;\N
+2874;50-411;Wrocław;pl. Powstańców Warszawy;1;\N
+2878;90-051;Łódź;ul. Piotrkowska;104;\N
+2877;66-400;Gorzów Wlkp.;ul. Jagiellończyka;8;\N
+2876;20-029;Lublin;ul. Spokojna;4;\N
+2887;10-562;Olsztyn;al. Marsz. J. Piłsudskiego;07.wrz;\N
+2888;61-714;Poznań;al. Niepodległości;16;18
+2882;35-010;Rzeszów;Grunwaldzka;15;\N
+2885;40-037;Katowice;ul. Jagiellońska;25;\N
+2880;03-719;Warszawa;plac Bankowy;03.maj;\N
+2889;70-421;Szczecin;ul. Wały Chrobrego;4;\N
