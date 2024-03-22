@@ -10,3 +10,6 @@ In this repository, you will find an SQL script and CSV files for creating datab
 * Create a new database in PostgreSQL.
 * Run the script in the newly created PostgreSQL database.
 * Your database is now set up. Next, you need to provide the proper connection string in the YAML file in the Spring Boot back-end app: [GitHub Repository](https://github.com/LUKIS123/BD2-PWR-AdministrativeDivisionOfPoland).
+
+## Database ERD diagram
+![ERD Diagram](https://github.com/KuchnowskiP/Database-For-Administrative-Division-Of-Poland/blob/main/DatabaseDiagram.png)
