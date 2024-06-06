@@ -1677,7 +1677,7 @@ DO $$
 DECLARE
     path_to_files VARCHAR;
 BEGIN
-    path_to_files := 'C:\database\';
+    path_to_files := '/data/';
 	
 --
 -- Data for Name: administratorzy; Type: TABLE DATA; Schema: public; Owner: postgres
@@ -2462,6 +2462,9 @@ ALTER TABLE ONLY public.siedziby_gmin
 ALTER TABLE ONLY public.siedziby_powiatow
     ADD CONSTRAINT fksiedziby_p738880 FOREIGN KEY (id_adresu_siedziby) REFERENCES public.adresy_siedzib(id_adresu_siedziby);
 
+CREATE ROLE basic_user;
+CREATE ROLE office_admin;
+CREATE ROLE super_admin;
 
 --
 -- Name: PROCEDURE dodajgmine(IN id_rodzaju_gminy_in integer, IN id_powiatu_in integer, IN nazwa_gminy_in character varying, IN liczba_ludnosci_in integer, IN powierzchnia_in numeric, IN kod_teryt_in character varying, IN miejscowosc_siedziby_in character varying, IN kod_pocztowy_in character varying, IN miejscowosc_in character varying, IN ulica_in character varying, IN numer_budynku_in character varying, IN numer_lokalu_in character varying); Type: ACL; Schema: public; Owner: postgres
